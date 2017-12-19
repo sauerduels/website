@@ -5,4 +5,4 @@ permalink: /test/
 index: 8
 ---
 
-## Test page
+## Test page 2
