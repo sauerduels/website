@@ -1,0 +1,75 @@
+---
+layout: page
+title: Hall of Fame
+permalink: /hof/
+index: 5
+hof:
+  - category: Efficiency
+    members:
+      - name: Lokio
+        country: us
+        golden: 1
+      - name: starch
+        country: us
+        golden: 1
+      - name: hades
+        country: us
+        silver: 1
+      - name: Partizan
+        country: rs
+        silver: 1
+      - name: Alluro
+        country: de
+        bronze: 1
+      - name: Lagout
+        country: fr
+        bronze: 1
+  - category: FFA
+    members:
+      - name: Redon
+        country: nl
+        golden: 2
+      - name: Honzik1
+        country: cz
+        silver: 2
+      - name: Lokio
+        country: us
+        bronze: 2
+  - category: Insta
+    members:
+      - name: Gangler
+        country: de
+        golden: 1
+      - name: Rexus
+        country: gb
+        silver: 1
+      - name: Partizan
+        country: rs
+        bronze: 1
+---
+<table style="text-align: center; table-layout: fixed;">
+  <thead>
+    <tr>
+      {% for item in page.hof %}
+        <th>{{ item.category }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody style="font-size: 1.1em;">
+    <tr>
+      {% for item in page.hof %}
+        <td>
+          {% for member in item.members %}
+            <p>
+              {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{member.country}}.png" />{% endif %}
+              {{ member.name }}
+              {% for star in (1..member.golden) %}<span class="golden star">★</span>{% endfor %}
+              {% for star in (1..member.silver) %}<span class="silver star">★</span>{% endfor %}
+              {% for star in (1..member.bronze) %}<span class="bronze star">★</span>{% endfor %}
+            </p>
+          {% endfor %}
+        </td>
+      {% endfor %}
+    </tr>
+  </tbody>
+</table>

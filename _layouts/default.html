@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper" style="margin-bottom: 2em; padding-top: 1em; padding-bottom: 1em;">
+        {% include infobar.html %}
+      </div>
+      
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="{{ "/assets/scripts.js" | relative_url }}"></script>
+  </body>
+
+</html>

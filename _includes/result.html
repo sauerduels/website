@@ -1,0 +1,44 @@
+{% if event.finals %}
+  <h3>Finals:</h3>
+  {{ event.finals.result }}<br />
+  {% for game in event.finals.games %}
+    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+  {% endfor %}
+  <br />
+{% endif %}
+{% if event.semis %}
+  <h3>Semi-finals:</h3>
+  {{ event.semis.result }}<br />
+  {% for game in event.semis.games %}
+    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+  {% endfor %}
+  <br />
+{% endif %}
+{% for group in event.groups %}
+  <h3>Group {{ group[0] | upcase }}:</h3>
+  <table style="text-align: center;">
+    <thead>
+      <tr>
+        {% for group in group[1] %}
+          <th>Round {{ forloop.index }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        {% for round in group[1] %}
+          <td>
+            {% for game in round %}
+              {{ game.result }}<br />
+              {% if game.slug %}
+                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br /><br />
+              {% else %}
+                (forfeit)<br /><br />
+              {% endif %}
+            {% endfor %}
+          </td>
+        {% endfor %}
+      </tr>
+    </tbody>
+  </table>
+{% endfor %}
