@@ -1,0 +1,34 @@
+<div>
+  <strong>Next event:</strong>
+  {% assign events = site.events | sort: 'index' %}
+  {% for event in events %}
+    {% if event.completed != true %}
+      {% assign day = event.date | date: "%-d"  %}
+      {% case day %}
+        {% when '1' or '21' or '31' %}{% assign ord = "st" %}
+        {% when '2' or '22' %}{% assign ord = "nd" %}
+        {% when '3' or '23' %}{% assign ord = "rd" %}
+        {% else %}{% assign ord = "th" %}
+      {% endcase %}
+  {{ event.title }} @ <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=SauerDuels+%23{{ event.index }}%3A+{{ event.title | cgi_escape }}&iso={{ event.date | date: "%Y%m%dT%H%M" }}&p1=83&ah=3">{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ", %-I:%M %p (%Z)" }}</a> || <a href="{{ event.signupurl }}">Sign Up</a> || <a href="{{ event.bracketurl }}">Bracket</a>
+      {% break %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div style="margin-top: 0.5em;">
+  <strong>Current titleholders:</strong>
+  {% assign hofpages = site.pages | where: 'title', 'Hall of Fame' %}
+  {% for hofpage in hofpages %}
+    {% for item in hofpage.hof %}
+      <span style="margin-left: 2em;">
+        {{ item.category }} -
+        {% for member in item.members %}
+          {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{member.country}}.png" />{% endif %}
+          {{ member.name }}
+          {% break %}
+        {% endfor %}
+      </span>
+    {% endfor %}
+  {% endfor %}
+</div>

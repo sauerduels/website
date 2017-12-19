@@ -1,0 +1,15 @@
+---
+layout: page
+title: Rankings
+permalink: /rankings/
+index: 3
+---
+<h2><a href="#" onclick="return toggleElement('how-elo-works');">How ELO works</a></h2>
+<p id="how-elo-works" style="display: none;">The ELO rating system is a method of measuring the relative skill of a player using mathematics. Currently, our own ELO formula is not going to be released to the public. A player's rating increases or decreases depending on the outcome of games against other players. The amount of points lost or gained is also dependent on the rating difference between the two players. A player with a much higher rating is expected to defeat a player with a lower rating, meaning if he won, the rating consequences for both players would be lower, because the outcome was highly probable. However if an unexpected result or more commonly known as an "upset win" occurs where the lower rated player wins, there will be bigger rating consequences. This way, strong players will need to win consistently in order to maintain their ELO ranking, and weaker players can improve their ELO quicker with impressive wins against better opponents. To simplify, every match you play you are taking a risk in order to improve your rating, and the higher the risk, the higher the reward. Feel free to ask us any questions if needed.</p>
+
+{% assign rankings = site.rankings | sort: 'title' %}
+{% for ranking in rankings %}
+  <!-- <p><a href="{{ ranking.url | relative_url }}.html">{{ ranking.title }}</a></p> -->
+  <h2><a href="{{ ranking.url | relative_url }}" onclick="return toggleElement('ranking-{{ ranking.slug }}');">{{ ranking.title }}</a></h2>
+  <div id="ranking-{{ ranking.slug }}" style="display: none;">{{ ranking.content }}</div>
+{% endfor %}
