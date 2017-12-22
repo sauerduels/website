@@ -49,7 +49,7 @@ groups:
         slug: 
       - result: Partizan def. NoobGuy
         slug: sd03_noobguy_vs_partizan
-  c:
+  b:
     - - result: BudSpencer def. Rudi
         slug: sd03_budspencer_vs_rudi
       - result: lagout def. Phönix
@@ -80,7 +80,7 @@ groups:
         slug: sd03_gangler_vs_rudi
       - result: lagout def. BudSpencer
         slug: sd03_budspencer_vs_lagout
-  b:
+  c:
     - - result: yggdrasil def. ZCrone
         slug: sd03_yggdrasil_vs_zcrone
       - result: Fear def. Bertolt_Brecht
