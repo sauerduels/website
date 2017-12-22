@@ -20,14 +20,11 @@
   <strong>Current titleholders:</strong>
   {% assign hofpages = site.pages | where: 'title', 'Hall of Fame' %}
   {% for hofpage in hofpages %}
-    {% for item in hofpage.hof %}
+    {% for titleholder in hofpage.titleholders %}
       <span style="margin-left: 2em;">
-        {{ item.category }} -
-        {% for member in item.members %}
-          {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{member.country}}.png" />{% endif %}
-          {{ member.name }}
-          {% break %}
-        {% endfor %}
+        {{ titleholder.category }} -
+        {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{titleholder.country}}.png" />{% endif %}
+        {{ titleholder.name }}
       </span>
     {% endfor %}
   {% endfor %}
