@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Rankings
 ---
 <article class="post">
 
@@ -8,32 +9,39 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% assign rankings = site.rankings | sort: 'title' %}
+    {% assign rankings = site.rankings | sort: 'section' %}
+    {% if page.section == nil %}
+      {% assign section = page.title %}
+    {% else %}
+      {% assign section = page.section %}
+    {% endif %}
 
     <ul class="tabs">
       {% for ranking in rankings %}
-        {% if ranking.title == page.title %}
+        {% if ranking.section == section %}
           <li id="tab-ranking-{{ ranking.slug }}" class="tab active">
         {% else %}
           <li id="tab-ranking-{{ ranking.slug }}" class="tab">
         {% endif %}
-          <a href="{{ ranking.url | relative_url }}" onclick="return switchTab('ranking-{{ ranking.slug }}');">{{ ranking.title }}</a>
+          <a href="{{ ranking.url | relative_url }}" onclick="return switchTab('ranking-{{ ranking.slug }}');">{{ ranking.section }}</a>
         </li>
       {% endfor %}
     </ul>
 
     <ul class="tab-contents">
       {% for ranking in rankings %}
-        {% if ranking.title == page.title %}
+        {% if ranking.section == section %}
           <div id="ranking-{{ ranking.slug }}" class="tab-content active">
         {% else %}
           <div id="ranking-{{ ranking.slug }}" class="tab-content">
         {% endif %}
+          <br />
           {{ ranking.content }}
         </div>
       {% endfor %}
     </ul>
-
+    
+    <br />
     <h2><a href="#" onclick="return toggleElement('how-elo-works');">How ELO works</a></h2>
     <p id="how-elo-works" style="display: none;">
       The ELO rating system is a method of measuring the relative skill of a player using mathematics. Currently, our own ELO formula is not going to be released to the public. A player's rating increases or decreases depending on the outcome of games against other players. The amount of points lost or gained is also dependent on the rating difference between the two players. A player with a much higher rating is expected to defeat a player with a lower rating, meaning if he won, the rating consequences for both players would be lower, because the outcome was highly probable. However if an unexpected result or more commonly known as an "upset win" occurs where the lower rated player wins, there will be bigger rating consequences. This way, strong players will need to win consistently in order to maintain their ELO ranking, and weaker players can improve their ELO quicker with impressive wins against better opponents. To simplify, every match you play you are taking a risk in order to improve your rating, and the higher the risk, the higher the reward. Feel free to ask us any questions if needed.
