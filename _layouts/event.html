@@ -8,10 +8,40 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% if page.completed %}
-      {% assign event = page %}
-      {% include result.html %}
+    {% assign events = site.events | sort: 'index' %}
+    {% if page.permalink != nil %}
+      {% assign pageIndex = 1 %}
+    {% else %}
+      {% assign pageIndex = page.index %}
     {% endif %}
+
+    <ul class="tabs">
+      {% for event in events %}
+        {% if event.completed == true %}
+          {% if event.index == pageIndex %}
+            <li id="tab-event-{{ event.index }}" class="tab active">
+          {% else %}
+            <li id="tab-event-{{ event.index }}" class="tab">
+          {% endif %}
+            <a href="{{ event.url | relative_url }}" onclick="return switchTab('event-{{ event.index }}');">SD #{{ event.index }}: {{ event.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    
+    <ul class="tab-contents">
+      {% for event in events %}
+        {% if event.completed == true %}
+          {% if event.index == pageIndex %}
+            <div id="event-{{ event.index }}" class="tab-content active">
+          {% else %}
+            <div id="event-{{ event.index }}" class="tab-content">
+          {% endif %}
+            {% include result.html %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </div>
 
 </article>
