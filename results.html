@@ -1,22 +1,6 @@
 ---
-layout: page
+layout: event
 title: Results
 permalink: /results/
 index: 4
 ---
-{% assign events = site.events | sort: 'index' %}
-{% for event in events %}
-  {% if event.completed == true %}
-    {% assign day = event.date | date: "%-d"  %}
-    {% case day %}
-      {% when '1' or '21' or '31' %}{% assign ord = "st" %}
-      {% when '2' or '22' %}{% assign ord = "nd" %}
-      {% when '3' or '23' %}{% assign ord = "rd" %}
-      {% else %}{% assign ord = "th" %}
-    {% endcase %}
-    <h1 style="display: inline-block;"><a href="{{ event.url | relative_url }}" onclick="return toggleElement('results-{{ event.slug }}');">SD #{{ event.index }}: {{ event.title }}</a></h1> {{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ", %-I:%M %p (%Z)" }}<br />
-    <div id="results-{{ event.slug }}" style="display: none; margin-bottom: 1em;">
-      {% include result.html %}
-    </div>
-  {% endif %}
-{% endfor %}
