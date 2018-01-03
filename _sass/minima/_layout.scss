@@ -266,6 +266,13 @@ table, td, th {
   border: solid 1px #dfe2e5;
 }
 
+table.sortable thead {
+  background-color: #eee;
+  color: #666666;
+  font-weight: bold;
+  cursor: pointer;
+}
+
 td, th {
   padding: 0.5em;
 }
@@ -331,6 +338,4 @@ li.tab.active a, li.tab.active, li.tab a:hover {
 img.icon {
   width: 48px;
   height: 48px;
-  display: block;
-  margin: auto;
 }
