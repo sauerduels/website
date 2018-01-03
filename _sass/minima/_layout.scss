@@ -258,6 +258,7 @@
 table {
   margin-bottom: 1em;
   width: 100%;
+  text-align: center;
 }
 
 table, td, th {
@@ -325,4 +326,11 @@ li.tab.active a, li.tab.active, li.tab a:hover {
 
 .tabs, .tab-contents {
   margin-left: 0;
+}
+
+img.icon {
+  width: 48px;
+  height: 48px;
+  display: block;
+  margin: auto;
 }
