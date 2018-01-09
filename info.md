@@ -11,13 +11,21 @@ You can sign up by creating a Challonge account and using our [sign up page](/si
 
 ## Format
 
-All events will be played using the round robin format. This means that players will be put into groups, and play one game against each opponent in their group. Then, after all the games are completed, the top player from each group will play against each other in a best of 3 series to determine who wins the title. If there are not enough players for more than one group, the top 2 players will play each other for the title. You can view an example challonge bracket here.
+All events will be played using the round robin format. This means that players will be put into groups, and play one game against each opponent in their group. Then, after all the games are completed, the top player from each group will play against each other in a best of 3 series to determine who wins the title. If there are not enough players for more than one group, the top 2 players will play each other for the title. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
+
+## Tiebreakers
+
+We will use a set of tiebreaking rules if there are ties within a group. This will determine who advances to the finals and who earns third place. All rules will be used in order until one of the tiebreakers determines a winner. The rules are as follows:
+
+* Better win/loss record vs other tied participants
+* Better frags/deaths ratio
+* More total frags
 
 ## Servers
 
 We will be using multiple servers hosted in Europe for all of our events. We will have a backup server in case of issues with our primary servers. Here is the connect command:
 
-`/connect game.sauerduels.me 10000|20000|30000|40000`
+`/connect eu.sauerduels.me 10000|20000|30000|40000`
 
 ## Maps
 
