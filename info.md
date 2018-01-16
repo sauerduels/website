@@ -18,7 +18,7 @@ All events will be played using the round robin format. This means that players 
 We will use a set of tiebreaking rules if there are ties within a group. This will determine who advances to the finals and who earns third place. All rules will be used in order until one of the tiebreakers determines a winner. The rules are as follows:
 
 * Better win/loss record vs other tied participants
-* Best of 1 tiebreaking matches, with ties for more than 3 participants, players will be seeded by higher k/d ratio
+* Best of 1 tiebreaking matches, with ties for more than 3 participants, players will be seeded by higher score ratio
 
 ## Servers
 
