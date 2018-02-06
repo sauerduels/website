@@ -29,3 +29,17 @@
     {% endfor %}
   {% endfor %}
 </div>
+
+<div style="margin-top: 0.5em;">
+  <strong>Current top ranked:</strong>
+  {% assign hofpages = site.pages | where: 'title', 'Hall of Fame' %}
+  {% for hofpage in hofpages %}
+    {% for topranked in hofpage.toprankeds %}
+      <span style="margin-left: 2em;">
+        {{ topranked.category }} -
+        {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{topranked.country}}.png" />{% endif %}
+        {{ topranked.name }}
+      </span>
+    {% endfor %}
+  {% endfor %}
+</div>
