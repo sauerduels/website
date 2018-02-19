@@ -8,9 +8,12 @@
 {% endif %}
 {% if event.semis %}
   <h3>Semi-finals:</h3>
-  {{ event.semis.result }}<br />
-  {% for game in event.semis.games %}
-    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+  {% for semi in event.semis %}
+    {{ semi.result }}<br />
+    {% for game in semi.games %}
+      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+    {% endfor %}
+    <br />
   {% endfor %}
   <br />
 {% endif %}
