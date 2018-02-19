@@ -13,14 +13,14 @@ finals:
     - title: memento 68:66
       slug: sd10_final_lagout_vs_rexus_game3
 semis:
-  result: Rexus def. raffael
-  games:
-    - title: academy 38:36
-      slug: sd10_semifinal_raffael_vs_rexus_game1
-  result: lagout def. Partizan
-  games:
-    - title: ot 80:63
-      slug: sd10_semifinal_lagout_vs_partizan_game1
+  - result: Rexus def. raffael
+    games:
+      - title: academy 38:36
+        slug: sd10_semifinal_raffael_vs_rexus_game1
+  - result: lagout def. Partizan
+    games:
+      - title: ot 80:63
+        slug: sd10_semifinal_lagout_vs_partizan_game1
 groups:
   a:
     - - result: Honzik1 def. bug
