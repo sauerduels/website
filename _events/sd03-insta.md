@@ -13,10 +13,10 @@ finals:
     - title: duel8 80:68
       slug: sd03_final_gangler_vs_rexus_game3
 semis:
-  result: Gangler def. Partizan
-  games:
-    - title: duel7 103:68
-      slug: sd03_semifinal_gangler_vs_partizan_game1
+  - result: Gangler def. Partizan
+    games:
+      - title: duel7 103:68
+        slug: sd03_semifinal_gangler_vs_partizan_game1
 groups:
   a:
     - - result: Headway def. NoobGuy
