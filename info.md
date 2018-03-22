@@ -26,6 +26,10 @@ We will be using multiple servers hosted in Europe for all of our events. We wil
 
 `/connect eu.sauerduels.me 10000|20000|30000|40000`
 
+## Crashes
+
+If for any reason the server crashes or a player loses their scores, an admin will decide whether to replay or end the match, depending on the circumstances.
+
 ## Maps
 
 We want the map picking to be as fair and equal as possible. Round robin matchups will be only one game, so 3 maps will be randomly selected from the pool for each game. Then, the players each get to veto one of these maps, and the map that was not vetoed will be played. The player with the lower ELO ranking MUST veto first. For the title matches, the player with the higher ELO ranking will get the first, and final pick if necessary. Here are the current map pools:
