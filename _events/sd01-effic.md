@@ -2,6 +2,7 @@
 title: Effic 1v1
 index: 1
 date: '2017-10-15 18:00:00 +02:00'
+bracketurl: https://sauerduels.challonge.com/sd01effic
 completed: true
 finals:
   result: Lokio def. Partizan
