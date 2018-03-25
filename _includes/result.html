@@ -1,3 +1,17 @@
+<h3>Info:</h3>
+Title: <strong>SD #{{ event.index }}: {{ event.title }}</strong><br />
+{% assign day = event.date | date: "%-d"  %}
+{% case day %}
+  {% when '1' or '21' or '31' %}{% assign ord = "st" %}
+  {% when '2' or '22' %}{% assign ord = "nd" %}
+  {% when '3' or '23' %}{% assign ord = "rd" %}
+  {% else %}{% assign ord = "th" %}
+{% endcase %}
+Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ", %-I:%M %p (%Z)" }}</strong><br />
+{% if event.bracketurl %}
+  Bracket: <a href="{{ event.bracketurl }}">{{ event.bracketurl }}</a><br />
+{% endif %}
+<br />
 {% if event.finals %}
   <h3>Finals:</h3>
   {{ event.finals.result }}<br />
