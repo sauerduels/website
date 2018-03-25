@@ -57,17 +57,17 @@ groups:
       - result: Gangler def. Rotti
         slug: sd12_gangler_vs_rotti
       - result: Calinou def. 1989
-        slug: sd12_1989_vs_calinou
+        slug: 
       - result: fatmonkeygenius def. Cannibal
-        slug: sd12_cannibal_vs_fatmonkeygenius
+        slug: 
     - - result: Shinnok def. fatmonkeygenius
         slug: sd12_fatmonkeygenius_vs_shinnok
       - result: Calinou def. Cannibal
-        slug: sd12_calinou_vs_cannibal
+        slug: 
       - result: Frosty def. Rotti
         slug: sd12_frosty_vs_rotti
       - result: Gangler def. 1989
-        slug: sd12_1989_vs_gangler
+        slug: 
     - - result: Shinnok def. Frosty
         slug: sd12_tb_frosty_vs_shinnok_game1
       - result: fatmonkeygenius def. Shinnok
