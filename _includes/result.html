@@ -31,11 +31,22 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% endfor %}
 {% endif %}
 {% for group in event.groups %}
+  {% assign lineLimit = 4 %}
+  {% assign groupLen = group[1] | size %}
+  {% if groupLen <= 5 or groupLen == 9 or groupLen == 10 %}
+    {% assign lineLimit = 5 %}
+  {% elsif groupLen == 6 %}
+    {% assign lineLimit = 3 %}
+  {% endif %}
+  {% assign lineLimit1 = lineLimit | plus: 1 %}
   <h3>Group {{ group[0] | upcase }}:</h3>
   <table style="text-align: center;">
     <thead>
       <tr>
         {% for group in group[1] %}
+          {% if forloop.index0 == lineLimit %}
+            {% break %}
+          {% endif %}
           <th>Round {{ forloop.index }}</th>
         {% endfor %}
       </tr>
@@ -43,6 +54,26 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
     <tbody>
       <tr>
         {% for round in group[1] %}
+          {% assign shouldNotSplit = forloop.index0 | modulo: lineLimit %}
+          {% if shouldNotSplit == 0 and forloop.index0 != 0 %}
+                </tr>
+              </tbody>
+            </table>
+            <table style="text-align: center;">
+              <thead>
+                <tr>
+                  {% assign offset = forloop.index0 %}
+                  {% for group in group[1] | offset: offset %}
+                    {% if forloop.index0 == lineLimit %}
+                      {% break %}
+                    {% endif %}
+                    <th>Round {{ forloop.index | plus: offset }}</th>
+                  {% endfor %}
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+          {% endif %}
           <td>
             {% for game in round %}
               {{ game.result }}<br />
