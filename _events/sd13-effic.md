@@ -24,15 +24,15 @@ groups:
     - - result: starch def. hades
         slug: sd13_hades_vs_starch
       - result: __FRY__ def. Rudi
-        slug: sd13___fry___vs_rudi
+        slug: 
     - - result: starch def. __FRY__
         slug: sd13___fry___vs_starch
       - result: Honzik1 def. hades
-        slug: sd13_hades_vs_honzik1
+        slug: 
     - - result: Honzik1 def. __FRY__
         slug: sd13___fry___vs_honzik1
       - result: starch def. Rudi
-        slug: sd13_rudi_vs_starch
+        slug: 
   b:
     - - result: lagout def. Khornettoh
         slug: sd13_khornettoh_vs_lagout
