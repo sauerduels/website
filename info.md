@@ -39,10 +39,9 @@ We want the map picking to be as fair and equal as possible. Round robin matchup
 | aard3c | corruption | academy |
 | academy | hades | complex |
 | frozen | metl2 | duel7 |
-| legazzo | metl3 | duel8 |
-| memento | metl4 | douze |
-| ot | nmp8 | kffa |
-| simplicity | skrdm1 | ot |
+| legazzo | metl3 | douze |
+| memento | metl4 | kffa |
+| ot | nmp8 | ot |
 | turbine | tumwalk | turbine |
 
 ## Cheating
