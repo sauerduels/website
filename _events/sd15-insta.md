@@ -33,6 +33,10 @@ groups:
         slug: sd15_fear_vs_headway
       - result: starch def. Phönix
         slug: sd15_phonix_vs_starch
+    - - result: Headway def. Fear
+        slug: sd15_tb_fear_vs_headway_game1
+      - result: starch def. Headway
+        slug: sd15_tb_headway_vs_starch_game1
   b:
     - - result: Shinnok def. Morry
         slug: sd15_morry_vs_shinnok
