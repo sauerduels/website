@@ -50,7 +50,7 @@ groups:
     - - result: Rotti def. Zarah
         slug: sd14_rotti_vs_zarah
       - result: Lokio def. starch
-        slug: sd14_lokio_vs_starch
+        slug: 
       - result: Redon def. __FRY__
         slug: sd14___fry___vs_redon
       - result: notas def. h8
@@ -58,7 +58,7 @@ groups:
     - - result: Lokio def. __FRY__
         slug: sd14___fry___vs_lokio
       - result: Redon def. Zarah
-        slug: sd14_redon_vs_zarah
+        slug: 
       - result: Rotti def. h8
         slug: sd14_h8_vs_rotti
       - result: notas def. starch
