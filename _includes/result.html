@@ -14,7 +14,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
 <br />
 {% if event.finals %}
   <h3>Finals:</h3>
-  {{ event.finals.result }}<br />
+  {{ event.finals.result | add_flags }}<br />
   {% for game in event.finals.games %}
     {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
   {% endfor %}
@@ -23,7 +23,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
 {% if event.semis %}
   <h3>Semi-finals:</h3>
   {% for semi in event.semis %}
-    {{ semi.result }}<br />
+    {{ semi.result | add_flags }}<br />
     {% for game in semi.games %}
       {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
     {% endfor %}
@@ -76,7 +76,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
           {% endif %}
           <td>
             {% for game in round %}
-              {{ game.result }}<br />
+              {{ game.result | add_flags }}<br />
               {% if game.slug %}
                 (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br /><br />
               {% else %}

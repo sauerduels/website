@@ -23,8 +23,7 @@
     {% for titleholder in hofpage.titleholders %}
       <span style="margin-left: 2em;">
         {{ titleholder.category }} -
-        {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{titleholder.country}}.png" />{% endif %}
-        {{ titleholder.name }}
+        {{ titleholder.name | add_flags }}
       </span>
     {% endfor %}
   {% endfor %}

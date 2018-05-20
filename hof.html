@@ -6,99 +6,71 @@ index: 5
 titleholders:
   - category: Effic
     name: starch
-    country: us
   - category: FFA
     name: Redon
-    country: nl
   - category: Insta
     name: starch
-    country: us
 hof:
   - category: Effic
     members:
       - name: starch
-        country: us
         golden: 2
       - name: Rexus
-        country: gb
         golden: 1
         silver: 1
       - name: lagout
-        country: fr
         silver: 2
         bronze: 1
       - name: Honzik1
-        country: cz
         golden: 1
         bronze: 1
       - name: Lokio
-        country: us
         golden: 1
       - name: hades
-        country: us
         silver: 1
       - name: Partizan
-        country: rs
         silver: 1
       - name: Alluro
-        country: de
         bronze: 1
       - name: Gangler
-        country: de
         bronze: 1
       - name: raffael
-        country: ba
         bronze: 1
   - category: FFA
     members:
       - name: Redon
-        country: nl
         golden: 5
       - name: Honzik1
-        country: cz
         silver: 2
       - name: notas
-        country: us
         silver: 2
       - name: Lokio
-        country: us
         silver: 1
         bronze: 3
       - name: Frosty
-        country: ca
         bronze: 2
   - category: Insta
     members:
       - name: Gangler
-        country: de
         golden: 2
         bronze: 2
       - name: starch
-        country: us
         golden: 2
       - name: Honzik1
-        country: cz
         golden: 1
       - name: Rexus
-        country: gb
         silver: 2
       - name: fatmonkeygenius
-        country: de
         silver: 1
       - name: Frosty
-        country: ca
         silver: 1
       - name: hades
-        country: us
         silver: 1
       - name: Headway
-        country: ru
         bronze: 1
       - name: Partizan
-        country: rs
         bronze: 1
       - name: Shinnok
-        country: nl
         bronze: 1
 ---
 <table style="text-align: center; table-layout: fixed;">
@@ -115,8 +87,7 @@ hof:
         <td>
           {% for member in item.members %}
             <p>
-              {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{member.country}}.png" />{% endif %}
-              {{ member.name }}
+              {{ member.name | add_flags }}
               {% for star in (1..member.golden) %}<span class="golden star">★</span>{% endfor %}
               {% for star in (1..member.silver) %}<span class="silver star">★</span>{% endfor %}
               {% for star in (1..member.bronze) %}<span class="bronze star">★</span>{% endfor %}
