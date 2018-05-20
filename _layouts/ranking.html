@@ -36,7 +36,7 @@ title: Rankings
           <div id="ranking-{{ ranking.slug }}" class="tab-content">
         {% endif %}
           <br />
-          {{ ranking.content }}
+          {{ ranking.content | add_flags }}
         </div>
       {% endfor %}
     </ul>
