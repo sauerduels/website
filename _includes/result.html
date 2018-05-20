@@ -30,62 +30,39 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
     <br />
   {% endfor %}
 {% endif %}
+
 {% for group in event.groups %}
-  {% assign lineLimit = 4 %}
-  {% assign groupLen = group[1] | size %}
-  {% if groupLen <= 5 or groupLen == 9 or groupLen == 10 %}
-    {% assign lineLimit = 5 %}
-  {% elsif groupLen == 6 %}
-    {% assign lineLimit = 3 %}
-  {% endif %}
-  {% assign lineLimit1 = lineLimit | plus: 1 %}
   <h3>Group {{ group[0] | upcase }}:</h3>
-  <table style="text-align: center;" class="results">
-    <thead>
-      <tr>
-        {% for group in group[1] %}
-          {% if forloop.index0 == lineLimit %}
-            {% break %}
-          {% endif %}
-          <th>Round {{ forloop.index }}</th>
-        {% endfor %}
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        {% for round in group[1] %}
-          {% assign shouldNotSplit = forloop.index0 | modulo: lineLimit %}
-          {% if shouldNotSplit == 0 and forloop.index0 != 0 %}
-                </tr>
-              </tbody>
-            </table>
-            <table style="text-align: center;">
-              <thead>
-                <tr>
-                  {% assign offset = forloop.index0 %}
-                  {% for group in group[1] | offset: offset %}
-                    {% if forloop.index0 == lineLimit %}
-                      {% break %}
-                    {% endif %}
-                    <th>Round {{ forloop.index | plus: offset }}</th>
-                  {% endfor %}
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-          {% endif %}
-          <td>
-            {% for game in round %}
+  {% for round in group[1] %}
+  {% assign roundLen = round | size %}
+    <table style="text-align: center; border-top: solid 5px #dfe2e5;">
+      <tbody>
+        <tr>
+          <td style="font-weight: bold;" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>
+          {% for game in round %}
+            
+            {% assign shouldNotSplit = forloop.index0 | modulo: 2 %}
+            {% if shouldNotSplit == 0 and forloop.index0 != 0 && forloop.index < roundLen %}
+              </tr>
+              <tr>
+            {% endif %}
+            
+            {% if forloop.index == roundLen && shouldNotSplit == 0 %}
+            <td colspan="2">
+            {% else %}
+            <td>
+            {% endif %}
               {{ game.result | add_flags }}
               {% if game.slug %}
-                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br /><br />
+                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)
               {% else %}
-                (forfeit)<br /><br />
+                (forfeit)
               {% endif %}
-            {% endfor %}
-          </td>
-        {% endfor %}
-      </tr>
-    </tbody>
-  </table>
+            </td>
+            
+          {% endfor %}
+        </tr>
+      </tbody>
+    </table>
+  {% endfor %}
 {% endfor %}
