@@ -40,7 +40,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% endif %}
   {% assign lineLimit1 = lineLimit | plus: 1 %}
   <h3>Group {{ group[0] | upcase }}:</h3>
-  <table style="text-align: center;">
+  <table style="text-align: center;" class="results">
     <thead>
       <tr>
         {% for group in group[1] %}
@@ -76,7 +76,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
           {% endif %}
           <td>
             {% for game in round %}
-              {{ game.result | add_flags }}<br />
+              {{ game.result | add_flags }}
               {% if game.slug %}
                 (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br /><br />
               {% else %}

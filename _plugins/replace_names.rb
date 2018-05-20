@@ -1,54 +1,56 @@
 module Jekyll
   module AssetFilter
+    PLAYER_COUNTRIES = {
+      'Redon' => 'nl',
+      'Honzik1' => 'cz',
+      'Lokio' => 'us',
+      'Frosty' => 'ca',
+      'DarkFire' => 'us',
+      'Alluro' => 'de',
+      'Partizan' => 'rs',
+      'BudSpencer' => 'de',
+      'starch' => 'us',
+      'hades' => 'us',
+      'Rexus' => 'gb',
+      'lagout' => 'fr',
+      'Gangler' => 'de',
+      'bug' => 'il',
+      'Fear' => 'de',
+      'Aiurz' => 'ch',
+      'BenKei' => 'nl',
+      'Bertolt_Brecht' => 'gb',
+      'h8' => 'in',
+      'Khornettoh' => 'fr',
+      'Tamin0' => 'de',
+      'ZCrone' => 'fr',
+      'Josh22' => 'gb',
+      'greenadiss' => 'ua',
+      'fatmonkeygenius' => 'de',
+      'Headway' => 'ru',
+      'Harsh' => 'us',
+      'yggdrasil' => 'at',
+      'Phönix' => 'de',
+      'NoobGuy' => 'us',
+      'raffael' => 'ba',
+      '__FRY__' => 'ru',
+      'Morry' => 'ru',
+      'Mod' => 'de',
+      '4-Tune' => 'de',
+      'Tengrichan' => 'hu',
+      'hamon' => 'de',
+      'Friteq' => 'pl',
+      'notas' => 'us',
+      'Shinnok' => 'nl',
+      'Cannibal' => 'bg',
+      'Rotti' => 'de',
+      'Calinou' => 'fr',
+      '1989' => 'fr',
+      'Zarah' => 'se',
+      'Shikijo' => 'ca',
+      'Rudi' => 'za' }
+    
     def add_flags(input)
-      # site.flagbaseurl
-      input = input.gsub(/(Redon)/, '<img class="flag" src="http://sauerduels.me/images/nl.png" /> \1')
-      input = input.gsub(/(Honzik1)/, '<img class="flag" src="http://sauerduels.me/images/cz.png" /> \1')
-      input = input.gsub(/(Lokio)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(Frosty)/, '<img class="flag" src="http://sauerduels.me/images/ca.png" /> \1')
-      input = input.gsub(/(DarkFire)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(Alluro)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Partizan)/, '<img class="flag" src="http://sauerduels.me/images/rs.png" /> \1')
-      input = input.gsub(/(BudSpencer)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(starch)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(hades)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(Rexus)/, '<img class="flag" src="http://sauerduels.me/images/gb.png" /> \1')
-      input = input.gsub(/(lagout)/, '<img class="flag" src="http://sauerduels.me/images/fr.png" /> \1')
-      input = input.gsub(/(Gangler)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(bug)/, '<img class="flag" src="http://sauerduels.me/images/il.png" /> \1')
-      input = input.gsub(/(Fear)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Aiurz)/, '<img class="flag" src="http://sauerduels.me/images/ch.png" /> \1')
-      input = input.gsub(/(BenKei)/, '<img class="flag" src="http://sauerduels.me/images/nl.png" /> \1')
-      input = input.gsub(/(Bertolt_Brecht)/, '<img class="flag" src="http://sauerduels.me/images/gb.png" /> \1')
-      input = input.gsub(/(h8)/, '<img class="flag" src="http://sauerduels.me/images/in.png" /> \1')
-      input = input.gsub(/(Khornettoh)/, '<img class="flag" src="http://sauerduels.me/images/fr.png" /> \1')
-      input = input.gsub(/(Tamin0)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(ZCrone)/, '<img class="flag" src="http://sauerduels.me/images/fr.png" /> \1')
-      input = input.gsub(/(Josh22)/, '<img class="flag" src="http://sauerduels.me/images/gb.png" /> \1')
-      input = input.gsub(/(greenadiss)/, '<img class="flag" src="http://sauerduels.me/images/ua.png" /> \1')
-      input = input.gsub(/(fatmonkeygenius)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Headway)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
-      input = input.gsub(/(Harsh)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(yggdrasil)/, '<img class="flag" src="http://sauerduels.me/images/at.png" /> \1')
-      input = input.gsub(/(Phönix)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(NoobGuy)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(raffael)/, '<img class="flag" src="http://sauerduels.me/images/ba.png" /> \1')
-      input = input.gsub(/(__FRY__)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
-      input = input.gsub(/(Morry)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
-      input = input.gsub(/(Mod)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(4-Tune)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Tengrichan)/, '<img class="flag" src="http://sauerduels.me/images/hu.png" /> \1')
-      input = input.gsub(/(hamon)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Friteq)/, '<img class="flag" src="http://sauerduels.me/images/pl.png" /> \1')
-      input = input.gsub(/(notas)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
-      input = input.gsub(/(Shinnok)/, '<img class="flag" src="http://sauerduels.me/images/nl.png" /> \1')
-      input = input.gsub(/(Cannibal)/, '<img class="flag" src="http://sauerduels.me/images/bg.png" /> \1')
-      input = input.gsub(/(Rotti)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
-      input = input.gsub(/(Calinou)/, '<img class="flag" src="http://sauerduels.me/images/fr.png" /> \1')
-      input = input.gsub(/(1989)/, '<img class="flag" src="http://sauerduels.me/images/fr.png" /> \1')
-      input = input.gsub(/(Zarah)/, '<img class="flag" src="http://sauerduels.me/images/se.png" /> \1')
-      input = input.gsub(/(Shikijo)/, '<img class="flag" src="http://sauerduels.me/images/ca.png" /> \1')
-      input = input.gsub(/(Rudi)/, '<img class="flag" src="http://sauerduels.me/images/za.png" /> \1')
+      PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"http://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }
       input
     end
   end
