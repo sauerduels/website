@@ -34,7 +34,7 @@ module Jekyll
       input = input.gsub(/(NoobGuy)/, '<img class="flag" src="http://sauerduels.me/images/us.png" /> \1')
       input = input.gsub(/(raffael)/, '<img class="flag" src="http://sauerduels.me/images/ba.png" /> \1')
       input = input.gsub(/(__FRY__)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
-      input = input.gsub(/(morry)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
+      input = input.gsub(/(Morry)/, '<img class="flag" src="http://sauerduels.me/images/ru.png" /> \1')
       input = input.gsub(/(Mod)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
       input = input.gsub(/(4-Tune)/, '<img class="flag" src="http://sauerduels.me/images/de.png" /> \1')
       input = input.gsub(/(Tengrichan)/, '<img class="flag" src="http://sauerduels.me/images/hu.png" /> \1')
