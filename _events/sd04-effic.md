@@ -70,9 +70,7 @@ groups:
       - result: Alluro def. BenKei
         slug: sd04_alluro_vs_benkei
   b:
-    - - result: Gangler def. Rudi
-        slug: sd04_gangler_vs_rudi
-      - result: BudSpencer def. Khornettoh
+    - - result: BudSpencer def. Khornettoh
         slug: sd04_budspencer_vs_khornettoh
       - result: hades def. lagout
         slug: sd04_hades_vs_lagout
@@ -80,8 +78,6 @@ groups:
         slug: sd04_honzik1_vs_josh22
     - - result: hades def. Josh22
         slug: sd04_hades_vs_josh22
-      - result: Honzik1 def. Rudi
-        slug: sd04_honzik1_vs_rudi
       - result: lagout def. Khornettoh
         slug: sd04_khornettoh_vs_lagout
       - result: Gangler def. BudSpencer
@@ -90,8 +86,6 @@ groups:
         slug: sd04_josh22_vs_khornettoh
       - result: lagout def. Gangler
         slug: sd04_gangler_vs_lagout
-      - result: BudSpencer def. Rudi
-        slug: sd04_budspencer_vs_rudi
       - result: hades def. Honzik1
         slug: sd04_hades_vs_honzik1
     - - result: lagout def. BudSpencer
@@ -100,28 +94,20 @@ groups:
         slug: sd04_honzik1_vs_khornettoh
       - result: Gangler def. Josh22
         slug: sd04_gangler_vs_josh22
-      - result: hades def. Rudi
-        slug: sd04_hades_vs_rudi
     - - result: hades def. Khornettoh
         slug: 
       - result: BudSpencer def. Josh22
         slug: sd04_budspencer_vs_josh22
       - result: Honzik1 def. Gangler
         slug: sd04_gangler_vs_honzik1
-      - result: lagout def. Rudi
-        slug: 
     - - result: Honzik1 def. BudSpencer
         slug: sd04_budspencer_vs_honzik1
       - result: hades def. Gangler
         slug: sd04_gangler_vs_hades
-      - result: Rudi def. Khornettoh
-        slug: 
       - result: lagout def. Josh22
         slug: sd04_josh22_vs_lagout
     - - result: lagout def. Honzik1
         slug: sd04_honzik1_vs_lagout
-      - result: Rudi def. Josh22
-        slug: sd04_josh22_vs_rudi
       - result: hades def. BudSpencer
         slug: sd04_budspencer_vs_hades
       - result: Gangler def. Khornettoh
