@@ -22,9 +22,9 @@ We will use a set of tiebreaking rules if there are ties within a group. This wi
 
 ## Servers
 
-We will be using multiple servers hosted in Europe for all of our events. We will have a backup server in case of issues with our primary servers. Here is the connect command:
+We will be using multiple servers hosted in Europe for all of our events. Here is the connect command:
 
-`/connect eu.sauerduels.me 10000|20000|30000|40000`
+`/connect sauerduels.me 10000|20000|30000|40000`
 
 ## Crashes
 
