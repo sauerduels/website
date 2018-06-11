@@ -2,46 +2,9 @@
 title:   Rankings
 section: FFA
 ---
-<h3>Basic Stats</h3>
-<table class="sortable">
-    <thead>
-        <tr>
-            <th>Rank</th>
-            <th>Player</th>
-            <th>ELO</th>
-            <th>Games</th>
-            <th>Wins</th>
-            <th>Losses</th>
-            <th>Win Ratio</th>
-            <th>Frags</th>
-            <th>Deaths</th>
-            <th>K/D</th>
-            <th>Suicides</th>
-            <th>Accuracy</th>
-        </tr>
-    </thead>
-    <tbody>
 
-        {% for player in site.data.ffa.stats %}
+{% include_relative _basic_stats.html players=site.data.ffa.stats %}
 
-        <tr>
-            <td>{{ player.rank }}</td>
-            <td class="left-align">{{ player.name }}</td>
-            <td>{{ player.elo }}</td>
-            <td>{{ player.games }}</td>
-            <td>{{ player.wins }}</td>
-            <td>{{ player.losses }}</td>
-            <td>{{ player.win_ratio }}</td>
-            <td>{{ player.frags }}</td>
-            <td>{{ player.deaths }}</td>
-            <td>{{ player.kpd }}</td>
-            <td>{{ player.suicides }}</td>
-            <td>{{ player.accuracy }}</td>
-        </tr>
-        {% endfor %}
-
-    </tbody>
-</table>
 <br/>
 <h3>Weapon Stats</h3>
 <table class="sortable">
