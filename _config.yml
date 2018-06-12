@@ -16,7 +16,7 @@
 title: SauerDuels.me
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Cube 2: Sauerbraten Tournament
+  Cube 2: Sauerbraten League
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
