@@ -22,7 +22,7 @@
 
         <tr>
             <td>{{ player.rank }}</td>
-            <td class="left-align">{{ player.name }}</td>
+            <td class="left-align">{{ player.name | add_flags }}</td>
             <td>{{ player.elo }}</td>
             <td>{{ player.games }}</td>
             <td>{{ player.wins }}</td>

@@ -28,7 +28,7 @@ section: FFA
 
         <tr>
             <td>{{ player.rank }}</td>
-            <td class="left-align">{{ player.name }}</td>
+            <td class="left-align">{{ player.name | add_flags }}</td>
             <td>{{ player.accuracy }}</td>
             <td>{{ player.shotgun }}</td>
             <td>{{ player.chaingun }}</td>
