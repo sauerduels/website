@@ -1,274 +1,44 @@
 ---
 title:   Rankings
-section: FFA 
+section: FFA
 ---
-<h3>Basic Stats</h3>
-<table class="sortable">
-  <thead>
-    <tr>
-      <th>Rank</th><th>Player</th><th>ELO</th><th>Games</th><th>Wins</th><th>Losses</th><th>Win Ratio</th><th>Frags</th><th>Deaths</th><th>K/D</th><th>Suicides</th><th>Accuracy</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-      
-        <tr>
-          <td>1</td><td class="left-align">Redon</td><td>1846</td><td>43</td><td>36</td><td>7</td><td>0.837</td><td>1685</td><td>999</td><td>1.687</td><td>40</td><td>28%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>2</td><td class="left-align">notas</td><td>1815</td><td>20</td><td>14</td><td>6</td><td>0.700</td><td>665</td><td>474</td><td>1.403</td><td>28</td><td>25%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>3</td><td class="left-align">Lokio</td><td>1729</td><td>26</td><td>18</td><td>8</td><td>0.692</td><td>824</td><td>592</td><td>1.392</td><td>24</td><td>26%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>4</td><td class="left-align">Honzik1</td><td>1554</td><td>20</td><td>11</td><td>9</td><td>0.550</td><td>634</td><td>569</td><td>1.114</td><td>23</td><td>25%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>5</td><td class="left-align">Rotti</td><td>1484</td><td>7</td><td>3</td><td>4</td><td>0.429</td><td>142</td><td>236</td><td>0.602</td><td>6</td><td>21%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>6</td><td class="left-align">starch</td><td>1458</td><td>7</td><td>3</td><td>4</td><td>0.429</td><td>155</td><td>59</td><td>2.627</td><td>1</td><td>26%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>7</td><td class="left-align">Frosty</td><td>1448</td><td>17</td><td>7</td><td>10</td><td>0.412</td><td>368</td><td>517</td><td>0.712</td><td>28</td><td>21%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>8</td><td class="left-align">DarkFire</td><td>1436</td><td>5</td><td>2</td><td>3</td><td>0.400</td><td>81</td><td>178</td><td>0.455</td><td>2</td><td>22%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>9</td><td class="left-align">Alluro</td><td>1330</td><td>5</td><td>1</td><td>4</td><td>0.200</td><td>88</td><td>140</td><td>0.629</td><td>4</td><td>26%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>10</td><td class="left-align">Partizan</td><td>1309</td><td>5</td><td>1</td><td>4</td><td>0.200</td><td>110</td><td>139</td><td>0.791</td><td>2</td><td>32%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>11</td><td class="left-align">h8</td><td>1257</td><td>18</td><td>3</td><td>15</td><td>0.167</td><td>270</td><td>688</td><td>0.392</td><td>33</td><td>25%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>12</td><td class="left-align">__FRY__</td><td>1254</td><td>7</td><td>1</td><td>6</td><td>0.143</td><td>76</td><td>343</td><td>0.222</td><td>8</td><td>21%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>13</td><td class="left-align">Zarah</td><td>1153</td><td>7</td><td>0</td><td>7</td><td>0.000</td><td>8</td><td>183</td><td>0.044</td><td>4</td><td>18%</td>
-        </tr>
-      
-    
-      
-        <tr>
-          <td>14</td><td class="left-align">BudSpencer</td><td>1149</td><td>15</td><td>1</td><td>14</td><td>0.067</td><td>219</td><td>626</td><td>0.350</td><td>6</td><td>26%</td>
-        </tr>
-      
-    
-  </tbody>
-</table>
-<br />
+
+{% include_relative _basic_stats.html players=site.data.ffa.stats %}
+
+<br/>
 <h3>Weapon Stats</h3>
 <table class="sortable">
-  <thead>
-    <tr>
-      <th>Rank</th>
-      <th>Player</th>
-      <th>Accuracy</th>
-      <th><img class="icon" src="http://sauerduels.me/images/shotgun.png" alt="Chainsaw" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/chaingun.png" alt="Chaingun" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/rocket.png" alt="Rocket Launcher" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/rifle.png" alt="Rifle" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/grenade.png" alt="Grenade Launcher" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/pistol.png" alt="Pistol" /></th>
-      <th><img class="icon" src="http://sauerduels.me/images/fist.png" alt="Chainsaw" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    
-      
+    <thead>
         <tr>
-          
-            <td>1</td>
-            <td class="left-align">Redon</td>
-            <td>28%</td>
-            <td>31%</td><td>25%</td><td>34%</td><td>37%</td><td>18%</td><td>41%</td><td>17%</td>
-          
+            <th>Rank</th>
+            <th>Player</th>
+            <th>Accuracy</th>
+            <th><img class="icon" src="http://sauerduels.me/images/shotgun.png" alt="Shotgun"/></th>
+            <th><img class="icon" src="http://sauerduels.me/images/chaingun.png" alt="Chaingun"/></th>
+            <th><img class="icon" src="http://sauerduels.me/images/rocket.png" alt="Rocket Launcher"/></th>
+            <th><img class="icon" src="http://sauerduels.me/images/rifle.png" alt="Rifle"/></th>
+            <th><img class="icon" src="http://sauerduels.me/images/grenade.png" alt="Grenade Launcher"/></th>
+            <th><img class="icon" src="http://sauerduels.me/images/pistol.png" alt="Pistol" /></th>
+            <th><img class="icon" src="http://sauerduels.me/images/fist.png" alt="Chainsaw"/></th>
         </tr>
-      
-    
-      
+    </thead>
+    <tbody>
+
+        {% for player in site.data.ffa.weapon_stats %}
+
         <tr>
-          
-            <td>2</td>
-            <td class="left-align">notas</td>
-            <td>25%</td>
-            <td>23%</td><td>21%</td><td>31%</td><td>40%</td><td>19%</td><td>35%</td><td>19%</td>
-          
+            <td>{{ player.rank }}</td>
+            <td class="left-align">{{ player.name }}</td>
+            <td>{{ player.accuracy }}</td>
+            <td>{{ player.shotgun }}</td>
+            <td>{{ player.chaingun }}</td>
+            <td>{{ player.rocket_launcher }}</td>
+            <td>{{ player.rifle }}</td>
+            <td>{{ player.grenade_launcher }}</td>
+            <td>{{ player.pistol }}</td>
+            <td>{{ player.chainsaw }}</td>
         </tr>
-      
-    
-      
-        <tr>
-          
-            <td>3</td>
-            <td class="left-align">Lokio</td>
-            <td>26%</td>
-            <td>29%</td><td>24%</td><td>33%</td><td>40%</td><td>22%</td><td>36%</td><td>29%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>4</td>
-            <td class="left-align">Honzik1</td>
-            <td>25%</td>
-            <td>30%</td><td>22%</td><td>32%</td><td>44%</td><td>15%</td><td>34%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>5</td>
-            <td class="left-align">Rotti</td>
-            <td>21%</td>
-            <td>16%</td><td>20%</td><td>29%</td><td>20%</td><td>16%</td><td>20%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>6</td>
-            <td class="left-align">starch</td>
-            <td>26%</td>
-            <td>24%</td><td>26%</td><td>30%</td><td>34%</td><td>19%</td><td>29%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>7</td>
-            <td class="left-align">Frosty</td>
-            <td>21%</td>
-            <td>24%</td><td>17%</td><td>26%</td><td>37%</td><td>18%</td><td>36%</td><td>03%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>8</td>
-            <td class="left-align">DarkFire</td>
-            <td>22%</td>
-            <td>32%</td><td>22%</td><td>19%</td><td>33%</td><td>25%</td><td>22%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>9</td>
-            <td class="left-align">Alluro</td>
-            <td>26%</td>
-            <td>27%</td><td>25%</td><td>29%</td><td>30%</td><td>18%</td><td>30%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>10</td>
-            <td class="left-align">Partizan</td>
-            <td>32%</td>
-            <td>33%</td><td>30%</td><td>42%</td><td>32%</td><td>21%</td><td>40%</td><td>125%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>11</td>
-            <td class="left-align">h8</td>
-            <td>25%</td>
-            <td>33%</td><td>19%</td><td>33%</td><td>33%</td><td>21%</td><td>30%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>12</td>
-            <td class="left-align">__FRY__</td>
-            <td>21%</td>
-            <td>23%</td><td>18%</td><td>23%</td><td>27%</td><td>22%</td><td>21%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>13</td>
-            <td class="left-align">Zarah</td>
-            <td>18%</td>
-            <td>14%</td><td>21%</td><td>20%</td><td>22%</td><td>09%</td><td>18%</td><td>00%</td>
-          
-        </tr>
-      
-    
-      
-        <tr>
-          
-            <td>14</td>
-            <td class="left-align">BudSpencer</td>
-            <td>26%</td>
-            <td>25%</td><td>25%</td><td>32%</td><td>33%</td><td>12%</td><td>34%</td><td>11%</td>
-          
-        </tr>
-      
-    
-  </tbody>
+        {% endfor %}
+
+    </tbody>
 </table>
