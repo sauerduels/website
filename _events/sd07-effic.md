@@ -11,7 +11,7 @@ finals:
       slug: sd07_final_honzik1_vs_rexus_game1
     - title: academy 51:55
       slug: sd07_final_honzik1_vs_rexus_game2
-    - title: turbine 85:81
+    - title: simplicity 85:81
       slug: sd07_final_honzik1_vs_rexus_game3
 groups:
   a:
