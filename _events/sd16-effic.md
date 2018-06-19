@@ -75,7 +75,7 @@ groups:
     - - result: Lokio def. Friteq
         slug: sd16_friteq_vs_lokio
       - result: raffael def. __FRY__
-        slug: sd16___fry_vs_raffael
+        slug: sd16___fry___vs_raffael
       - result: hades def. Jawer
         slug: sd16_hades_vs_jawer
       - result: Shinnok def. Jason
