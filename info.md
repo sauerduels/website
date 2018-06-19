@@ -11,7 +11,7 @@ You can sign up by creating a Challonge account and using our [sign up page](/si
 
 ## Format
 
-All events will be played using the round robin format. This means that players will be put into groups, and play one game against each opponent in their group. Then, after all the games are completed, the top player from each group will play against each other in a best of 3 series to determine who wins the title. If there are not enough players for more than one group, the top 2 players will play each other for the title. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
+All events will be played using the round robin format. This means that players will be put into groups, and play one game against each opponent in their group. Then, after all the games are completed, the top two players from each group will advance to the semi-finals facing the opposite player from each group. If there are more than 2 groups, only the top player will advance. To reward the top finishing player, they will only need one victory to advance to the finals, while their opponent needs two. The finals will be a best of 3 series regardless of who advances. The losers will play in a standard single match for 3rd place. If there are not enough players for more than one group, the top 4 players will advance to the next round. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
 
 ## Tiebreakers
 
@@ -32,7 +32,7 @@ If for any reason the server crashes or a player loses their scores, an admin wi
 
 ## Maps
 
-We want the map picking to be as fair and equal as possible. Round robin matchups will be only one game, so 3 maps will be randomly selected from the pool for each game. Then, the players each get to veto one of these maps, and the map that was not vetoed will be played. The player with the lower ELO ranking MUST veto first. For the title matches, the player with the higher ELO ranking will get the first, and final pick if necessary. Here are the current map pools:
+We want the map picking to be as fair and equal as possible. Round robin matchups will be only one game, so 3 maps will be randomly selected from the pool for each game. Then, the players each get to veto one of these maps, and the map that was not vetoed will be played. The player with the lower ELO ranking MUST veto first. For the semi-final and title matches, each player may pick a map of their choice, with the player with the higher ELO getting the first pick, as well as the final veto when vetoing out the rest of the pool if necessary. Here are the current map pools:
 
 | Efficiency | FFA | Instagib |
 | :--------: | :-: | :------: |

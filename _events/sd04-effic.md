@@ -112,5 +112,4 @@ groups:
         slug: sd04_budspencer_vs_hades
       - result: Gangler def. Khornettoh
         slug: 
-
 ---
