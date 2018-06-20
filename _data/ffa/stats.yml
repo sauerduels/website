@@ -1,6 +1,6 @@
 ---
 - rank: 1
-  name: Redon
+  name: "Redon"
   elo: 1846
   games: 43
   wins: 36
@@ -12,19 +12,19 @@
   suicides: 40
   accuracy: 28%
 - rank: 2
-  name: notas
+  name: "notas"
   elo: 1815
   games: 20
   wins: 14
   losses: 6
-  win_ratio: 0.7
+  win_ratio: 0.700
   frags: 665
   deaths: 474
   kpd: 1.403
   suicides: 28
   accuracy: 25%
 - rank: 3
-  name: Lokio
+  name: "Lokio"
   elo: 1729
   games: 26
   wins: 18
@@ -36,19 +36,19 @@
   suicides: 24
   accuracy: 26%
 - rank: 4
-  name: Honzik1
+  name: "Honzik1"
   elo: 1554
   games: 20
   wins: 11
   losses: 9
-  win_ratio: 0.55
+  win_ratio: 0.550
   frags: 634
   deaths: 569
   kpd: 1.114
   suicides: 23
   accuracy: 25%
 - rank: 5
-  name: Rotti
+  name: "Rotti"
   elo: 1484
   games: 7
   wins: 3
@@ -60,7 +60,7 @@
   suicides: 6
   accuracy: 21%
 - rank: 6
-  name: starch
+  name: "starch"
   elo: 1458
   games: 7
   wins: 3
@@ -72,7 +72,7 @@
   suicides: 1
   accuracy: 26%
 - rank: 7
-  name: Frosty
+  name: "Frosty"
   elo: 1448
   games: 17
   wins: 7
@@ -84,43 +84,43 @@
   suicides: 28
   accuracy: 21%
 - rank: 8
-  name: DarkFire
+  name: "DarkFire"
   elo: 1436
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.4
+  win_ratio: 0.400
   frags: 81
   deaths: 178
   kpd: 0.455
   suicides: 2
   accuracy: 22%
 - rank: 9
-  name: Alluro
+  name: "Alluro"
   elo: 1330
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.2
+  win_ratio: 0.200
   frags: 88
   deaths: 140
   kpd: 0.629
   suicides: 4
   accuracy: 26%
 - rank: 10
-  name: Partizan
+  name: "Partizan"
   elo: 1309
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.2
+  win_ratio: 0.200
   frags: 110
   deaths: 139
   kpd: 0.791
   suicides: 2
   accuracy: 32%
 - rank: 11
-  name: h8
+  name: "h8"
   elo: 1257
   games: 18
   wins: 3
@@ -132,7 +132,7 @@
   suicides: 33
   accuracy: 25%
 - rank: 12
-  name: __FRY__
+  name: "__FRY__"
   elo: 1254
   games: 7
   wins: 1
@@ -144,19 +144,19 @@
   suicides: 8
   accuracy: 21%
 - rank: 13
-  name: Zarah
+  name: "Zarah"
   elo: 1153
   games: 7
   wins: 0
   losses: 7
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 8
   deaths: 183
   kpd: 0.044
   suicides: 4
   accuracy: 18%
 - rank: 14
-  name: BudSpencer
+  name: "BudSpencer"
   elo: 1149
   games: 15
   wins: 1
@@ -164,6 +164,7 @@
   win_ratio: 0.067
   frags: 219
   deaths: 626
-  kpd: 0.35
+  kpd: 0.350
   suicides: 6
   accuracy: 26%
+---

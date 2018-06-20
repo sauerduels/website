@@ -1,6 +1,6 @@
 ---
 - rank: 1
-  name: Redon
+  name: "Redon"
   accuracy: 28%
   shotgun: 31%
   chaingun: 25%
@@ -10,7 +10,7 @@
   pistol: 41%
   chainsaw: 17%
 - rank: 2
-  name: notas
+  name: "notas"
   accuracy: 25%
   shotgun: 23%
   chaingun: 21%
@@ -20,7 +20,7 @@
   pistol: 35%
   chainsaw: 19%
 - rank: 3
-  name: Lokio
+  name: "Lokio"
   accuracy: 26%
   shotgun: 29%
   chaingun: 24%
@@ -30,7 +30,7 @@
   pistol: 36%
   chainsaw: 29%
 - rank: 4
-  name: Honzik1
+  name: "Honzik1"
   accuracy: 25%
   shotgun: 30%
   chaingun: 22%
@@ -40,7 +40,7 @@
   pistol: 34%
   chainsaw: 00%
 - rank: 5
-  name: Rotti
+  name: "Rotti"
   accuracy: 21%
   shotgun: 16%
   chaingun: 20%
@@ -50,7 +50,7 @@
   pistol: 20%
   chainsaw: 00%
 - rank: 6
-  name: starch
+  name: "starch"
   accuracy: 26%
   shotgun: 24%
   chaingun: 26%
@@ -60,7 +60,7 @@
   pistol: 29%
   chainsaw: 00%
 - rank: 7
-  name: Frosty
+  name: "Frosty"
   accuracy: 21%
   shotgun: 24%
   chaingun: 17%
@@ -70,7 +70,7 @@
   pistol: 36%
   chainsaw: 03%
 - rank: 8
-  name: DarkFire
+  name: "DarkFire"
   accuracy: 22%
   shotgun: 32%
   chaingun: 22%
@@ -80,7 +80,7 @@
   pistol: 22%
   chainsaw: 00%
 - rank: 9
-  name: Alluro
+  name: "Alluro"
   accuracy: 26%
   shotgun: 27%
   chaingun: 25%
@@ -90,7 +90,7 @@
   pistol: 30%
   chainsaw: 00%
 - rank: 10
-  name: Partizan
+  name: "Partizan"
   accuracy: 32%
   shotgun: 33%
   chaingun: 30%
@@ -100,7 +100,7 @@
   pistol: 40%
   chainsaw: 125%
 - rank: 11
-  name: h8
+  name: "h8"
   accuracy: 25%
   shotgun: 33%
   chaingun: 19%
@@ -110,7 +110,7 @@
   pistol: 30%
   chainsaw: 00%
 - rank: 12
-  name: __FRY__
+  name: "__FRY__"
   accuracy: 21%
   shotgun: 23%
   chaingun: 18%
@@ -120,7 +120,7 @@
   pistol: 21%
   chainsaw: 00%
 - rank: 13
-  name: Zarah
+  name: "Zarah"
   accuracy: 18%
   shotgun: 14%
   chaingun: 21%
@@ -130,7 +130,7 @@
   pistol: 18%
   chainsaw: 00%
 - rank: 14
-  name: BudSpencer
+  name: "BudSpencer"
   accuracy: 26%
   shotgun: 25%
   chaingun: 25%
@@ -139,3 +139,5 @@
   grenade_launcher: 12%
   pistol: 34%
   chainsaw: 11%
+
+---

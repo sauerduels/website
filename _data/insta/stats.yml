@@ -1,18 +1,18 @@
 ---
 - rank: 1
-  name: Gangler
+  name: "Gangler"
   elo: 1855
   games: 25
   wins: 22
   losses: 3
-  win_ratio: 0.88
+  win_ratio: 0.880
   frags: 2272
   deaths: 1758
   kpd: 1.292
   suicides: 1
   accuracy: 38%
 - rank: 2
-  name: starch
+  name: "starch"
   elo: 1850
   games: 13
   wins: 12
@@ -24,7 +24,7 @@
   suicides: 1
   accuracy: 39%
 - rank: 3
-  name: Honzik1
+  name: "Honzik1"
   elo: 1759
   games: 8
   wins: 7
@@ -36,7 +36,7 @@
   suicides: 1
   accuracy: 37%
 - rank: 4
-  name: Partizan
+  name: "Partizan"
   elo: 1724
   games: 6
   wins: 5
@@ -48,7 +48,7 @@
   suicides: 0
   accuracy: 32%
 - rank: 5
-  name: Rexus
+  name: "Rexus"
   elo: 1709
   games: 13
   wins: 9
@@ -60,19 +60,19 @@
   suicides: 0
   accuracy: 40%
 - rank: 6
-  name: DarkFire
+  name: "DarkFire"
   elo: 1690
   games: 5
   wins: 4
   losses: 1
-  win_ratio: 0.8
+  win_ratio: 0.800
   frags: 496
   deaths: 397
   kpd: 1.249
   suicides: 0
   accuracy: 33%
 - rank: 7
-  name: Shinnok
+  name: "Shinnok"
   elo: 1679
   games: 12
   wins: 8
@@ -84,19 +84,19 @@
   suicides: 0
   accuracy: 27%
 - rank: 8
-  name: lagout
+  name: "lagout"
   elo: 1646
   games: 4
   wins: 3
   losses: 1
-  win_ratio: 0.75
+  win_ratio: 0.750
   frags: 381
   deaths: 307
   kpd: 1.241
   suicides: 0
   accuracy: 36%
 - rank: 9
-  name: fatmonkeygenius
+  name: "fatmonkeygenius"
   elo: 1643
   games: 13
   wins: 8
@@ -104,11 +104,11 @@
   win_ratio: 0.615
   frags: 1113
   deaths: 905
-  kpd: 1.23
+  kpd: 1.230
   suicides: 1
   accuracy: 36%
 - rank: 10
-  name: Frosty
+  name: "Frosty"
   elo: 1638
   games: 14
   wins: 9
@@ -116,23 +116,23 @@
   win_ratio: 0.643
   frags: 971
   deaths: 859
-  kpd: 1.13
+  kpd: 1.130
   suicides: 1
   accuracy: 31%
 - rank: 11
-  name: Fear
+  name: "Fear"
   elo: 1620
   games: 10
   wins: 7
   losses: 3
-  win_ratio: 0.7
+  win_ratio: 0.700
   frags: 920
   deaths: 703
   kpd: 1.309
   suicides: 2
   accuracy: 39%
 - rank: 12
-  name: hades
+  name: "hades"
   elo: 1582
   games: 9
   wins: 5
@@ -144,19 +144,19 @@
   suicides: 1
   accuracy: 37%
 - rank: 13
-  name: Bertolt_Brecht
+  name: "Bertolt_Brecht"
   elo: 1563
   games: 5
   wins: 3
   losses: 2
-  win_ratio: 0.6
+  win_ratio: 0.600
   frags: 295
   deaths: 370
   kpd: 0.797
   suicides: 0
   accuracy: 31%
 - rank: 14
-  name: Headway
+  name: "Headway"
   elo: 1534
   games: 19
   wins: 9
@@ -168,7 +168,7 @@
   suicides: 2
   accuracy: 38%
 - rank: 15
-  name: Shikijo
+  name: "Shikijo"
   elo: 1467
   games: 3
   wins: 1
@@ -180,7 +180,7 @@
   suicides: 0
   accuracy: 33%
 - rank: 16
-  name: Redon
+  name: "Redon"
   elo: 1449
   games: 3
   wins: 1
@@ -192,31 +192,43 @@
   suicides: 2
   accuracy: 31%
 - rank: 17
-  name: Lokio
+  name: "Alluro"
   elo: 1436
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.4
-  frags: 411
-  deaths: 383
-  kpd: 1.073
-  suicides: 0
-  accuracy: 36%
-- rank: 17
-  name: Alluro
-  elo: 1436
-  games: 5
-  wins: 2
-  losses: 3
-  win_ratio: 0.4
+  win_ratio: 0.400
   frags: 396
   deaths: 446
   kpd: 0.888
   suicides: 0
   accuracy: 34%
+- rank: 17
+  name: "Lokio"
+  elo: 1436
+  games: 5
+  wins: 2
+  losses: 3
+  win_ratio: 0.400
+  frags: 411
+  deaths: 383
+  kpd: 1.073
+  suicides: 0
+  accuracy: 36%
 - rank: 19
-  name: Rotti
+  name: "Cannibal"
+  elo: 1394
+  games: 7
+  wins: 2
+  losses: 5
+  win_ratio: 0.286
+  frags: 425
+  deaths: 337
+  kpd: 1.261
+  suicides: 0
+  accuracy: 31%
+- rank: 19
+  name: "Rotti"
   elo: 1394
   games: 7
   wins: 2
@@ -228,7 +240,7 @@
   suicides: 0
   accuracy: 29%
 - rank: 19
-  name: Calinou
+  name: "Calinou"
   elo: 1394
   games: 7
   wins: 2
@@ -239,20 +251,8 @@
   kpd: 0.655
   suicides: 0
   accuracy: 25%
-- rank: 19
-  name: Cannibal
-  elo: 1394
-  games: 7
-  wins: 2
-  losses: 5
-  win_ratio: 0.286
-  frags: 425
-  deaths: 337
-  kpd: 1.261
-  suicides: 0
-  accuracy: 31%
 - rank: 22
-  name: BudSpencer
+  name: "BudSpencer"
   elo: 1382
   games: 11
   wins: 4
@@ -260,59 +260,59 @@
   win_ratio: 0.364
   frags: 980
   deaths: 1010
-  kpd: 0.97
+  kpd: 0.970
   suicides: 0
   accuracy: 33%
 - rank: 23
-  name: Khornettoh
+  name: "Khornettoh"
   elo: 1353
   games: 4
   wins: 1
   losses: 3
-  win_ratio: 0.25
+  win_ratio: 0.250
   frags: 288
   deaths: 403
   kpd: 0.715
   suicides: 0
   accuracy: 26%
 - rank: 24
-  name: Morry
+  name: "morry"
   elo: 1310
   games: 3
   wins: 0
   losses: 3
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 222
   deaths: 312
   kpd: 0.712
   suicides: 0
   accuracy: 27%
 - rank: 25
-  name: yggdrasil
+  name: "yggdrasil"
   elo: 1309
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.2
+  win_ratio: 0.200
   frags: 175
   deaths: 167
   kpd: 1.048
   suicides: 0
   accuracy: 29%
 - rank: 25
-  name: Josh22
+  name: "Josh22"
   elo: 1309
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.2
+  win_ratio: 0.200
   frags: 206
   deaths: 534
   kpd: 0.386
   suicides: 1
   accuracy: 21%
 - rank: 27
-  name: ZCrone
+  name: "ZCrone"
   elo: 1287
   games: 9
   wins: 2
@@ -324,74 +324,75 @@
   suicides: 0
   accuracy: 28%
 - rank: 28
-  name: Tengrichan
+  name: "Tengrichan"
   elo: 1284
   games: 3
   wins: 0
   losses: 3
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 216
   deaths: 301
   kpd: 0.718
   suicides: 0
   accuracy: 34%
 - rank: 29
-  name: Harsh
+  name: "Harsh"
   elo: 1243
   games: 3
   wins: 0
   losses: 3
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 214
   deaths: 342
   kpd: 0.626
   suicides: 0
   accuracy: 23%
 - rank: 30
-  name: '1989'
+  name: "1989"
   elo: 1208
   games: 7
   wins: 0
   losses: 7
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 239
   deaths: 464
   kpd: 0.515
   suicides: 0
   accuracy: 20%
 - rank: 31
-  name: NoobGuy
+  name: "NoobGuy"
   elo: 1182
   games: 5
   wins: 0
   losses: 5
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 370
   deaths: 499
   kpd: 0.741
   suicides: 0
   accuracy: 25%
 - rank: 32
-  name: 4-Tune
+  name: "4-Tune"
   elo: 1171
   games: 4
   wins: 0
   losses: 4
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 278
   deaths: 427
   kpd: 0.651
   suicides: 0
   accuracy: 30%
 - rank: 33
-  name: Phönix
+  name: "Phönix"
   elo: 1080
   games: 12
   wins: 0
   losses: 12
-  win_ratio: 0
+  win_ratio: 0.000
   frags: 889
   deaths: 1194
   kpd: 0.745
   suicides: 0
   accuracy: 29%
+---
