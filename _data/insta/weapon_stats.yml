@@ -90,15 +90,15 @@
   rifle: 39%
   chainsaw: 07%
 - rank: 19
-  name: "Cannibal"
-  accuracy: 31%
-  rifle: 31%
-  chainsaw: 00%
-- rank: 19
   name: "Rotti"
   accuracy: 29%
   rifle: 29%
   chainsaw: 08%
+- rank: 19
+  name: "Cannibal"
+  accuracy: 31%
+  rifle: 31%
+  chainsaw: 00%
 - rank: 19
   name: "Calinou"
   accuracy: 25%
@@ -120,15 +120,15 @@
   rifle: 27%
   chainsaw: 50%
 - rank: 25
-  name: "yggdrasil"
-  accuracy: 29%
-  rifle: 29%
-  chainsaw: 33%
-- rank: 25
   name: "Josh22"
   accuracy: 21%
   rifle: 21%
   chainsaw: 00%
+- rank: 25
+  name: "yggdrasil"
+  accuracy: 29%
+  rifle: 29%
+  chainsaw: 33%
 - rank: 27
   name: "ZCrone"
   accuracy: 28%

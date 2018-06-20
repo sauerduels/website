@@ -216,18 +216,6 @@
   suicides: 0
   accuracy: 36%
 - rank: 19
-  name: "Cannibal"
-  elo: 1394
-  games: 7
-  wins: 2
-  losses: 5
-  win_ratio: 0.286
-  frags: 425
-  deaths: 337
-  kpd: 1.261
-  suicides: 0
-  accuracy: 31%
-- rank: 19
   name: "Rotti"
   elo: 1394
   games: 7
@@ -239,6 +227,18 @@
   kpd: 0.712
   suicides: 0
   accuracy: 29%
+- rank: 19
+  name: "Cannibal"
+  elo: 1394
+  games: 7
+  wins: 2
+  losses: 5
+  win_ratio: 0.286
+  frags: 425
+  deaths: 337
+  kpd: 1.261
+  suicides: 0
+  accuracy: 31%
 - rank: 19
   name: "Calinou"
   elo: 1394
@@ -288,18 +288,6 @@
   suicides: 0
   accuracy: 27%
 - rank: 25
-  name: "yggdrasil"
-  elo: 1309
-  games: 5
-  wins: 1
-  losses: 4
-  win_ratio: 0.200
-  frags: 175
-  deaths: 167
-  kpd: 1.048
-  suicides: 0
-  accuracy: 29%
-- rank: 25
   name: "Josh22"
   elo: 1309
   games: 5
@@ -311,6 +299,18 @@
   kpd: 0.386
   suicides: 1
   accuracy: 21%
+- rank: 25
+  name: "yggdrasil"
+  elo: 1309
+  games: 5
+  wins: 1
+  losses: 4
+  win_ratio: 0.200
+  frags: 175
+  deaths: 167
+  kpd: 1.048
+  suicides: 0
+  accuracy: 29%
 - rank: 27
   name: "ZCrone"
   elo: 1287

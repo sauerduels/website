@@ -144,18 +144,6 @@
   suicides: 9
   accuracy: 26%
 - rank: 13
-  name: "__FRY_"
-  elo: 1575
-  games: 1
-  wins: 1
-  losses: 0
-  win_ratio: 1.000
-  frags: 0
-  deaths: 0
-  kpd: 0.000
-  suicides: 0
-  accuracy: 00%
-- rank: 14
   name: "Shinnok"
   elo: 1566
   games: 7
@@ -167,7 +155,7 @@
   kpd: 0.841
   suicides: 7
   accuracy: 18%
-- rank: 15
+- rank: 14
   name: "Aiurz"
   elo: 1537
   games: 7
@@ -179,7 +167,7 @@
   kpd: 0.968
   suicides: 5
   accuracy: 26%
-- rank: 16
+- rank: 15
   name: "Redon"
   elo: 1519
   games: 5
@@ -191,7 +179,7 @@
   kpd: 0.980
   suicides: 7
   accuracy: 28%
-- rank: 17
+- rank: 16
   name: "Fear"
   elo: 1500
   games: 4
@@ -203,7 +191,7 @@
   kpd: 1.010
   suicides: 7
   accuracy: 29%
-- rank: 18
+- rank: 17
   name: "BudSpencer"
   elo: 1490
   games: 16
@@ -215,7 +203,7 @@
   kpd: 0.980
   suicides: 13
   accuracy: 29%
-- rank: 19
+- rank: 18
   name: "Jawer"
   elo: 1475
   games: 7
@@ -227,7 +215,7 @@
   kpd: 0.934
   suicides: 7
   accuracy: 23%
-- rank: 20
+- rank: 19
   name: "Morry"
   elo: 1459
   games: 9
@@ -239,7 +227,7 @@
   kpd: 0.850
   suicides: 7
   accuracy: 22%
-- rank: 21
+- rank: 20
   name: "BenKei"
   elo: 1436
   games: 7
@@ -251,7 +239,7 @@
   kpd: 1.037
   suicides: 10
   accuracy: 24%
-- rank: 22
+- rank: 21
   name: "bug"
   elo: 1423
   games: 15
@@ -263,7 +251,7 @@
   kpd: 0.862
   suicides: 20
   accuracy: 19%
-- rank: 23
+- rank: 22
   name: "Ren4rd"
   elo: 1390
   games: 7
@@ -275,7 +263,7 @@
   kpd: 0.764
   suicides: 6
   accuracy: 21%
-- rank: 24
+- rank: 23
   name: "shuzo"
   elo: 1361
   games: 7
@@ -287,7 +275,7 @@
   kpd: 0.803
   suicides: 5
   accuracy: 21%
-- rank: 25
+- rank: 24
   name: "DarkFire"
   elo: 1353
   games: 4
@@ -299,7 +287,7 @@
   kpd: 0.899
   suicides: 5
   accuracy: 23%
-- rank: 26
+- rank: 25
   name: "Khornettoh"
   elo: 1341
   games: 15
@@ -310,6 +298,18 @@
   deaths: 872
   kpd: 0.838
   suicides: 28
+  accuracy: 21%
+- rank: 26
+  name: "__FRY__"
+  elo: 1338
+  games: 16
+  wins: 4
+  losses: 12
+  win_ratio: 0.250
+  frags: 671
+  deaths: 976
+  kpd: 0.688
+  suicides: 23
   accuracy: 21%
 - rank: 27
   name: "Bertolt_Brecht"
@@ -335,19 +335,7 @@
   kpd: 0.702
   suicides: 1
   accuracy: 22%
-- rank: 28
-  name: "__FRY__"
-  elo: 1309
-  games: 15
-  wins: 3
-  losses: 12
-  win_ratio: 0.200
-  frags: 671
-  deaths: 976
-  kpd: 0.688
-  suicides: 23
-  accuracy: 21%
-- rank: 30
+- rank: 29
   name: "hamon"
   elo: 1273
   games: 4
@@ -359,7 +347,7 @@
   kpd: 0.592
   suicides: 19
   accuracy: 20%
-- rank: 31
+- rank: 30
   name: "Jason"
   elo: 1269
   games: 7
@@ -371,7 +359,7 @@
   kpd: 0.775
   suicides: 7
   accuracy: 24%
-- rank: 32
+- rank: 31
   name: "Harsh"
   elo: 1256
   games: 5
@@ -383,7 +371,7 @@
   kpd: 0.709
   suicides: 7
   accuracy: 24%
-- rank: 33
+- rank: 32
   name: "Phönix"
   elo: 1237
   games: 4
@@ -395,7 +383,7 @@
   kpd: 0.547
   suicides: 12
   accuracy: 21%
-- rank: 34
+- rank: 33
   name: "ZCrone"
   elo: 1225
   games: 24
@@ -407,7 +395,7 @@
   kpd: 0.695
   suicides: 34
   accuracy: 22%
-- rank: 35
+- rank: 34
   name: "Tamin0"
   elo: 1207
   games: 4
@@ -419,7 +407,7 @@
   kpd: 0.698
   suicides: 2
   accuracy: 20%
-- rank: 36
+- rank: 35
   name: "Josh22"
   elo: 1178
   games: 6
@@ -431,19 +419,7 @@
   kpd: 0.399
   suicides: 13
   accuracy: 16%
-- rank: 37
-  name: "Friteq"
-  elo: 1162
-  games: 12
-  wins: 0
-  losses: 12
-  win_ratio: 0.000
-  frags: 491
-  deaths: 591
-  kpd: 0.831
-  suicides: 6
-  accuracy: 22%
-- rank: 38
+- rank: 36
   name: "Mod"
   elo: 1154
   games: 6
@@ -455,7 +431,7 @@
   kpd: 0.534
   suicides: 7
   accuracy: 16%
-- rank: 39
+- rank: 37
   name: "Atheroz"
   elo: 1152
   games: 7
@@ -467,7 +443,19 @@
   kpd: 0.651
   suicides: 6
   accuracy: 17%
-- rank: 40
+- rank: 38
+  name: "Friteq"
+  elo: 1151
+  games: 12
+  wins: 0
+  losses: 12
+  win_ratio: 0.000
+  frags: 491
+  deaths: 591
+  kpd: 0.831
+  suicides: 6
+  accuracy: 22%
+- rank: 39
   name: "greenadiss"
   elo: 1113
   games: 7
