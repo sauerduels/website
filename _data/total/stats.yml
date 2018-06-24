@@ -1,0 +1,410 @@
+---
+-
+  rank: '1'
+  name: starch
+  elo: '1759'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '2'
+  name: Honzik1
+  elo: '1695'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '3'
+  name: Lokio
+  elo: '1640'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '4'
+  name: Redon
+  elo: '1605'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '5'
+  name: Frosty
+  elo: '1604'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '6'
+  name: Partizan
+  elo: '1594'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '7'
+  name: notas
+  elo: '1521'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '8'
+  name: Rexus
+  elo: '1518'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '9'
+  name: Gangler
+  elo: '1504'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '10'
+  name: DarkFire
+  elo: '1493'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '11'
+  name: lagout
+  elo: '1485'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '12'
+  name: Alluro
+  elo: '1484'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '13'
+  name: hades
+  elo: '1428'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '14'
+  name: Shinnok
+  elo: '1415'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '15'
+  name: Fear
+  elo: '1373'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '16'
+  name: BudSpencer
+  elo: '1340'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '17'
+  name: Bertolt_Brecht
+  elo: '1299'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '18'
+  name: Rotti
+  elo: '1293'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '19'
+  name: raffael
+  elo: '1280'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '20'
+  name: Morry
+  elo: '1256'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '21'
+  name: Khornettoh
+  elo: '1231'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '22'
+  name: fatmonkeygenius
+  elo: '1214'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '23'
+  name: __FRY__
+  elo: '1197'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '24'
+  name: h8
+  elo: '1189'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '25'
+  name: Aiurz
+  elo: '1179'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '26'
+  name: Headway
+  elo: '1178'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '27'
+  name: ZCrone
+  elo: '1171'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '28'
+  name: Harsh
+  elo: '1166'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '29'
+  name: Josh22
+  elo: '1162'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '30'
+  name: Jawer
+  elo: '1158'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '31'
+  name: Shikijo
+  elo: '1156'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '32'
+  name: BenKei
+  elo: '1145'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '33'
+  name: bug
+  elo: '1141'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '34'
+  name: Cannibal
+  elo: '1131'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '35'
+  name: Calinou
+  elo: '1131'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '36'
+  name: Ren4rd
+  elo: '1130'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '37'
+  name: shuzo
+  elo: '1120'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '38'
+  name: Phönix
+  elo: '1106'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '39'
+  name: yggdrasil
+  elo: '1103'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '40'
+  name: Tengrichan
+  elo: '1095'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '41'
+  name: hamon
+  elo: '1091'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '42'
+  name: Jason
+  elo: '1090'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '43'
+  name: '1989'
+  elo: '1069'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '44'
+  name: Tamin0
+  elo: '1069'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '45'
+  name: NoobGuy
+  elo: '1061'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '46'
+  name: 4-Tune
+  elo: '1057'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '47'
+  name: Mod
+  elo: '1051'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '48'
+  name: Zarah
+  elo: '1051'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '49'
+  name: Atheroz
+  elo: '1051'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '50'
+  name: Friteq
+  elo: '1050'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+-
+  rank: '51'
+  name: greenadiss
+  elo: '1038'
+  games: ""
+  wins: ""
+  losses: ""
+  win_ratio: ""
+---
