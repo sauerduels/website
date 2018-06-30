@@ -15,7 +15,7 @@ All events will be played using the round robin format. This means that players 
 
 ## Tiebreakers
 
-We will use a set of tiebreaking rules if there are ties within a group. This will determine who advances to the finals and who earns third place. All rules will be used in order until one of the tiebreakers determines a winner. The rules are as follows:
+We will use a set of tiebreaking rules if there are ties within a group. This will determine seeding and who advances to the finals. All rules will be used in order until one of the tiebreakers determines a winner. The rules are as follows:
 
 * Better win/loss record vs other tied participants
 * Best of 1 tiebreaking matches, with ties for 3 or more participants, players will be seeded by higher score ratio versus tied participants
@@ -32,7 +32,7 @@ If for any reason the server crashes or a player loses their scores, an admin wi
 
 ## Maps
 
-We want the map picking to be as fair and equal as possible. Round robin matchups will be only one game, so 3 maps will be randomly selected from the pool for each game. Then, the players each get to veto one of these maps, and the map that was not vetoed will be played. The player with the lower ELO ranking MUST veto first. For the semi-final the player with the lower seed will get the first pick, and the higher seed will pick second if necessary. For title matches, the player with the higher ELO will get the first pick, as well as the final veto when vetoing out the rest of the pool if necessary. Here are the current map pools:
+We want the map picking to be as fair and equal as possible. Round robin matchups will be only one game, so 3 maps will be randomly selected from the pool for each game. Then, the players each get to veto one of these maps, and the map that was not vetoed will be played. The player with the lower ELO ranking MUST veto first. For the semi-final the player with the worse record will get the first pick, and the higher seed will pick second if necessary. For title matches, the player with the better record will get the first pick, as well as the final veto if vetoing out the rest of the pool is necessary due to a 1-1 tie. Here are the current map pools:
 
 | Efficiency | FFA | Instagib |
 | :--------: | :-: | :------: |
