@@ -56,7 +56,7 @@ groups:
         slug: sd01_gangler_vs_tamin0
       - result: Lokio def. Fear
         slug: sd01_fear_vs_lokio
-    - - result: Rudi def. Tamin0
+    - - result: Tamin0 def. Rudi
         slug: 
       - result: Lokio def. DarkFire
         slug: sd01_darkfire_vs_lokio
