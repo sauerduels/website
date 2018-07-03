@@ -25,20 +25,20 @@
   rifle: 41%
   chainsaw: 06%
 - rank: 6
-  name: "DarkFire"
-  accuracy: 33%
-  rifle: 35%
-  chainsaw: 04%
-- rank: 7
-  name: "Shinnok"
-  accuracy: 27%
-  rifle: 28%
-  chainsaw: 06%
-- rank: 8
   name: "lagout"
   accuracy: 36%
   rifle: 37%
   chainsaw: 17%
+- rank: 6
+  name: "DarkFire"
+  accuracy: 33%
+  rifle: 35%
+  chainsaw: 04%
+- rank: 8
+  name: "Shinnok"
+  accuracy: 27%
+  rifle: 28%
+  chainsaw: 06%
 - rank: 9
   name: "fatmonkeygenius"
   accuracy: 36%
@@ -80,56 +80,61 @@
   rifle: 31%
   chainsaw: 59%
 - rank: 17
-  name: "Alluro"
-  accuracy: 34%
-  rifle: 34%
-  chainsaw: 00%
-- rank: 17
-  name: "Lokio"
-  accuracy: 36%
-  rifle: 39%
-  chainsaw: 07%
-- rank: 19
-  name: "Rotti"
-  accuracy: 29%
-  rifle: 29%
-  chainsaw: 08%
-- rank: 19
-  name: "Cannibal"
-  accuracy: 31%
-  rifle: 31%
-  chainsaw: 00%
-- rank: 19
-  name: "Calinou"
-  accuracy: 25%
-  rifle: 25%
-  chainsaw: 08%
-- rank: 22
   name: "BudSpencer"
   accuracy: 33%
   rifle: 33%
   chainsaw: 00%
-- rank: 23
+- rank: 18
+  name: "Lokio"
+  accuracy: 36%
+  rifle: 39%
+  chainsaw: 07%
+- rank: 18
   name: "Khornettoh"
   accuracy: 26%
   rifle: 26%
   chainsaw: 11%
+- rank: 18
+  name: "Alluro"
+  accuracy: 34%
+  rifle: 34%
+  chainsaw: 00%
+- rank: 21
+  name: "Cannibal"
+  accuracy: 31%
+  rifle: 31%
+  chainsaw: 00%
+- rank: 21
+  name: "Calinou"
+  accuracy: 25%
+  rifle: 25%
+  chainsaw: 08%
+- rank: 21
+  name: "Rotti"
+  accuracy: 29%
+  rifle: 29%
+  chainsaw: 08%
 - rank: 24
+  name: "Harsh"
+  accuracy: 23%
+  rifle: 23%
+  chainsaw: 10%
+- rank: 25
   name: "Morry"
   accuracy: 27%
   rifle: 27%
   chainsaw: 50%
-- rank: 25
-  name: "Josh22"
-  accuracy: 21%
-  rifle: 21%
-  chainsaw: 00%
-- rank: 25
+- rank: 26
   name: "yggdrasil"
   accuracy: 29%
   rifle: 29%
   chainsaw: 33%
-- rank: 27
+- rank: 26
+  name: "Josh22"
+  accuracy: 21%
+  rifle: 21%
+  chainsaw: 00%
+- rank: 28
   name: "ZCrone"
   accuracy: 28%
   rifle: 28%
@@ -139,11 +144,6 @@
   accuracy: 34%
   rifle: 34%
   chainsaw: 00%
-- rank: 29
-  name: "Harsh"
-  accuracy: 23%
-  rifle: 23%
-  chainsaw: 10%
 - rank: 30
   name: "1989"
   accuracy: 20%
@@ -164,5 +164,5 @@
   accuracy: 29%
   rifle: 30%
   chainsaw: 05%
-
+  
 ---

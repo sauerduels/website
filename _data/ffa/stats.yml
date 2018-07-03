@@ -1,53 +1,77 @@
 ---
 - rank: 1
   name: "Redon"
-  elo: 1846
-  games: 43
-  wins: 36
-  losses: 7
-  win_ratio: 0.837
-  frags: 1685
-  deaths: 999
-  kpd: 1.687
-  suicides: 40
-  accuracy: 28%
+  elo: 1874
+  games: 52
+  wins: 44
+  losses: 8
+  win_ratio: 0.846
+  frags: 2049
+  deaths: 1239
+  kpd: 1.654
+  suicides: 50
+  accuracy: 27%
 - rank: 2
   name: "notas"
-  elo: 1815
-  games: 20
-  wins: 14
-  losses: 6
-  win_ratio: 0.700
-  frags: 665
-  deaths: 474
-  kpd: 1.403
-  suicides: 28
-  accuracy: 25%
+  elo: 1808
+  games: 28
+  wins: 19
+  losses: 9
+  win_ratio: 0.679
+  frags: 821
+  deaths: 862
+  kpd: 0.952
+  suicides: 131
+  accuracy: 26%
 - rank: 3
   name: "Lokio"
-  elo: 1729
-  games: 26
-  wins: 18
-  losses: 8
-  win_ratio: 0.692
-  frags: 824
-  deaths: 592
-  kpd: 1.392
-  suicides: 24
+  elo: 1704
+  games: 30
+  wins: 20
+  losses: 10
+  win_ratio: 0.667
+  frags: 976
+  deaths: 716
+  kpd: 1.363
+  suicides: 30
   accuracy: 26%
 - rank: 4
   name: "Honzik1"
-  elo: 1554
-  games: 20
-  wins: 11
-  losses: 9
-  win_ratio: 0.550
-  frags: 634
-  deaths: 569
-  kpd: 1.114
-  suicides: 23
-  accuracy: 25%
+  elo: 1600
+  games: 27
+  wins: 16
+  losses: 11
+  win_ratio: 0.593
+  frags: 858
+  deaths: 737
+  kpd: 1.164
+  suicides: 28
+  accuracy: 24%
 - rank: 5
+  name: "swatllama"
+  elo: 1592
+  games: 6
+  wins: 3
+  losses: 3
+  win_ratio: 0.500
+  frags: 211
+  deaths: 205
+  kpd: 1.029
+  suicides: 1
+  accuracy: 24%
+- rank: 6
+  name: "raffael"
+  elo: 1586
+  games: 4
+  wins: 2
+  losses: 2
+  win_ratio: 0.500
+  frags: 144
+  deaths: 121
+  kpd: 1.190
+  suicides: 1
+  accuracy: 24%
+- rank: 7
   name: "Rotti"
   elo: 1484
   games: 7
@@ -59,7 +83,19 @@
   kpd: 0.602
   suicides: 6
   accuracy: 21%
-- rank: 6
+- rank: 8
+  name: "Frosty"
+  elo: 1476
+  games: 22
+  wins: 10
+  losses: 12
+  win_ratio: 0.455
+  frags: 521
+  deaths: 604
+  kpd: 0.863
+  suicides: 32
+  accuracy: 21%
+- rank: 9
   name: "starch"
   elo: 1458
   games: 7
@@ -71,19 +107,7 @@
   kpd: 2.627
   suicides: 1
   accuracy: 26%
-- rank: 7
-  name: "Frosty"
-  elo: 1448
-  games: 17
-  wins: 7
-  losses: 10
-  win_ratio: 0.412
-  frags: 368
-  deaths: 517
-  kpd: 0.712
-  suicides: 28
-  accuracy: 21%
-- rank: 8
+- rank: 10
   name: "DarkFire"
   elo: 1436
   games: 5
@@ -95,7 +119,19 @@
   kpd: 0.455
   suicides: 2
   accuracy: 22%
-- rank: 9
+- rank: 11
+  name: "degrave"
+  elo: 1409
+  games: 5
+  wins: 2
+  losses: 3
+  win_ratio: 0.400
+  frags: 97
+  deaths: 182
+  kpd: 0.533
+  suicides: 14
+  accuracy: 22%
+- rank: 12
   name: "Alluro"
   elo: 1330
   games: 5
@@ -107,7 +143,7 @@
   kpd: 0.629
   suicides: 4
   accuracy: 26%
-- rank: 10
+- rank: 13
   name: "Partizan"
   elo: 1309
   games: 5
@@ -119,19 +155,7 @@
   kpd: 0.791
   suicides: 2
   accuracy: 32%
-- rank: 11
-  name: "h8"
-  elo: 1257
-  games: 18
-  wins: 3
-  losses: 15
-  win_ratio: 0.167
-  frags: 270
-  deaths: 688
-  kpd: 0.392
-  suicides: 33
-  accuracy: 25%
-- rank: 12
+- rank: 14
   name: "__FRY__"
   elo: 1254
   games: 7
@@ -143,7 +167,31 @@
   kpd: 0.222
   suicides: 8
   accuracy: 21%
-- rank: 13
+- rank: 15
+  name: "h8"
+  elo: 1217
+  games: 22
+  wins: 3
+  losses: 19
+  win_ratio: 0.136
+  frags: 352
+  deaths: 866
+  kpd: 0.406
+  suicides: 43
+  accuracy: 25%
+- rank: 16
+  name: "BudSpencer"
+  elo: 1165
+  games: 20
+  wins: 2
+  losses: 18
+  win_ratio: 0.100
+  frags: 335
+  deaths: 757
+  kpd: 0.443
+  suicides: 7
+  accuracy: 26%
+- rank: 17
   name: "Zarah"
   elo: 1153
   games: 7
@@ -155,16 +203,16 @@
   kpd: 0.044
   suicides: 4
   accuracy: 18%
-- rank: 14
-  name: "BudSpencer"
-  elo: 1149
-  games: 15
-  wins: 1
-  losses: 14
-  win_ratio: 0.067
-  frags: 219
-  deaths: 626
-  kpd: 0.350
-  suicides: 6
-  accuracy: 26%
+- rank: 18
+  name: "ZCrone"
+  elo: 1152
+  games: 5
+  wins: 0
+  losses: 5
+  win_ratio: 0.000
+  frags: 34
+  deaths: 235
+  kpd: 0.145
+  suicides: 8
+  accuracy: 23%
 ---
