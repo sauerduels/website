@@ -14,19 +14,19 @@ finals:
     - title: metl2 49:39
       slug: sd17_final_notas_vs_redon_game3
 consolation:
-  result: Honzik1 def. swatllama
-  games:
-    - title: metl2 30:29
-      slug: sd17_consolation_honzik1_vs_swatllama_game1
+  - result: Honzik1 def. swatllama
+    games:
+      - title: metl2 30:29
+        slug: sd17_consolation_honzik1_vs_swatllama_game1
 semis:
-  result: Redon def. swatllama
-  games:
-    - title: corruption 27:25
-      slug: sd17_semifinal_redon_vs_swatllama_game1
-  result: notas def. Honzik1
-  games:
-    - title: metl2 36:34
-      slug: sd17_semifinal_honzik1_vs_notas_game1
+  - result: Redon def. swatllama
+    games:
+      - title: corruption 27:25
+        slug: sd17_semifinal_redon_vs_swatllama_game1
+  - result: notas def. Honzik1
+    games:
+      - title: metl2 36:34
+        slug: sd17_semifinal_honzik1_vs_notas_game1
 groups:
   a:
     - - result: Redon def. BudSpencer
