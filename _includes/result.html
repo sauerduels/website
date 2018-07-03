@@ -20,6 +20,16 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% endfor %}
   <br />
 {% endif %}
+{% if event.consolation %}
+  <h3>Consolation:</h3>
+  {% for consolation in event.consolation %}
+    {{ consolation.result | add_flags }}<br />
+    {% for game in consolation.games %}
+      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+    {% endfor %}
+    <br />
+  {% endfor %}
+{% endif %}
 {% if event.semis %}
   <h3>Semi-finals:</h3>
   {% for semi in event.semis %}
