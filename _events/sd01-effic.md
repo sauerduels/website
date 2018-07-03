@@ -46,13 +46,19 @@ groups:
   b:
     - - result: Lokio def. Gangler
         slug: sd01_gangler_vs_lokio
+      - result: Fear def. Rudi
+        slug: 
       - result: DarkFire def. Tamin0
         slug: sd01_darkfire_vs_tamin0
-    - - result: Gangler def. Tamin0
+    - - result: DarkFire def. Rudi
+        slug: 
+      - result: Gangler def. Tamin0
         slug: sd01_gangler_vs_tamin0
       - result: Lokio def. Fear
         slug: sd01_fear_vs_lokio
-    - - result: Lokio def. DarkFire
+    - - result: Rudi def. Tamin0
+        slug: 
+      - result: Lokio def. DarkFire
         slug: sd01_darkfire_vs_lokio
       - result: Gangler def. Fear
         slug: sd01_fear_vs_gangler
@@ -60,8 +66,12 @@ groups:
         slug: sd01_darkfire_vs_fear
       - result: Lokio def. Tamin0
         slug: sd01_lokio_vs_tamin0
+      - result: Gangler def. Rudi
+        slug: 
     - - result: Fear def. Tamin0
         slug: sd01_fear_vs_tamin0
       - result: Gangler def. DarkFire
         slug: sd01_darkfire_vs_gangler
+      - result: Lokio def. Rudi
+        slug: 
 ---

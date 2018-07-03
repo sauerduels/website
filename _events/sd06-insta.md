@@ -34,16 +34,24 @@ groups:
       - result: Gangler def. Phönix
         slug: sd06_gangler_vs_phonix
   b:
-    - - result: Honzik1 def. Harsh
+    - - result: fatmonkeygenius def. Rudi
+        slug: 
+      - result: Honzik1 def. Harsh
         slug: sd06_harsh_vs_honzik1
+    - - result: Honzik1 def. Rudi
+        slug: 
       - result: fatmonkeygenius def. BudSpencer
         slug: sd06_budspencer_vs_fatmonkeygenius
+    - - result: Honzik1 def. BudSpencer
+        slug: sd06_budspencer_vs_honzik1
+      - result: Harsh def. Rudi
+        slug: 
     - - result: BudSpencer def. Harsh
         slug: sd06_budspencer_vs_harsh
       - result: Honzik1 def. fatmonkeygenius
         slug: sd06_fatmonkeygenius_vs_honzik1
-    - - result: Honzik1 def. BudSpencer
-        slug: sd06_budspencer_vs_honzik1
-      - result: fatmonkeygenius def. Harsh
+    - - result: fatmonkeygenius def. Harsh
         slug: sd06_fatmonkeygenius_vs_harsh
+      - result: BudSpencer def. Rudi
+        slug: 
 ---

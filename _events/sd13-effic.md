@@ -13,17 +13,25 @@ finals:
       slug: sd13_final_lagout_vs_starch_game2
 groups:
   a:
-    - - result: hades def. __FRY__
+    - - result: Honzik1 def. Rudi
+        slug: 
+      - result: hades def. __FRY__
         slug: sd13___fry___vs_hades
+    - - result: hades def. Rudi
+        slug: 
       - result: starch def. Honzik1
         slug: sd13_honzik1_vs_starch
     - - result: starch def. hades
         slug: sd13_hades_vs_starch
-      - result: Honzik1 def. __FRY__
-        slug: sd13___fry___vs_honzik1
+      - result: __FRY__ def. Rudi
+        slug: 
     - - result: starch def. __FRY__
         slug: sd13___fry___vs_starch
       - result: Honzik1 def. hades
+        slug: 
+    - - result: Honzik1 def. __FRY__
+        slug: sd13___fry___vs_honzik1
+      - result: starch def. Rudi
         slug: 
   b:
     - - result: lagout def. Khornettoh
