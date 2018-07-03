@@ -53,7 +53,9 @@ module Jekyll
       'Atheroz' => 'es',
       'Ren4rd' => 'fr',
       'shuzo' => 'be',
-      'Jawer' => 'de' }
+      'Jawer' => 'de',
+      'degrave' => 'ru',
+      'swatllama' => 'us' }
     
     def add_flags(input)
       PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"http://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }
