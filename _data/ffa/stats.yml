@@ -5,7 +5,7 @@
   games: 52
   wins: 44
   losses: 8
-  win_ratio: 0.846
+  win_rate: 0.846
   frags: 2049
   deaths: 1239
   kpd: 1.654
@@ -17,7 +17,7 @@
   games: 28
   wins: 19
   losses: 9
-  win_ratio: 0.679
+  win_rate: 0.679
   frags: 821
   deaths: 862
   kpd: 0.952
@@ -29,7 +29,7 @@
   games: 30
   wins: 20
   losses: 10
-  win_ratio: 0.667
+  win_rate: 0.667
   frags: 976
   deaths: 716
   kpd: 1.363
@@ -41,7 +41,7 @@
   games: 27
   wins: 16
   losses: 11
-  win_ratio: 0.593
+  win_rate: 0.593
   frags: 858
   deaths: 737
   kpd: 1.164
@@ -53,7 +53,7 @@
   games: 6
   wins: 3
   losses: 3
-  win_ratio: 0.500
+  win_rate: 0.500
   frags: 211
   deaths: 205
   kpd: 1.029
@@ -65,7 +65,7 @@
   games: 4
   wins: 2
   losses: 2
-  win_ratio: 0.500
+  win_rate: 0.500
   frags: 144
   deaths: 121
   kpd: 1.190
@@ -77,7 +77,7 @@
   games: 7
   wins: 3
   losses: 4
-  win_ratio: 0.429
+  win_rate: 0.429
   frags: 142
   deaths: 236
   kpd: 0.602
@@ -89,7 +89,7 @@
   games: 22
   wins: 10
   losses: 12
-  win_ratio: 0.455
+  win_rate: 0.455
   frags: 521
   deaths: 604
   kpd: 0.863
@@ -101,7 +101,7 @@
   games: 7
   wins: 3
   losses: 4
-  win_ratio: 0.429
+  win_rate: 0.429
   frags: 155
   deaths: 59
   kpd: 2.627
@@ -113,7 +113,7 @@
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.400
+  win_rate: 0.400
   frags: 81
   deaths: 178
   kpd: 0.455
@@ -125,7 +125,7 @@
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.400
+  win_rate: 0.400
   frags: 97
   deaths: 182
   kpd: 0.533
@@ -137,7 +137,7 @@
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.200
+  win_rate: 0.200
   frags: 88
   deaths: 140
   kpd: 0.629
@@ -149,7 +149,7 @@
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.200
+  win_rate: 0.200
   frags: 110
   deaths: 139
   kpd: 0.791
@@ -161,7 +161,7 @@
   games: 7
   wins: 1
   losses: 6
-  win_ratio: 0.143
+  win_rate: 0.143
   frags: 76
   deaths: 343
   kpd: 0.222
@@ -173,7 +173,7 @@
   games: 22
   wins: 3
   losses: 19
-  win_ratio: 0.136
+  win_rate: 0.136
   frags: 352
   deaths: 866
   kpd: 0.406
@@ -185,7 +185,7 @@
   games: 20
   wins: 2
   losses: 18
-  win_ratio: 0.100
+  win_rate: 0.100
   frags: 335
   deaths: 757
   kpd: 0.443
@@ -197,7 +197,7 @@
   games: 7
   wins: 0
   losses: 7
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 8
   deaths: 183
   kpd: 0.044
@@ -209,7 +209,7 @@
   games: 5
   wins: 0
   losses: 5
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 34
   deaths: 235
   kpd: 0.145

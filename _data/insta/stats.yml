@@ -5,7 +5,7 @@
   games: 26
   wins: 23
   losses: 3
-  win_ratio: 0.885
+  win_rate: 0.885
   frags: 2272
   deaths: 1758
   kpd: 1.292
@@ -17,7 +17,7 @@
   games: 13
   wins: 12
   losses: 1
-  win_ratio: 0.923
+  win_rate: 0.923
   frags: 1466
   deaths: 1126
   kpd: 1.302
@@ -29,7 +29,7 @@
   games: 9
   wins: 8
   losses: 1
-  win_ratio: 0.889
+  win_rate: 0.889
   frags: 838
   deaths: 671
   kpd: 1.249
@@ -41,7 +41,7 @@
   games: 6
   wins: 5
   losses: 1
-  win_ratio: 0.833
+  win_rate: 0.833
   frags: 541
   deaths: 507
   kpd: 1.067
@@ -53,43 +53,43 @@
   games: 13
   wins: 9
   losses: 4
-  win_ratio: 0.692
+  win_rate: 0.692
   frags: 1433
   deaths: 1048
   kpd: 1.367
   suicides: 0
   accuracy: 40%
 - rank: 6
-  name: "lagout"
-  elo: 1690
-  games: 5
-  wins: 4
-  losses: 1
-  win_ratio: 0.800
-  frags: 381
-  deaths: 307
-  kpd: 1.241
-  suicides: 0
-  accuracy: 36%
-- rank: 6
   name: "DarkFire"
   elo: 1690
   games: 5
   wins: 4
   losses: 1
-  win_ratio: 0.800
+  win_rate: 0.800
   frags: 496
   deaths: 397
   kpd: 1.249
   suicides: 0
   accuracy: 33%
+- rank: 6
+  name: "lagout"
+  elo: 1690
+  games: 5
+  wins: 4
+  losses: 1
+  win_rate: 0.800
+  frags: 381
+  deaths: 307
+  kpd: 1.241
+  suicides: 0
+  accuracy: 36%
 - rank: 8
   name: "Shinnok"
   elo: 1689
   games: 12
   wins: 8
   losses: 4
-  win_ratio: 0.667
+  win_rate: 0.667
   frags: 789
   deaths: 738
   kpd: 1.069
@@ -101,7 +101,7 @@
   games: 14
   wins: 9
   losses: 5
-  win_ratio: 0.643
+  win_rate: 0.643
   frags: 1113
   deaths: 905
   kpd: 1.230
@@ -113,7 +113,7 @@
   games: 14
   wins: 9
   losses: 5
-  win_ratio: 0.643
+  win_rate: 0.643
   frags: 971
   deaths: 859
   kpd: 1.130
@@ -125,7 +125,7 @@
   games: 10
   wins: 7
   losses: 3
-  win_ratio: 0.700
+  win_rate: 0.700
   frags: 920
   deaths: 703
   kpd: 1.309
@@ -137,7 +137,7 @@
   games: 9
   wins: 5
   losses: 4
-  win_ratio: 0.556
+  win_rate: 0.556
   frags: 754
   deaths: 715
   kpd: 1.055
@@ -149,7 +149,7 @@
   games: 5
   wins: 3
   losses: 2
-  win_ratio: 0.600
+  win_rate: 0.600
   frags: 295
   deaths: 370
   kpd: 0.797
@@ -161,7 +161,7 @@
   games: 19
   wins: 9
   losses: 10
-  win_ratio: 0.474
+  win_rate: 0.474
   frags: 1652
   deaths: 1755
   kpd: 0.941
@@ -173,7 +173,7 @@
   games: 3
   wins: 1
   losses: 2
-  win_ratio: 0.333
+  win_rate: 0.333
   frags: 239
   deaths: 271
   kpd: 0.882
@@ -185,7 +185,7 @@
   games: 3
   wins: 1
   losses: 2
-  win_ratio: 0.333
+  win_rate: 0.333
   frags: 231
   deaths: 230
   kpd: 1.004
@@ -197,7 +197,7 @@
   games: 13
   wins: 6
   losses: 7
-  win_ratio: 0.462
+  win_rate: 0.462
   frags: 980
   deaths: 1010
   kpd: 0.970
@@ -209,79 +209,79 @@
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.400
+  win_rate: 0.400
   frags: 411
   deaths: 383
   kpd: 1.073
   suicides: 0
   accuracy: 36%
 - rank: 18
-  name: "Khornettoh"
-  elo: 1436
-  games: 5
-  wins: 2
-  losses: 3
-  win_ratio: 0.400
-  frags: 288
-  deaths: 403
-  kpd: 0.715
-  suicides: 0
-  accuracy: 26%
-- rank: 18
   name: "Alluro"
   elo: 1436
   games: 5
   wins: 2
   losses: 3
-  win_ratio: 0.400
+  win_rate: 0.400
   frags: 396
   deaths: 446
   kpd: 0.888
   suicides: 0
   accuracy: 34%
+- rank: 18
+  name: "Khornettoh"
+  elo: 1436
+  games: 5
+  wins: 2
+  losses: 3
+  win_rate: 0.400
+  frags: 288
+  deaths: 403
+  kpd: 0.715
+  suicides: 0
+  accuracy: 26%
 - rank: 21
   name: "Cannibal"
   elo: 1399
   games: 7
   wins: 2
   losses: 5
-  win_ratio: 0.286
+  win_rate: 0.286
   frags: 425
   deaths: 337
   kpd: 1.261
   suicides: 0
   accuracy: 31%
 - rank: 21
-  name: "Calinou"
-  elo: 1399
-  games: 7
-  wins: 2
-  losses: 5
-  win_ratio: 0.286
-  frags: 296
-  deaths: 452
-  kpd: 0.655
-  suicides: 0
-  accuracy: 25%
-- rank: 21
   name: "Rotti"
   elo: 1399
   games: 7
   wins: 2
   losses: 5
-  win_ratio: 0.286
+  win_rate: 0.286
   frags: 463
   deaths: 650
   kpd: 0.712
   suicides: 0
   accuracy: 29%
+- rank: 21
+  name: "Calinou"
+  elo: 1399
+  games: 7
+  wins: 2
+  losses: 5
+  win_rate: 0.286
+  frags: 296
+  deaths: 452
+  kpd: 0.655
+  suicides: 0
+  accuracy: 25%
 - rank: 24
   name: "Harsh"
   elo: 1315
   games: 4
   wins: 1
   losses: 3
-  win_ratio: 0.250
+  win_rate: 0.250
   frags: 214
   deaths: 342
   kpd: 0.626
@@ -293,7 +293,7 @@
   games: 3
   wins: 0
   losses: 3
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 222
   deaths: 312
   kpd: 0.712
@@ -305,7 +305,7 @@
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.200
+  win_rate: 0.200
   frags: 175
   deaths: 167
   kpd: 1.048
@@ -317,7 +317,7 @@
   games: 5
   wins: 1
   losses: 4
-  win_ratio: 0.200
+  win_rate: 0.200
   frags: 206
   deaths: 534
   kpd: 0.386
@@ -329,7 +329,7 @@
   games: 9
   wins: 2
   losses: 7
-  win_ratio: 0.222
+  win_rate: 0.222
   frags: 702
   deaths: 906
   kpd: 0.775
@@ -341,7 +341,7 @@
   games: 3
   wins: 0
   losses: 3
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 216
   deaths: 301
   kpd: 0.718
@@ -353,7 +353,7 @@
   games: 7
   wins: 0
   losses: 7
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 239
   deaths: 464
   kpd: 0.515
@@ -365,7 +365,7 @@
   games: 5
   wins: 0
   losses: 5
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 370
   deaths: 499
   kpd: 0.741
@@ -377,7 +377,7 @@
   games: 4
   wins: 0
   losses: 4
-  win_ratio: 0.000
+  win_rate: 0.000
   frags: 278
   deaths: 427
   kpd: 0.651
@@ -389,7 +389,7 @@
   games: 13
   wins: 1
   losses: 12
-  win_ratio: 0.077
+  win_rate: 0.077
   frags: 889
   deaths: 1194
   kpd: 0.745
