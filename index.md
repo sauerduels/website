@@ -14,7 +14,7 @@ Participating is straight forward, all you need to do is read the details on our
 
 ## Contact Us
 
-Feel free to contact us for any questions, feedback, or concerns you may have. You can contact us on our Discord server ([https://discord.gg/FTSjNfz](https://discord.gg/FTSjNfz)).
+Feel free to contact us for any questions, feedback, or concerns you may have. You can contact us on our Discord server (<a href="https://discord.gg/FTSjNfz" target="_blank">https://discord.gg/FTSjNfz</a>).
 
 ## Contribute
 

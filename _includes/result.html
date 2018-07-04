@@ -9,14 +9,14 @@ Title: <strong>SD #{{ event.index }}: {{ event.title }}</strong><br />
 {% endcase %}
 Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ", %-I:%M %p (%Z)" }}</strong><br />
 {% if event.bracketurl %}
-  Bracket: <a href="{{ event.bracketurl }}">{{ event.bracketurl }}</a><br />
+  Bracket: <a href="{{ event.bracketurl }}" target="_blank">{{ event.bracketurl }}</a><br />
 {% endif %}
 <br />
 {% if event.finals %}
   <h3>Finals:</h3>
   {{ event.finals.result | add_flags }}<br />
   {% for game in event.finals.games %}
-    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
   {% endfor %}
   <br />
 {% endif %}
@@ -25,7 +25,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% for consolation in event.consolation %}
     {{ consolation.result | add_flags }}<br />
     {% for game in consolation.games %}
-      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
     {% endfor %}
     <br />
   {% endfor %}
@@ -35,7 +35,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% for semi in event.semis %}
     {{ semi.result | add_flags }}<br />
     {% for game in semi.games %}
-      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)<br />
+      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
     {% endfor %}
     <br />
   {% endfor %}
@@ -64,7 +64,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
             {% endif %}
               {{ game.result | add_flags }}
               {% if game.slug %}
-                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo">demo</a>)
+                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)
               {% else %}
                 (forfeit)
               {% endif %}
