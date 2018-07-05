@@ -14,19 +14,15 @@ layout: default
     {% else %}
       {% assign pageIndex = page.index %}
     {% endif %}
-
-    <ul class="tabs">
-      {% for event in events %}
-        {% if event.completed == true %}
-          {% if event.index == pageIndex %}
-            <li id="tab-event-{{ event.index }}" class="tab active">
-          {% else %}
-            <li id="tab-event-{{ event.index }}" class="tab">
-          {% endif %}
-            <a href="{{ event.url | relative_url }}">SD #{{ event.index }}: {{ event.title }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
+    
+    <ul id="menu">
+      <li><a href="#" class="active">SD #{{ page.index }}: {{ page.title }} <span style="float: right;">&#9660;</span></a>
+        <ul>
+          {% for event in events %}{% if event.completed == true %}
+            <li><a href="{{ event.url | relative_url }}">SD #{{ event.index }}: {{ event.title }}</a></li>
+          {% endif %}{% endfor %}
+        </ul>
+      </li>
     </ul>
     
     <ul class="tab-contents">
