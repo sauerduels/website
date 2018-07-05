@@ -22,14 +22,14 @@ layout: default
       <li>
         <a href="#" class="active">
           {% for event in events %}{% if event.index == pageIndex %}
-            SD #{{ event.index }}: {{ event.title }}
+            SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}
             {% break %}
           {% endif %}{% endfor %}
           <span style="float: right;">&#9660;</span>
         </a>
         <ul>
           {% for event in events %}{% if event.completed == true %}
-            <li><a href="{{ event.url | relative_url }}">SD #{{ event.index }}: {{ event.title }}</a></li>
+            <li><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
           {% endif %}{% endfor %}
         </ul>
       </li>

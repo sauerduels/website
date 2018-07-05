@@ -1,5 +1,5 @@
 <h3>Info:</h3>
-Title: <strong>SD #{{ event.index }}: {{ event.title }}</strong><br />
+Title: <strong>SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</strong><br />
 {% assign day = event.date | date: "%-d"  %}
 {% case day %}
   {% when '1' or '21' or '31' %}{% assign ord = "st" %}
