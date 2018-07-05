@@ -20,16 +20,18 @@ layout: default
     
     <ul id="menu">
       <li>
-        <a href="#" class="active">
+        <a href="#" class="active" onmouseover="scrollMenu()">
           {% for event in events %}{% if event.index == pageIndex %}
             SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}
             {% break %}
           {% endif %}{% endfor %}
           <span style="float: right;">&#9660;</span>
         </a>
-        <ul style="height: 252px; overflow-y: scroll;">
+        <ul id="scroll-this">
           {% for event in events %}{% if event.completed == true %}{% if event.index != pageIndex %}
             <li><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
+          {% endif %}{% if event.index == pageIndex %}
+            <li id="scroll-here"><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
           {% endif %}{% endif %}{% endfor %}
         </ul>
       </li>
@@ -44,5 +46,11 @@ layout: default
       {% endif %}{% endfor %}
     </ul>
   </div>
-
+  <script>
+    function scrollMenu(){
+      var topPos = document.getElementById('scroll-here').offsetTop;
+      document.getElementById('scroll-this').scrollTop = topPos-105;
+      document.getElementById('scroll-this').style.setProperty("top", Math.max(-topPos, -105) + "px");
+    }
+  </script>
 </article>

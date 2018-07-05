@@ -367,10 +367,12 @@ ul {
 }
 #menu ul {
   position: absolute;
-  top: 2.4em;
+  top: -105px;
   width: 200px;
   padding: 0;
   display: none;
+  height: 252px;
+  overflow-y: scroll;
 }
 #menu ul li {
   float: none;
