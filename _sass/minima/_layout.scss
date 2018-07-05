@@ -349,6 +349,7 @@ ul {
 }
 #menu {
   margin-bottom: 2em !important;
+  float: right;
 }
 #menu, #menu ul {
   list-style: none;
@@ -356,10 +357,10 @@ ul {
   font-size: 16px;
   font-weight: 600;
   color: #4c4c4c;
+  width: 200px;
 }
 #menu li {
   position: relative;
-  width: 100%;
 }
 #menu {
   border-radius: 5px;
@@ -370,13 +371,11 @@ ul {
   width: 200px;
   padding: 0;
   display: none;
-  width: 100%;
 }
 #menu ul li {
   float: none;
   margin: 0;
   padding: 0;
-  width: 100%;
 }
 #menu a:link, #menu a:visited {
   padding: 9px 15px;
