@@ -58,7 +58,7 @@ module Jekyll
       'swatllama' => 'us' }
     
     def add_flags(input)
-      PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"http://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }
+      PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"https://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }
       input
     end
   end
