@@ -18,14 +18,14 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cube 2: Sauerbraten League
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sauerduels.me/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sauerduels.me/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 timezone: CET
 future: true
-demobaseurl: "http://sauerduels.me/demos/"
-screenbaseurl: "http://sauerduels.me/screens/"
-flagbaseurl: "http://sauerduels.me/images/"
+demobaseurl: "https://sauerduels.me/demos/"
+screenbaseurl: "https://sauerduels.me/screens/"
+flagbaseurl: "https://sauerduels.me/images/"
 
 # Build settings
 markdown: kramdown
