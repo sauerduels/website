@@ -8,15 +8,25 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% assign events = site.events | sort: 'index' %}
+    {% assign events = site.events | sort: 'index' | reverse %}
     {% if page.permalink != nil %}
-      {% assign pageIndex = 1 %}
+      {% for event in events %}{% if event.completed == true %}
+        {% assign pageIndex = event.index %}
+        {% break %}
+      {% endif %}{% endfor %}
     {% else %}
       {% assign pageIndex = page.index %}
     {% endif %}
     
     <ul id="menu">
-      <li><a href="#" class="active">SD #{{ page.index }}: {{ page.title }} <span style="float: right;">&#9660;</span></a>
+      <li>
+        <a href="#" class="active">
+          {% for event in events %}{% if event.index == pageIndex %}
+            SD #{{ event.index }}: {{ event.title }}
+            {% break %}
+          {% endif %}{% endfor %}
+          <span style="float: right;">&#9660;</span>
+        </a>
         <ul>
           {% for event in events %}{% if event.completed == true %}
             <li><a href="{{ event.url | relative_url }}">SD #{{ event.index }}: {{ event.title }}</a></li>
@@ -26,15 +36,12 @@ layout: default
     </ul>
     
     <ul class="tab-contents">
-      {% for event in events %}
-        {% if event.completed == true %}
-          {% if event.index == pageIndex %}
-            <div id="event-{{ event.index }}" class="tab-content active">
-              {% include result.html %}
-            </div>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+      {% for event in events %}{% if event.index == pageIndex %}
+        <div id="event-{{ event.index }}" class="tab-content active">
+          {% include result.html %}
+        </div>
+        {% break %}
+      {% endif %}{% endfor %}
     </ul>
   </div>
 
