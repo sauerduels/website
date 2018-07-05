@@ -23,7 +23,7 @@ layout: default
           {% else %}
             <li id="tab-event-{{ event.index }}" class="tab">
           {% endif %}
-            <a href="{{ event.url | relative_url }}" onclick="return switchTab('event-{{ event.index }}');">SD #{{ event.index }}: {{ event.title }}</a>
+            <a href="{{ event.url | relative_url }}">SD #{{ event.index }}: {{ event.title }}</a>
           </li>
         {% endif %}
       {% endfor %}
@@ -34,11 +34,9 @@ layout: default
         {% if event.completed == true %}
           {% if event.index == pageIndex %}
             <div id="event-{{ event.index }}" class="tab-content active">
-          {% else %}
-            <div id="event-{{ event.index }}" class="tab-content">
+              {% include result.html %}
+            </div>
           {% endif %}
-            {% include result.html %}
-          </div>
         {% endif %}
       {% endfor %}
     </ul>
