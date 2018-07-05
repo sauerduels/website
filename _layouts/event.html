@@ -27,7 +27,7 @@ layout: default
           {% endif %}{% endfor %}
           <span style="float: right;">&#9660;</span>
         </a>
-        <ul>
+        <ul style="height: 252px; overflow-y: scroll;">
           {% for event in events %}{% if event.completed == true %}{% if event.index != pageIndex %}
             <li><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
           {% endif %}{% endif %}{% endfor %}
