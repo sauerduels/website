@@ -324,18 +324,6 @@
   suicides: 16
   accuracy: 23%
 - rank: 28
-  name: "h8"
-  elo: 1309
-  games: 5
-  wins: 1
-  losses: 4
-  win_rate: 0.200
-  frags: 203
-  deaths: 289
-  kpd: 0.702
-  suicides: 1
-  accuracy: 22%
-- rank: 28
   name: "Tamin0"
   elo: 1309
   games: 5
@@ -347,6 +335,18 @@
   kpd: 0.698
   suicides: 2
   accuracy: 20%
+- rank: 28
+  name: "h8"
+  elo: 1309
+  games: 5
+  wins: 1
+  losses: 4
+  win_rate: 0.200
+  frags: 203
+  deaths: 289
+  kpd: 0.702
+  suicides: 1
+  accuracy: 22%
 - rank: 30
   name: "hamon"
   elo: 1279
@@ -467,4 +467,16 @@
   kpd: 0.641
   suicides: 21
   accuracy: 20%
+- rank: 40
+  name: "Rudi"
+  elo: 1051
+  games: 16
+  wins: 0
+  losses: 16
+  win_rate: 0.000
+  frags: 0
+  deaths: 0
+  kpd: 0.000
+  suicides: 0
+  accuracy: 00%
 ---

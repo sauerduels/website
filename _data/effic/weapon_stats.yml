@@ -171,15 +171,6 @@
   grenade_launcher: 08%
   chainsaw: 00%
 - rank: 20
-  name: "BenKei"
-  accuracy: 24%
-  shotgun: 26%
-  chaingun: 23%
-  rocket_launcher: 25%
-  rifle: 31%
-  grenade_launcher: 06%
-  chainsaw: 00%
-- rank: 20
   name: "DarkFire"
   accuracy: 23%
   shotgun: 27%
@@ -187,6 +178,15 @@
   rocket_launcher: 25%
   rifle: 37%
   grenade_launcher: 15%
+  chainsaw: 00%
+- rank: 20
+  name: "BenKei"
+  accuracy: 24%
+  shotgun: 26%
+  chaingun: 23%
+  rocket_launcher: 25%
+  rifle: 31%
+  grenade_launcher: 06%
   chainsaw: 00%
 - rank: 22
   name: "bug"
@@ -243,15 +243,6 @@
   grenade_launcher: 03%
   chainsaw: 00%
 - rank: 28
-  name: "h8"
-  accuracy: 22%
-  shotgun: 22%
-  chaingun: 19%
-  rocket_launcher: 24%
-  rifle: 34%
-  grenade_launcher: 07%
-  chainsaw: 00%
-- rank: 28
   name: "Tamin0"
   accuracy: 20%
   shotgun: 17%
@@ -259,6 +250,15 @@
   rocket_launcher: 24%
   rifle: 26%
   grenade_launcher: 00%
+  chainsaw: 00%
+- rank: 28
+  name: "h8"
+  accuracy: 22%
+  shotgun: 22%
+  chaingun: 19%
+  rocket_launcher: 24%
+  rifle: 34%
+  grenade_launcher: 07%
   chainsaw: 00%
 - rank: 30
   name: "hamon"
@@ -349,6 +349,15 @@
   rocket_launcher: 25%
   rifle: 23%
   grenade_launcher: 08%
+  chainsaw: 00%
+- rank: 40
+  name: "Rudi"
+  accuracy: 00%
+  shotgun: 00%
+  chaingun: 00%
+  rocket_launcher: 00%
+  rifle: 00%
+  grenade_launcher: 00%
   chainsaw: 00%
 
 ---
