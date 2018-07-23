@@ -467,16 +467,4 @@
   kpd: 0.641
   suicides: 21
   accuracy: 20%
-- rank: 40
-  name: "Rudi"
-  elo: 1051
-  games: 16
-  wins: 0
-  losses: 16
-  win_rate: 0.000
-  frags: 0
-  deaths: 0
-  kpd: 0.000
-  suicides: 0
-  accuracy: 00%
 ---

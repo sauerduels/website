@@ -350,14 +350,5 @@
   rifle: 23%
   grenade_launcher: 08%
   chainsaw: 00%
-- rank: 40
-  name: "Rudi"
-  accuracy: 00%
-  shotgun: 00%
-  chaingun: 00%
-  rocket_launcher: 00%
-  rifle: 00%
-  grenade_launcher: 00%
-  chainsaw: 00%
 
 ---

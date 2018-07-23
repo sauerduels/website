@@ -371,34 +371,27 @@
   losses: 7
   win_rate: 0.000
 - rank: 54
-  name: 'Rudi'
-  elo: 1053
-  games: 25
-  wins: 0
-  losses: 25
-  win_rate: 0.000
-- rank: 55
   name: 'Atheroz'
   elo: 1051
   games: 7
   wins: 0
   losses: 7
   win_rate: 0.000
-- rank: 56
+- rank: 55
   name: 'Zarah'
   elo: 1051
   games: 7
   wins: 0
   losses: 7
   win_rate: 0.000
-- rank: 57
+- rank: 56
   name: 'Friteq'
   elo: 1051
   games: 12
   wins: 0
   losses: 12
   win_rate: 0.000
-- rank: 58
+- rank: 57
   name: 'greenadiss'
   elo: 1037
   games: 7
