@@ -3,7 +3,7 @@
  */
 .site-header {
   min-height: $spacing-unit * 1.865;
-  background: #353535;
+  background: #151515;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -11,6 +11,10 @@
   .wrapper {
     padding-top: 0;
   }
+}
+
+.wrapper {
+  background-color: #252525;
 }
 
 .site-title {
