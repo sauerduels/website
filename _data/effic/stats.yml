@@ -12,29 +12,29 @@
   suicides: 29
   accuracy: 28%
 - rank: 2
-  name: "Rexus"
-  elo: 1848
-  games: 23
-  wins: 18
-  losses: 5
-  win_rate: 0.783
-  frags: 1597
-  deaths: 1451
-  kpd: 1.101
-  suicides: 45
-  accuracy: 27%
-- rank: 3
   name: "raffael"
-  elo: 1846
-  games: 20
-  wins: 16
-  losses: 4
-  win_rate: 0.800
-  frags: 1312
-  deaths: 1099
-  kpd: 1.194
-  suicides: 19
+  elo: 1897
+  games: 27
+  wins: 22
+  losses: 5
+  win_rate: 0.815
+  frags: 1820
+  deaths: 1586
+  kpd: 1.148
+  suicides: 22
   accuracy: 23%
+- rank: 3
+  name: "Rexus"
+  elo: 1865
+  games: 31
+  wins: 24
+  losses: 7
+  win_rate: 0.774
+  frags: 2144
+  deaths: 1914
+  kpd: 1.120
+  suicides: 55
+  accuracy: 27%
 - rank: 4
   name: "lagout"
   elo: 1813
@@ -73,15 +73,15 @@
   accuracy: 27%
 - rank: 7
   name: "notas"
-  elo: 1752
-  games: 12
-  wins: 8
-  losses: 4
-  win_rate: 0.667
-  frags: 815
-  deaths: 751
-  kpd: 1.085
-  suicides: 15
+  elo: 1755
+  games: 17
+  wins: 11
+  losses: 6
+  win_rate: 0.647
+  frags: 1205
+  deaths: 1144
+  kpd: 1.053
+  suicides: 23
   accuracy: 27%
 - rank: 8
   name: "Partizan"
@@ -120,29 +120,29 @@
   suicides: 15
   accuracy: 26%
 - rank: 11
-  name: "Alluro"
-  elo: 1687
-  games: 12
-  wins: 9
-  losses: 3
-  win_rate: 0.750
-  frags: 855
-  deaths: 723
-  kpd: 1.183
-  suicides: 14
+  name: "Gangler"
+  elo: 1690
+  games: 25
+  wins: 17
+  losses: 8
+  win_rate: 0.680
+  frags: 1538
+  deaths: 1273
+  kpd: 1.208
+  suicides: 15
   accuracy: 27%
 - rank: 12
-  name: "Gangler"
-  elo: 1682
-  games: 18
-  wins: 13
-  losses: 5
-  win_rate: 0.722
-  frags: 1013
-  deaths: 860
-  kpd: 1.178
-  suicides: 9
-  accuracy: 26%
+  name: "Alluro"
+  elo: 1609
+  games: 17
+  wins: 11
+  losses: 6
+  win_rate: 0.647
+  frags: 1178
+  deaths: 998
+  kpd: 1.180
+  suicides: 22
+  accuracy: 27%
 - rank: 13
   name: "Shinnok"
   elo: 1574
@@ -192,30 +192,18 @@
   suicides: 7
   accuracy: 28%
 - rank: 17
-  name: "BudSpencer"
-  elo: 1505
-  games: 17
-  wins: 8
-  losses: 9
-  win_rate: 0.471
-  frags: 1000
-  deaths: 1020
-  kpd: 0.980
-  suicides: 13
-  accuracy: 29%
-- rank: 18
   name: "Jawer"
-  elo: 1483
-  games: 7
-  wins: 3
-  losses: 4
-  win_rate: 0.429
-  frags: 369
-  deaths: 395
-  kpd: 0.934
-  suicides: 7
-  accuracy: 23%
-- rank: 19
+  elo: 1503
+  games: 10
+  wins: 4
+  losses: 6
+  win_rate: 0.400
+  frags: 629
+  deaths: 679
+  kpd: 0.926
+  suicides: 8
+  accuracy: 24%
+- rank: 18
   name: "Morry"
   elo: 1463
   games: 9
@@ -227,6 +215,18 @@
   kpd: 0.850
   suicides: 7
   accuracy: 22%
+- rank: 19
+  name: "BudSpencer"
+  elo: 1460
+  games: 20
+  wins: 8
+  losses: 12
+  win_rate: 0.400
+  frags: 1224
+  deaths: 1264
+  kpd: 0.968
+  suicides: 16
+  accuracy: 29%
 - rank: 20
   name: "DarkFire"
   elo: 1436
@@ -324,18 +324,6 @@
   suicides: 16
   accuracy: 23%
 - rank: 28
-  name: "Tamin0"
-  elo: 1309
-  games: 5
-  wins: 1
-  losses: 4
-  win_rate: 0.200
-  frags: 213
-  deaths: 305
-  kpd: 0.698
-  suicides: 2
-  accuracy: 20%
-- rank: 28
   name: "h8"
   elo: 1309
   games: 5
@@ -347,18 +335,30 @@
   kpd: 0.702
   suicides: 1
   accuracy: 22%
+- rank: 28
+  name: "Tamin0"
+  elo: 1309
+  games: 5
+  wins: 1
+  losses: 4
+  win_rate: 0.200
+  frags: 213
+  deaths: 305
+  kpd: 0.698
+  suicides: 2
+  accuracy: 20%
 - rank: 30
   name: "hamon"
-  elo: 1279
-  games: 4
-  wins: 0
-  losses: 4
-  win_rate: 0.000
-  frags: 189
-  deaths: 319
-  kpd: 0.592
-  suicides: 19
-  accuracy: 20%
+  elo: 1291
+  games: 8
+  wins: 1
+  losses: 7
+  win_rate: 0.125
+  frags: 379
+  deaths: 614
+  kpd: 0.617
+  suicides: 31
+  accuracy: 21%
 - rank: 31
   name: "Jason"
   elo: 1276
@@ -420,18 +420,6 @@
   suicides: 13
   accuracy: 16%
 - rank: 36
-  name: "Mod"
-  elo: 1165
-  games: 6
-  wins: 0
-  losses: 6
-  win_rate: 0.000
-  frags: 226
-  deaths: 423
-  kpd: 0.534
-  suicides: 7
-  accuracy: 16%
-- rank: 37
   name: "Friteq"
   elo: 1155
   games: 12
@@ -443,7 +431,7 @@
   kpd: 0.831
   suicides: 6
   accuracy: 22%
-- rank: 38
+- rank: 37
   name: "Atheroz"
   elo: 1153
   games: 7
@@ -455,6 +443,18 @@
   kpd: 0.651
   suicides: 6
   accuracy: 17%
+- rank: 38
+  name: "Mod"
+  elo: 1116
+  games: 10
+  wins: 0
+  losses: 10
+  win_rate: 0.000
+  frags: 399
+  deaths: 786
+  kpd: 0.508
+  suicides: 22
+  accuracy: 16%
 - rank: 39
   name: "greenadiss"
   elo: 1113

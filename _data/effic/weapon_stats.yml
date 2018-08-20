@@ -9,21 +9,21 @@
   grenade_launcher: 06%
   chainsaw: 00%
 - rank: 2
+  name: "raffael"
+  accuracy: 23%
+  shotgun: 22%
+  chaingun: 25%
+  rocket_launcher: 21%
+  rifle: 49%
+  grenade_launcher: 05%
+  chainsaw: 00%
+- rank: 3
   name: "Rexus"
   accuracy: 27%
   shotgun: 22%
   chaingun: 26%
-  rocket_launcher: 31%
-  rifle: 42%
-  grenade_launcher: 05%
-  chainsaw: 00%
-- rank: 3
-  name: "raffael"
-  accuracy: 23%
-  shotgun: 22%
-  chaingun: 26%
-  rocket_launcher: 22%
-  rifle: 49%
+  rocket_launcher: 29%
+  rifle: 43%
   grenade_launcher: 05%
   chainsaw: 00%
 - rank: 4
@@ -56,12 +56,12 @@
 - rank: 7
   name: "notas"
   accuracy: 27%
-  shotgun: 27%
-  chaingun: 24%
-  rocket_launcher: 28%
+  shotgun: 26%
+  chaingun: 25%
+  rocket_launcher: 27%
   rifle: 46%
-  grenade_launcher: 10%
-  chainsaw: 17%
+  grenade_launcher: 09%
+  chainsaw: 14%
 - rank: 8
   name: "Partizan"
   accuracy: 28%
@@ -90,22 +90,22 @@
   grenade_launcher: 05%
   chainsaw: 00%
 - rank: 11
-  name: "Alluro"
+  name: "Gangler"
   accuracy: 27%
-  shotgun: 21%
-  chaingun: 27%
-  rocket_launcher: 30%
+  shotgun: 32%
+  chaingun: 25%
+  rocket_launcher: 24%
   rifle: 41%
-  grenade_launcher: 12%
+  grenade_launcher: 06%
   chainsaw: 00%
 - rank: 12
-  name: "Gangler"
-  accuracy: 26%
-  shotgun: 31%
-  chaingun: 25%
-  rocket_launcher: 23%
-  rifle: 39%
-  grenade_launcher: 04%
+  name: "Alluro"
+  accuracy: 27%
+  shotgun: 22%
+  chaingun: 28%
+  rocket_launcher: 29%
+  rifle: 45%
+  grenade_launcher: 11%
   chainsaw: 00%
 - rank: 13
   name: "Shinnok"
@@ -144,24 +144,15 @@
   grenade_launcher: 03%
   chainsaw: 00%
 - rank: 17
-  name: "BudSpencer"
-  accuracy: 29%
-  shotgun: 19%
-  chaingun: 25%
-  rocket_launcher: 29%
-  rifle: 40%
-  grenade_launcher: 00%
-  chainsaw: 00%
-- rank: 18
   name: "Jawer"
-  accuracy: 23%
+  accuracy: 24%
   shotgun: 23%
   chaingun: 22%
   rocket_launcher: 22%
-  rifle: 35%
+  rifle: 38%
   grenade_launcher: 17%
   chainsaw: 00%
-- rank: 19
+- rank: 18
   name: "Morry"
   accuracy: 22%
   shotgun: 20%
@@ -169,6 +160,15 @@
   rocket_launcher: 20%
   rifle: 35%
   grenade_launcher: 08%
+  chainsaw: 00%
+- rank: 19
+  name: "BudSpencer"
+  accuracy: 29%
+  shotgun: 18%
+  chaingun: 25%
+  rocket_launcher: 29%
+  rifle: 40%
+  grenade_launcher: 04%
   chainsaw: 00%
 - rank: 20
   name: "DarkFire"
@@ -243,15 +243,6 @@
   grenade_launcher: 03%
   chainsaw: 00%
 - rank: 28
-  name: "Tamin0"
-  accuracy: 20%
-  shotgun: 17%
-  chaingun: 18%
-  rocket_launcher: 24%
-  rifle: 26%
-  grenade_launcher: 00%
-  chainsaw: 00%
-- rank: 28
   name: "h8"
   accuracy: 22%
   shotgun: 22%
@@ -260,12 +251,21 @@
   rifle: 34%
   grenade_launcher: 07%
   chainsaw: 00%
+- rank: 28
+  name: "Tamin0"
+  accuracy: 20%
+  shotgun: 17%
+  chaingun: 18%
+  rocket_launcher: 24%
+  rifle: 26%
+  grenade_launcher: 00%
+  chainsaw: 00%
 - rank: 30
   name: "hamon"
-  accuracy: 20%
+  accuracy: 21%
   shotgun: 16%
-  chaingun: 16%
-  rocket_launcher: 26%
+  chaingun: 15%
+  rocket_launcher: 28%
   rifle: 27%
   grenade_launcher: 07%
   chainsaw: 00%
@@ -315,15 +315,6 @@
   grenade_launcher: 00%
   chainsaw: 00%
 - rank: 36
-  name: "Mod"
-  accuracy: 16%
-  shotgun: 11%
-  chaingun: 13%
-  rocket_launcher: 23%
-  rifle: 19%
-  grenade_launcher: 06%
-  chainsaw: 00%
-- rank: 37
   name: "Friteq"
   accuracy: 22%
   shotgun: 17%
@@ -332,7 +323,7 @@
   rifle: 30%
   grenade_launcher: 10%
   chainsaw: 00%
-- rank: 38
+- rank: 37
   name: "Atheroz"
   accuracy: 17%
   shotgun: 16%
@@ -340,6 +331,15 @@
   rocket_launcher: 20%
   rifle: 22%
   grenade_launcher: 14%
+  chainsaw: 00%
+- rank: 38
+  name: "Mod"
+  accuracy: 16%
+  shotgun: 11%
+  chaingun: 14%
+  rocket_launcher: 23%
+  rifle: 19%
+  grenade_launcher: 06%
   chainsaw: 00%
 - rank: 39
   name: "greenadiss"
