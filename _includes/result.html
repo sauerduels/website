@@ -45,7 +45,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   <h3>Group {{ group[0] | upcase }}:</h3>
   {% for round in group[1] %}
   {% assign roundLen = round | size %}
-    <table style="text-align: center; border-top: solid 5px #4a4a4a;">
+    <table style="text-align: center; border-top: solid 5px #dfe2e5;">
       <tbody>
         <tr>
           <td style="font-weight: bold;" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>
