@@ -11,18 +11,18 @@
   suicides: 50
   win_rate: 0.863
   wins: 44
-- accuracy: 26%
-  deaths: 862
-  elo: 1824
-  frags: 821
-  games: 28
-  kpd: 0.952
-  losses: 9
+- accuracy: 25%
+  deaths: 1076
+  elo: 1846
+  frags: 1112
+  games: 37
+  kpd: 1.033
+  losses: 10
   name: notas
   rank: 2
-  suicides: 131
-  win_rate: 0.679
-  wins: 19
+  suicides: 141
+  win_rate: 0.73
+  wins: 27
 - accuracy: 26%
   deaths: 715
   elo: 1683
@@ -36,17 +36,17 @@
   win_rate: 0.655
   wins: 19
 - accuracy: 24%
-  deaths: 737
-  elo: 1602
-  frags: 858
-  games: 27
-  kpd: 1.164
-  losses: 11
+  deaths: 1042
+  elo: 1600
+  frags: 1171
+  games: 38
+  kpd: 1.124
+  losses: 16
   name: Honzik1
   rank: 4
-  suicides: 28
-  win_rate: 0.593
-  wins: 16
+  suicides: 49
+  win_rate: 0.579
+  wins: 22
 - accuracy: 24%
   deaths: 205
   elo: 1593
@@ -60,41 +60,29 @@
   win_rate: 0.5
   wins: 3
 - accuracy: 24%
-  deaths: 121
-  elo: 1583
-  frags: 144
-  games: 4
-  kpd: 1.19
-  losses: 2
+  deaths: 404
+  elo: 1556
+  frags: 431
+  games: 13
+  kpd: 1.067
+  losses: 7
   name: raffael
   rank: 6
-  suicides: 1
-  win_rate: 0.5
-  wins: 2
+  suicides: 14
+  win_rate: 0.462
+  wins: 6
 - accuracy: 21%
-  deaths: 236
-  elo: 1485
-  frags: 142
-  games: 7
-  kpd: 0.602
-  losses: 4
-  name: Rotti
-  rank: 7
-  suicides: 6
-  win_rate: 0.429
-  wins: 3
-- accuracy: 21%
-  deaths: 604
-  elo: 1479
-  frags: 521
-  games: 22
-  kpd: 0.863
-  losses: 12
+  deaths: 807
+  elo: 1527
+  frags: 792
+  games: 31
+  kpd: 0.981
+  losses: 16
   name: Frosty
-  rank: 8
-  suicides: 32
-  win_rate: 0.455
-  wins: 10
+  rank: 7
+  suicides: 41
+  win_rate: 0.484
+  wins: 15
 - accuracy: 26%
   deaths: 59
   elo: 1458
@@ -103,7 +91,7 @@
   kpd: 2.627
   losses: 4
   name: starch
-  rank: 9
+  rank: 8
   suicides: 1
   win_rate: 0.429
   wins: 3
@@ -115,7 +103,7 @@
   kpd: 0.455
   losses: 3
   name: DarkFire
-  rank: 10
+  rank: 9
   suicides: 2
   win_rate: 0.4
   wins: 2
@@ -127,10 +115,22 @@
   kpd: 0.533
   losses: 3
   name: degrave
-  rank: 11
+  rank: 10
   suicides: 14
   win_rate: 0.4
   wins: 2
+- accuracy: 20%
+  deaths: 438
+  elo: 1389
+  frags: 247
+  games: 12
+  kpd: 0.564
+  losses: 8
+  name: Rotti
+  rank: 11
+  suicides: 17
+  win_rate: 0.333
+  wins: 4
 - accuracy: 26%
   deaths: 140
   elo: 1331
@@ -203,16 +203,16 @@
   suicides: 4
   win_rate: 0.0
   wins: 0
-- accuracy: 23%
-  deaths: 235
-  elo: 1152
-  frags: 34
-  games: 5
-  kpd: 0.145
-  losses: 5
+- accuracy: 24%
+  deaths: 479
+  elo: 1098
+  frags: 80
+  games: 10
+  kpd: 0.167
+  losses: 10
   name: ZCrone
   rank: 18
-  suicides: 8
+  suicides: 13
   win_rate: 0.0
   wins: 0
 ---

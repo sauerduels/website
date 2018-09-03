@@ -9,16 +9,16 @@
   rifle: 38%
   rocket_launcher: 33%
   shotgun: 31%
-- accuracy: 26%
+- accuracy: 25%
   chaingun: 21%
   chainsaw: 16%
-  grenade_launcher: 20%
+  grenade_launcher: 21%
   name: notas
   pistol: 34%
   rank: 2
   rifle: 40%
-  rocket_launcher: 32%
-  shotgun: 25%
+  rocket_launcher: 31%
+  shotgun: 23%
 - accuracy: 26%
   chaingun: 24%
   chainsaw: 24%
@@ -32,13 +32,13 @@
 - accuracy: 24%
   chaingun: 22%
   chainsaw: 00%
-  grenade_launcher: 15%
+  grenade_launcher: 16%
   name: Honzik1
-  pistol: 37%
+  pistol: 38%
   rank: 4
   rifle: 42%
-  rocket_launcher: 31%
-  shotgun: 28%
+  rocket_launcher: 30%
+  shotgun: 26%
 - accuracy: 24%
   chaingun: 23%
   chainsaw: 10%
@@ -52,40 +52,30 @@
 - accuracy: 24%
   chaingun: 21%
   chainsaw: 00%
-  grenade_launcher: 10%
+  grenade_launcher: 14%
   name: raffael
-  pistol: 35%
+  pistol: 37%
   rank: 6
-  rifle: 49%
-  rocket_launcher: 23%
-  shotgun: 23%
-- accuracy: 21%
-  chaingun: 20%
-  chainsaw: 00%
-  grenade_launcher: 16%
-  name: Rotti
-  pistol: 20%
-  rank: 7
-  rifle: 20%
-  rocket_launcher: 29%
-  shotgun: 16%
-- accuracy: 21%
-  chaingun: 17%
-  chainsaw: 03%
-  grenade_launcher: 16%
-  name: Frosty
-  pistol: 34%
-  rank: 8
-  rifle: 40%
+  rifle: 45%
   rocket_launcher: 23%
   shotgun: 24%
+- accuracy: 21%
+  chaingun: 17%
+  chainsaw: 02%
+  grenade_launcher: 18%
+  name: Frosty
+  pistol: 35%
+  rank: 7
+  rifle: 37%
+  rocket_launcher: 23%
+  shotgun: 23%
 - accuracy: 26%
   chaingun: 26%
   chainsaw: 00%
   grenade_launcher: 19%
   name: starch
   pistol: 29%
-  rank: 9
+  rank: 8
   rifle: 34%
   rocket_launcher: 30%
   shotgun: 24%
@@ -95,7 +85,7 @@
   grenade_launcher: 25%
   name: DarkFire
   pistol: 22%
-  rank: 10
+  rank: 9
   rifle: 33%
   rocket_launcher: 19%
   shotgun: 32%
@@ -105,10 +95,20 @@
   grenade_launcher: 16%
   name: degrave
   pistol: 23%
-  rank: 11
+  rank: 10
   rifle: 37%
   rocket_launcher: 28%
   shotgun: 17%
+- accuracy: 20%
+  chaingun: 19%
+  chainsaw: 00%
+  grenade_launcher: 18%
+  name: Rotti
+  pistol: 22%
+  rank: 11
+  rifle: 25%
+  rocket_launcher: 27%
+  shotgun: 18%
 - accuracy: 26%
   chaingun: 25%
   chainsaw: 00%
@@ -169,14 +169,14 @@
   rifle: 22%
   rocket_launcher: 20%
   shotgun: 14%
-- accuracy: 23%
-  chaingun: 23%
+- accuracy: 24%
+  chaingun: 22%
   chainsaw: 00%
   grenade_launcher: 18%
   name: ZCrone
-  pistol: 25%
+  pistol: 29%
   rank: 18
-  rifle: 35%
-  rocket_launcher: 25%
-  shotgun: 22%
+  rifle: 37%
+  rocket_launcher: 26%
+  shotgun: 25%
 ---

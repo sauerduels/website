@@ -1,18 +1,18 @@
 ---
-- elo: 1820
-  games: 41
-  losses: 7
+- elo: 1811
+  games: 50
+  losses: 12
   name: raffael
   rank: 1
-  win_rate: 0.829
-  wins: 34
-- elo: 1755
-  games: 51
-  losses: 17
+  win_rate: 0.76
+  wins: 38
+- elo: 1763
+  games: 60
+  losses: 18
   name: notas
   rank: 2
-  win_rate: 0.667
-  wins: 34
+  win_rate: 0.7
+  wins: 42
 - elo: 1754
   games: 49
   losses: 8
@@ -21,33 +21,33 @@
   win_rate: 0.837
   wins: 41
 - elo: 1712
-  games: 70
-  losses: 21
+  games: 81
+  losses: 26
   name: Honzik1
   rank: 4
-  win_rate: 0.7
-  wins: 49
+  win_rate: 0.679
+  wins: 55
+- elo: 1634
+  games: 52
+  losses: 23
+  name: Frosty
+  rank: 5
+  win_rate: 0.558
+  wins: 29
 - elo: 1629
   games: 53
   losses: 17
   name: Lokio
-  rank: 5
+  rank: 6
   win_rate: 0.679
   wins: 36
 - elo: 1624
   games: 59
   losses: 12
   name: Redon
-  rank: 6
+  rank: 7
   win_rate: 0.797
   wins: 47
-- elo: 1618
-  games: 43
-  losses: 19
-  name: Frosty
-  rank: 7
-  win_rate: 0.558
-  wins: 24
 - elo: 1613
   games: 42
   losses: 14
@@ -118,27 +118,27 @@
   rank: 17
   win_rate: 0.305
   wins: 18
-- elo: 1295
-  games: 14
-  losses: 9
-  name: Rotti
-  rank: 18
-  win_rate: 0.357
-  wins: 5
 - elo: 1272
   games: 11
   losses: 3
   name: Achille
-  rank: 19
+  rank: 18
   win_rate: 0.727
   wins: 8
 - elo: 1267
   games: 21
   losses: 14
   name: Khornettoh
-  rank: 20
+  rank: 19
   win_rate: 0.333
   wins: 7
+- elo: 1263
+  games: 19
+  losses: 13
+  name: Rotti
+  rank: 20
+  win_rate: 0.316
+  wins: 6
 - elo: 1259
   games: 12
   losses: 9
@@ -153,26 +153,26 @@
   rank: 22
   win_rate: 0.278
   wins: 5
-- elo: 1220
-  games: 39
-  losses: 33
-  name: ZCrone
-  rank: 23
-  win_rate: 0.154
-  wins: 6
 - elo: 1216
   games: 21
   losses: 8
   name: fatmonkeygenius
-  rank: 24
+  rank: 23
   win_rate: 0.619
   wins: 13
 - elo: 1204
   games: 24
   losses: 18
   name: __FRY__
-  rank: 25
+  rank: 24
   win_rate: 0.25
+  wins: 6
+- elo: 1202
+  games: 44
+  losses: 38
+  name: ZCrone
+  rank: 25
+  win_rate: 0.136
   wins: 6
 - elo: 1198
   games: 6
