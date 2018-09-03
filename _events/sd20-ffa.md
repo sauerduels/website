@@ -27,9 +27,9 @@ semis:
   - result: Honzik1 def. Frosty
     games:
       - title: nmp8 13:26
-        slug: sd20_frosty_vs_honzik1_game1
+        slug: sd20_semifinal_frosty_vs_honzik1_game1
       - title: metl2 34:32
-        slug: sd20_frosty_vs_honzik1_game2
+        slug: sd20_semifinal_frosty_vs_honzik1_game2
 groups:
   a:
     - - result: notas def. ZCrone
