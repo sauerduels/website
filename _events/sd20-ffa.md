@@ -36,31 +36,31 @@ groups:
         slug: sd20_notas_vs_zcrone
       - result: Frosty def. Honzik1
         slug: sd20_frosty_vs_honzik1
-     - result: raffael def. Rotti
+      - result: raffael def. Rotti
         slug: sd20_raffael_vs_rotti
     - - result: raffael def. Frosty
         slug: sd20_frosty_vs_raffael
       - result: Rotti def. ZCrone
         slug: sd20_rotti_vs_zcrone
-     - result: notas def. Honzik1
+      - result: notas def. Honzik1
         slug: sd20_honzik1_vs_notas
     - - result: Frosty def. Rotti
         slug: sd20_frosty_vs_rotti
       - result: notas def. raffael
         slug: sd20_notas_vs_raffael
-     - result: Honzik1 def. ZCrone
+      - result: Honzik1 def. ZCrone
         slug: sd20_honzik1_vs_zcrone
     - - result: Honzik1 def. raffael
         slug: sd20_honzik1_vs_raffael
       - result: notas def. Rotti
         slug: sd20_notas_vs_rotti
-     - result: Frosty def. ZCrone
+      - result: Frosty def. ZCrone
         slug: sd20_frosty_vs_zcrone
     - - result: Honzik1 def. Rotti
         slug: sd20_honzik1_vs_rotti
       - result: raffael def. ZCrone
         slug: sd20_raffael_vs_zcrone
-     - result: notas def. Frosty
+      - result: notas def. Frosty
         slug: sd20_frosty_vs_notas
     - - result: Honzik1 def. raffael
         slug: sd20_tb_honzik1_vs_raffael_game1
