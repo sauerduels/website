@@ -9,7 +9,7 @@ finals:
   games:
     - title: tumwalk 45:35
       slug: sd17_final_notas_vs_redon_game1
-    - title: nmp8 25:24
+    - title: nmp8 24:25
       slug: sd17_final_notas_vs_redon_game2
     - title: metl2 49:39
       slug: sd17_final_notas_vs_redon_game3
