@@ -36,8 +36,7 @@
     {% for topranked in hofpage.toprankeds %}
       <span style="margin-left: 2em;">
         {{ topranked.category }} -
-        {% if site.flagbaseurl %}<img class="flag" src="{{ site.flagbaseurl }}{{topranked.country}}.png" />{% endif %}
-        {{ topranked.name }}
+        {{ topranked.name | add_flags }}
       </span>
     {% endfor %}
   {% endfor %}
