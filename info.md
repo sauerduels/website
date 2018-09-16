@@ -7,60 +7,15 @@ index: 1
 
 ## Sign Up
 
-You can sign up by creating a Challonge account and using our [sign up page](/sign-up/) or by sending us a request on Discord/IRC. Events will last around 3 hours, but there will be time to take breaks in between your matches. It is okay to sign up and cancel later, but please DO NOT play one or two games and quit.
+You can sign up by creating a Challonge account and using our [sign up page](/sign-up/) or by sending us a message on Discord. Events will last about 1-2 hours per mode.
 
 ## Format
 
-All events will be played using the round robin format. This means that players will be put into groups, and play one match against each opponent in their group. Then, after all the match are completed, the top player(s) from each group will advance to the semi-finals and play one match. The number of players advancing is determinant on how many groups there are. The winners will advance to the finals, and the losers will play a match for third place. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
+All events will use a traditional double elimination format. This means that the participants will be seeded in a bracket based on ELO, and play through the bracket until they are eliminated. All matches with the exception of the finals will be a best of 1. The finals will be a best of 3. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
 
-**Round Robin**
+## Maps
 
-Best of 1, three maps will be randomly selected from the pool, each player will veto one map, the player with the lower ELO will veto first.
-
-**Tiebreaker**
-
-Same as round robin, except the player with the lower score ratio will veto first.
-
-**Semifinals**
-
-Best of 3, if there are 1-2 the groups, the higher seed will obtain a 1-0 match lead. Each player will get one map pick, the player with the lower seed will pick first. If there are 3-4 groups, the matches will work the same as the finals.
-
-**Consolation**
-
-Same as round robin.
-
-**Finals**
-
-Best of 3, each player will get one map pick, then veto out the remaining maps for the third game. The player with the better round robin win percentage unless tied will pick first or defer to his/her opponent. If tied, the player with the higher ELO will obtain this right. The player who did not have the option to choose/defer will veto first.
-
-## Groups
-
-Players will be split into groups equally based on their ELO. The number of players to advance will depend on the amount of groups. And the number of groups will depend on the total amount of participants (maximum 24). The tournament will be cancelled with less than 4 participants.
-
-**One (4-8 participants)**
-
-The top 4 players will advance to the semifinals.
-
-**Two (9-14, 16 participants)**
-
-The top 2 players will advance to the semifinals.
-
-**Three (15, 18 participants)**
-
-The top player will advance to the semifinals, the second place players will use the tiebreaking rules to determine the last semifinalist.
-
-**Four (16, 19-24 participants)**
-
-The top player will advance to the semifinals.
-
-## Tiebreakers
-
-We will use a set of tiebreaking rules if there are ties within a group. This will determine seeding and who advances to the finals. All rules will be used in order until one of the tiebreakers determines a winner. The rules are as follows:
-
-  * Better win/loss record vs other tied participants
-  * Best of 1 tiebreaking matches, players will be seeded by higher score ratio versus tied participants
-
-## Map Pools
+For map selection, three maps will be randomly selected from the pool, then each player will veto out a map, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
 
 | Efficiency | FFA | Instagib |
 | :--------: | :-: | :------: |
@@ -81,7 +36,6 @@ We will be using multiple servers hosted in Europe and/or the USA for all of our
 ## Crashes
 
 If for any reason the server crashes or a player loses their scores, an admin will decide whether to replay or end the match, depending on the circumstances.
-
 
 ## Cheating
 

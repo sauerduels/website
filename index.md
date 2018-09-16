@@ -6,7 +6,7 @@ index: 0
 
 ## About The Project
 
-Sauerduels.me is a service provided by Frosty and Origin, with help from raffael, Redon, and Lokio. The goal of this project is to help organize games for the remaining players who still enjoy playing Sauerbraten. We plan to host events regularly, and provide an ELO & stats system for players to track their skill. Our mission is to run our events as smoothly as possible, and have everyone play lots of good matches, not just the top players. We look forward to your participation!
+Sauerduels.me is a service provided by Frosty and Origin. The goal of this project is to provide regularly scheduled tournaments for the remaining players who still enjoy playing Sauerbraten. We keep track of all demos and screenshots, and provide an ELO & stats system for players to track their skill. Our mission is to make our events as smooth and enjoyable as we can, giving the community something to look forward to on weekends. We hope to see you there!
 
 ## How To Participate
 
@@ -18,4 +18,4 @@ Feel free to contact us for any questions, feedback, or concerns you may have. Y
 
 ## Contribute
 
-The easiest way to contribute is to participate. We need players, and without your participation, we could not exist. We also appreciate any feedback or suggestions you may have.
+The easiest way to contribute is to participate. We need players, and without your participation, we could not exist. We are also looking for referees to help out during tournament days, if you think you want to help out, don't be afraid to contact us using the Discord link provided above.
