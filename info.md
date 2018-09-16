@@ -45,6 +45,13 @@ There will not be an anti-cheat client that is required to play. However, we do 
 
 If you find that either you or your opponent is lagging you may pause the game and wait for the lag to subside, or if the lag persists, talk to an admin. All decisions made by the admin team are final.
 
+## Banlist
+
+* Jumper
+* Rudi
+* DarkFire
+* Jawer
+
 ## Reminder
 
 Please remember that this is a FREE service provided by volunteers. That means we are NOT being paid and are choosing to do this in our free time. We will do our best to provide high quality service for all players, but we are not perfect, and cannot always satisfy the needs of everyone. Most importantly, don't forget that this is still just a game, so HAVE FUN!
