@@ -15,7 +15,7 @@ finals:
 consolation:
   - result: Partizan def. starch
     games:
-      - title: (forfeit)
+      - title:
         slug: 
 semis:
   - result: raffael def. starch

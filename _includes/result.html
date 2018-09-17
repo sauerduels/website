@@ -16,7 +16,12 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   <h3>Finals:</h3>
   {{ event.finals.result | add_flags }}<br />
   {% for game in event.finals.games %}
-    {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+    {{ game.title }}
+    {% if game.slug %}
+      (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+    {% else %}
+      (forfeit)<br />
+    {% endif %}
   {% endfor %}
   <br />
 {% endif %}
@@ -25,7 +30,12 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% for consolation in event.consolation %}
     {{ consolation.result | add_flags }}<br />
     {% for game in consolation.games %}
-      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+      {{ game.title }}
+      {% if game.slug %}
+        (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+      {% else %}
+        (forfeit)<br />
+      {% endif %}
     {% endfor %}
     <br />
   {% endfor %}
@@ -35,7 +45,12 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% for semi in event.semis %}
     {{ semi.result | add_flags }}<br />
     {% for game in semi.games %}
-      {{ game.title }} (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+      {{ game.title }}
+      {% if game.slug %}
+        (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
+      {% else %}
+        (forfeit)<br />
+      {% endif %}
     {% endfor %}
     <br />
   {% endfor %}
