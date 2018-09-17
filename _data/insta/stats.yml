@@ -1,39 +1,39 @@
 ---
 - accuracy: 40%
-  deaths: 904
-  elo: 1980
-  frags: 1079
-  games: 10
-  kpd: 1.194
-  losses: 0
-  name: raffael
-  rank: 1
-  suicides: 0
-  win_rate: 1.0
-  wins: 10
-- accuracy: 38%
-  deaths: 1758
-  elo: 1868
-  frags: 2272
-  games: 26
-  kpd: 1.292
+  deaths: 2471
+  elo: 1968
+  frags: 3157
+  games: 35
+  kpd: 1.278
   losses: 3
   name: Gangler
-  rank: 2
+  rank: 1
   suicides: 1
-  win_rate: 0.885
-  wins: 23
+  win_rate: 0.914
+  wins: 32
 - accuracy: 40%
-  deaths: 1759
-  elo: 1833
-  frags: 2277
-  games: 20
-  kpd: 1.294
-  losses: 3
-  name: starch
+  deaths: 1747
+  elo: 1966
+  frags: 2062
+  games: 19
+  kpd: 1.18
+  losses: 2
+  name: raffael
+  rank: 2
+  suicides: 0
+  win_rate: 0.895
+  wins: 17
+- accuracy: 34%
+  deaths: 1728
+  elo: 1827
+  frags: 1999
+  games: 22
+  kpd: 1.157
+  losses: 5
+  name: Partizan
   rank: 3
-  suicides: 2
-  win_rate: 0.85
+  suicides: 0
+  win_rate: 0.773
   wins: 17
 - accuracy: 48%
   deaths: 1093
@@ -47,30 +47,30 @@
   suicides: 1
   win_rate: 0.727
   wins: 8
-- accuracy: 34%
-  deaths: 1168
-  elo: 1779
-  frags: 1338
-  games: 14
-  kpd: 1.146
-  losses: 3
-  name: Partizan
+- accuracy: 40%
+  deaths: 2304
+  elo: 1810
+  frags: 2972
+  games: 28
+  kpd: 1.29
+  losses: 6
+  name: starch
   rank: 5
-  suicides: 0
+  suicides: 2
   win_rate: 0.786
-  wins: 11
+  wins: 22
 - accuracy: 41%
-  deaths: 1555
-  elo: 1755
-  frags: 1893
-  games: 18
-  kpd: 1.217
-  losses: 4
+  deaths: 2078
+  elo: 1753
+  frags: 2600
+  games: 24
+  kpd: 1.251
+  losses: 6
   name: Honzik1
   rank: 6
-  suicides: 1
-  win_rate: 0.778
-  wins: 14
+  suicides: 2
+  win_rate: 0.75
+  wins: 18
 - accuracy: 40%
   deaths: 1048
   elo: 1713
@@ -83,18 +83,6 @@
   suicides: 0
   win_rate: 0.692
   wins: 9
-- accuracy: 33%
-  deaths: 397
-  elo: 1691
-  frags: 496
-  games: 5
-  kpd: 1.249
-  losses: 1
-  name: DarkFire
-  rank: 8
-  suicides: 0
-  win_rate: 0.8
-  wins: 4
 - accuracy: 36%
   deaths: 307
   elo: 1691
@@ -103,7 +91,7 @@
   kpd: 1.241
   losses: 1
   name: lagout
-  rank: 9
+  rank: 8
   suicides: 0
   win_rate: 0.8
   wins: 4
@@ -115,7 +103,7 @@
   kpd: 1.069
   losses: 4
   name: Shinnok
-  rank: 10
+  rank: 9
   suicides: 0
   win_rate: 0.667
   wins: 8
@@ -127,7 +115,7 @@
   kpd: 1.123
   losses: 2
   name: notas
-  rank: 11
+  rank: 10
   suicides: 0
   win_rate: 0.667
   wins: 4
@@ -139,7 +127,7 @@
   kpd: 1.176
   losses: 8
   name: fatmonkeygenius
-  rank: 12
+  rank: 11
   suicides: 2
   win_rate: 0.619
   wins: 13
@@ -151,7 +139,7 @@
   kpd: 1.13
   losses: 5
   name: Frosty
-  rank: 13
+  rank: 12
   suicides: 1
   win_rate: 0.643
   wins: 9
@@ -163,10 +151,22 @@
   kpd: 1.119
   losses: 7
   name: hades
-  rank: 14
+  rank: 13
   suicides: 2
   win_rate: 0.533
   wins: 8
+- accuracy: 35%
+  deaths: 472
+  elo: 1581
+  frags: 392
+  games: 6
+  kpd: 0.831
+  losses: 3
+  name: M!lch-Mann
+  rank: 14
+  suicides: 1
+  win_rate: 0.5
+  wins: 3
 - accuracy: 38%
   deaths: 1320
   elo: 1569
@@ -179,18 +179,42 @@
   suicides: 3
   win_rate: 0.588
   wins: 10
-- accuracy: 38%
-  deaths: 1755
-  elo: 1549
-  frags: 1652
-  games: 19
-  kpd: 0.941
-  losses: 10
-  name: Headway
+- accuracy: 36%
+  deaths: 656
+  elo: 1566
+  frags: 702
+  games: 9
+  kpd: 1.07
+  losses: 5
+  name: Redon
   rank: 16
   suicides: 2
-  win_rate: 0.474
-  wins: 9
+  win_rate: 0.444
+  wins: 4
+- accuracy: 38%
+  deaths: 2315
+  elo: 1562
+  frags: 2109
+  games: 25
+  kpd: 0.911
+  losses: 13
+  name: Headway
+  rank: 17
+  suicides: 2
+  win_rate: 0.48
+  wins: 12
+- accuracy: 35%
+  deaths: 871
+  elo: 1527
+  frags: 975
+  games: 11
+  kpd: 1.119
+  losses: 6
+  name: Lokio
+  rank: 18
+  suicides: 0
+  win_rate: 0.455
+  wins: 5
 - accuracy: 33%
   deaths: 271
   elo: 1470
@@ -199,22 +223,22 @@
   kpd: 0.882
   losses: 2
   name: Shikijo
-  rank: 17
+  rank: 19
   suicides: 0
   win_rate: 0.333
   wins: 1
-- accuracy: 31%
-  deaths: 230
-  elo: 1454
-  frags: 231
-  games: 3
-  kpd: 1.004
-  losses: 2
-  name: Redon
-  rank: 18
-  suicides: 2
+- accuracy: 35%
+  deaths: 604
+  elo: 1462
+  frags: 511
+  games: 6
+  kpd: 0.846
+  losses: 4
+  name: Zarah
+  rank: 20
+  suicides: 0
   win_rate: 0.333
-  wins: 1
+  wins: 2
 - accuracy: 34%
   deaths: 1593
   elo: 1448
@@ -223,7 +247,7 @@
   kpd: 0.92
   losses: 11
   name: BudSpencer
-  rank: 19
+  rank: 21
   suicides: 0
   win_rate: 0.421
   wins: 8
@@ -235,7 +259,7 @@
   kpd: 0.888
   losses: 3
   name: Alluro
-  rank: 20
+  rank: 22
   suicides: 0
   win_rate: 0.4
   wins: 2
@@ -247,19 +271,7 @@
   kpd: 0.715
   losses: 3
   name: Khornettoh
-  rank: 21
-  suicides: 0
-  win_rate: 0.4
-  wins: 2
-- accuracy: 36%
-  deaths: 383
-  elo: 1436
-  frags: 411
-  games: 5
-  kpd: 1.073
-  losses: 3
-  name: Lokio
-  rank: 22
+  rank: 23
   suicides: 0
   win_rate: 0.4
   wins: 2
@@ -271,7 +283,7 @@
   kpd: 0.655
   losses: 5
   name: Calinou
-  rank: 23
+  rank: 24
   suicides: 0
   win_rate: 0.286
   wins: 2
@@ -283,7 +295,7 @@
   kpd: 1.261
   losses: 5
   name: Cannibal
-  rank: 24
+  rank: 25
   suicides: 0
   win_rate: 0.286
   wins: 2
@@ -295,22 +307,22 @@
   kpd: 0.712
   losses: 5
   name: Rotti
-  rank: 25
+  rank: 26
   suicides: 0
   win_rate: 0.286
   wins: 2
-- accuracy: 30%
-  deaths: 635
-  elo: 1378
-  frags: 520
-  games: 7
-  kpd: 0.819
-  losses: 5
-  name: A!M
-  rank: 26
-  suicides: 2
-  win_rate: 0.286
-  wins: 2
+- accuracy: 33%
+  deaths: 397
+  elo: 1399
+  frags: 496
+  games: 11
+  kpd: 1.249
+  losses: 7
+  name: DarkFire
+  rank: 27
+  suicides: 0
+  win_rate: 0.364
+  wins: 4
 - accuracy: 31%
   deaths: 1082
   elo: 1356
@@ -319,7 +331,7 @@
   kpd: 0.697
   losses: 8
   name: Bertolt_Brecht
-  rank: 27
+  rank: 28
   suicides: 0
   win_rate: 0.273
   wins: 3
@@ -331,10 +343,22 @@
   kpd: 0.751
   losses: 5
   name: skimmet
-  rank: 28
+  rank: 29
   suicides: 0
   win_rate: 0.167
   wins: 1
+- accuracy: 30%
+  deaths: 1194
+  elo: 1339
+  frags: 977
+  games: 13
+  kpd: 0.818
+  losses: 10
+  name: A!M
+  rank: 30
+  suicides: 3
+  win_rate: 0.231
+  wins: 3
 - accuracy: 23%
   deaths: 342
   elo: 1316
@@ -343,7 +367,7 @@
   kpd: 0.626
   losses: 3
   name: Harsh
-  rank: 29
+  rank: 31
   suicides: 0
   win_rate: 0.25
   wins: 1
@@ -355,7 +379,7 @@
   kpd: 0.712
   losses: 3
   name: Morry
-  rank: 30
+  rank: 32
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -367,7 +391,7 @@
   kpd: 0.386
   losses: 4
   name: Josh22
-  rank: 31
+  rank: 33
   suicides: 1
   win_rate: 0.2
   wins: 1
@@ -379,22 +403,22 @@
   kpd: 1.048
   losses: 4
   name: yggdrasil
-  rank: 32
+  rank: 34
   suicides: 0
   win_rate: 0.2
   wins: 1
-- accuracy: 28%
-  deaths: 906
-  elo: 1290
-  frags: 702
-  games: 9
-  kpd: 0.775
-  losses: 7
+- accuracy: 29%
+  deaths: 1521
+  elo: 1292
+  frags: 1149
+  games: 15
+  kpd: 0.755
+  losses: 12
   name: ZCrone
-  rank: 33
+  rank: 35
   suicides: 0
-  win_rate: 0.222
-  wins: 2
+  win_rate: 0.2
+  wins: 3
 - accuracy: 34%
   deaths: 301
   elo: 1289
@@ -403,7 +427,19 @@
   kpd: 0.718
   losses: 3
   name: Tengrichan
-  rank: 34
+  rank: 36
+  suicides: 0
+  win_rate: 0.0
+  wins: 0
+- accuracy: 24%
+  deaths: 661
+  elo: 1220
+  frags: 333
+  games: 6
+  kpd: 0.504
+  losses: 6
+  name: FixxxerSA
+  rank: 37
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -415,7 +451,7 @@
   kpd: 0.515
   losses: 7
   name: '1989'
-  rank: 35
+  rank: 38
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -427,7 +463,7 @@
   kpd: 0.72
   losses: 11
   name: NoobGuy
-  rank: 36
+  rank: 39
   suicides: 1
   win_rate: 0.083
   wins: 1
@@ -439,7 +475,7 @@
   kpd: 0.651
   losses: 4
   name: 4-Tune
-  rank: 37
+  rank: 40
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -451,7 +487,7 @@
   kpd: 0.488
   losses: 7
   name: fishcakes
-  rank: 38
+  rank: 41
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -463,7 +499,7 @@
   kpd: 0.745
   losses: 12
   name: "Ph\xF6nix"
-  rank: 39
+  rank: 42
   suicides: 0
   win_rate: 0.077
   wins: 1
