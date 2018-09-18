@@ -16,7 +16,7 @@ module Jekyll
       'Gangler' => 'de',
       'bug' => 'il',
       'Fear' => 'de',
-      'Aiurz' => 'ch',
+      'KenhSix' => 'ch',
       'BenKei' => 'nl',
       'Bertolt_Brecht' => 'gb',
       'h8' => 'in',
