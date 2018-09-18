@@ -19,12 +19,12 @@ groups:
         slug: sd04_benkei_vs_starch
       - result: Rexus def. greenadiss
         slug: sd04_greenadiss_vs_rexus
-      - result: Aiurz def. Bertolt_Brecht
-        slug: sd04_aiurz_vs_bertolt_brecht
+      - result: KenhSix def. Bertolt_Brecht
+        slug: sd04_bertolt_brecht_vs_kenhsix
     - - result: Bertolt_Brecht def. greenadiss
         slug: sd04_bertolt_brecht_vs_greenadiss
-      - result: Aiurz def. ZCrone
-        slug: sd04_aiurz_vs_zcrone
+      - result: KenhSix def. ZCrone
+        slug: sd04_kenhsix_vs_zcrone
       - result: Rexus def. BenKei
         slug: sd04_benkei_vs_rexus
       - result: starch def. Alluro
@@ -35,12 +35,12 @@ groups:
         slug: sd04_alluro_vs_rexus
       - result: starch def. ZCrone
         slug: sd04_starch_vs_zcrone
-      - result: Aiurz def. greenadiss
-        slug: sd04_aiurz_vs_greenadiss
+      - result: KenhSix def. greenadiss
+        slug: sd04_greenadiss_vs_kenhsix
     - - result: starch def. Rexus
         slug: sd04_rexus_vs_starch
-      - result: Aiurz def. BenKei
-        slug: sd04_aiurz_vs_benkei
+      - result: KenhSix def. BenKei
+        slug: sd04_benkei_vs_kenhsix
       - result: Alluro def. Bertolt_Brecht
         slug: sd04_alluro_vs_bertolt_brecht
       - result: ZCrone def. greenadiss
@@ -49,20 +49,20 @@ groups:
         slug: sd04_benkei_vs_greenadiss
       - result: starch def. Bertolt_Brecht
         slug: sd04_bertolt_brecht_vs_starch
-      - result: Alluro def. Aiurz
-        slug: sd04_aiurz_vs_alluro
+      - result: Alluro def. KenhSix
+        slug: sd04_alluro_vs_kenhsix
       - result: Rexus def. ZCrone
         slug: 
-    - - result: starch def. Aiurz
-        slug: sd04_aiurz_vs_starch
+    - - result: starch def. KenhSix
+        slug: sd04_kenhsix_vs_starch
       - result: Alluro def. greenadiss
         slug: sd04_alluro_vs_greenadiss
       - result: BenKei def. ZCrone
         slug: sd04_benkei_vs_zcrone
       - result: Rexus def. Bertolt_Brecht
         slug: sd04_bertolt_brecht_vs_rexus
-    - - result: Rexus def. Aiurz
-        slug: sd04_aiurz_vs_rexus
+    - - result: Rexus def. KenhSix
+        slug: sd04_kenhsix_vs_rexus
       - result: Bertolt_Brecht def. ZCrone
         slug: sd04_bertolt_brecht_vs_zcrone
       - result: starch def. greenadiss
