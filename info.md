@@ -15,16 +15,18 @@ All events will use a traditional double elimination format. This means that the
 
 ## Maps
 
-For map selection, three maps will be randomly selected from the pool, then each player will veto out a map, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
+For map selection, five maps will be randomly selected from the pool, then each player will veto two maps, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
 
 | Efficiency | FFA | Instagib |
 | :--------: | :-: | :------: |
 | aard3c | corruption | aard3c |
-| academy | hades | complex |
-| frozen | metl2 | duel7 |
-| legazzo | metl3 | douze |
-| memento | metl4 | kffa |
-| ot | nmp8 | ot |
+| academy | hades | academy |
+| duel8 | metl2 | complex |
+| frozen | metl3 | duel7 |
+| legazzo | metl4 | duel8 |
+| memento | nmp8 | douze |
+| ot | paradigm | kffa |
+| simplicity | skrdm1 | ot |
 | turbine | tumwalk | turbine |
 
 ## Servers
