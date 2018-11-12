@@ -61,7 +61,14 @@ module Jekyll
       'fishcakes' => 'gb',
       'skimmet' => 'nl',
       'M!lch-Mann' => 'de',
-      'FixxxerSA' => 'za' }
+      'FixxxerSA' => 'za',
+      'Skillz' => 'ca',
+      'pix' => 'de',
+      'Krakovic' => 'de',
+      'Doko' => 'cl',
+      'Master' => 'de',
+      'Alli' => 'de',
+      'ZahariaHome' => 'ro' }
     
     def add_flags(input)
       PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"https://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }

@@ -56,6 +56,42 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   {% endfor %}
 {% endif %}
 
+{% for bracket in event.brackets %}
+  <h3>{{ bracket[0]}} Bracket:</h3>
+  {% for round in bracket[1] %}
+  {% assign roundLen = round | size %}
+    <table style="text-align: center; border-top: solid 5px #dfe2e5;">
+      <tbody>
+        <tr>
+          <td style="font-weight: bold;" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>
+          {% for game in round %}
+            
+            {% assign shouldNotSplit = forloop.index0 | modulo: 2 %}
+            {% if shouldNotSplit == 0 and forloop.index0 != 0 && forloop.index < roundLen %}
+              </tr>
+              <tr>
+            {% endif %}
+            
+            {% if forloop.index == roundLen && shouldNotSplit == 0 %}
+            <td colspan="2">
+            {% else %}
+            <td>
+            {% endif %}
+              {{ game.result | add_flags }}
+              {% if game.slug %}
+                (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)
+              {% else %}
+                (forfeit)
+              {% endif %}
+            </td>
+            
+          {% endfor %}
+        </tr>
+      </tbody>
+    </table>
+  {% endfor %}
+{% endfor %}
+
 {% for group in event.groups %}
   <h3>Group {{ group[0] | upcase }}:</h3>
   {% for round in group[1] %}
