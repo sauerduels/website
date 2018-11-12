@@ -63,7 +63,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
     <table style="text-align: center; border-top: solid 5px #dfe2e5;">
       <tbody>
         <tr>
-          <td style="font-weight: bold;" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>
+          <td style="font-weight: bold;" width="10%" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>
           {% for game in round %}
             
             {% assign shouldNotSplit = forloop.index0 | modulo: 2 %}
@@ -73,9 +73,9 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
             {% endif %}
             
             {% if forloop.index == roundLen && shouldNotSplit == 0 %}
-            <td colspan="2">
+            <td colspan="2" width="90%">
             {% else %}
-            <td>
+            <td width="45%">
             {% endif %}
               {{ game.result | add_flags }}
               {% if game.slug %}
