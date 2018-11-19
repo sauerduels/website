@@ -86,7 +86,7 @@ groups:
       - result: starch def. fishcakes
         slug: sd18_fishcakes_vs_starch
   b:
-    - - result: Partizan def. BudSpencer
+    - - result: Partizan def. Toph
         slug: sd18_budspencer_vs_partizan
       - result: hades def. skimmet
         slug: sd18_hades_vs_skimmet
@@ -94,17 +94,17 @@ groups:
         slug: sd18_bertolt_brecht_vs_notas
     - - result: skimmet def. Bertolt_Brecht
         slug: sd18_bertolt_brecht_vs_skimmet
-      - result: hades def. BudSpencer
+      - result: hades def. Toph
         slug: sd18_budspencer_vs_hades
       - result: Honzik1 def. Partizan
         slug: sd18_honzik1_vs_partizan
     - - result: Honzik1 def. hades
         slug: sd18_hades_vs_honzik1
-      - result: BudSpencer def. Bertolt_Brecht
+      - result: Toph def. Bertolt_Brecht
         slug: sd18_bertolt_brecht_vs_budspencer
       - result: notas def. skimmet
         slug: sd18_notas_vs_skimmet
-    - - result: notas def. BudSpencer
+    - - result: notas def. Toph
         slug: sd18_budspencer_vs_notas
       - result: Honzik1 def. Bertolt_Brecht
         slug: sd18_bertolt_brecht_vs_honzik1
@@ -114,7 +114,7 @@ groups:
         slug: sd18_bertolt_brecht_vs_partizan
       - result: Honzik1 def. notas
         slug: sd18_honzik1_vs_notas
-      - result: BudSpencer def. skimmet
+      - result: Toph def. skimmet
         slug: sd18_budspencer_vs_skimmet
     - - result: Honzik1 def. skimmet
         slug: sd18_honzik1_vs_skimmet
@@ -126,6 +126,6 @@ groups:
         slug: sd18_hades_vs_notas
       - result: Partizan def. skimmet
         slug: sd18_partizan_vs_skimmet
-      - result: Honzik1 def. BudSpencer
+      - result: Honzik1 def. Toph
         slug: sd18_budspencer_vs_honzik1
 ---

@@ -13,7 +13,7 @@ finals:
       slug: sd05_final_honzik1_vs_redon_game2
 groups:
   a:
-    - - result: Redon def. BudSpencer
+    - - result: Redon def. Toph
         slug: sd05_budspencer_vs_redon
       - result: Lokio def. Alluro
         slug: sd05_alluro_vs_lokio
@@ -21,7 +21,7 @@ groups:
         slug: sd05_frosty_vs_honzik1
     - - result: Honzik1 def. Alluro
         slug: sd05_alluro_vs_honzik1
-      - result: Frosty def. BudSpencer
+      - result: Frosty def. Toph
         slug: sd05_budspencer_vs_frosty
       - result: Redon def. Lokio
         slug: sd05_lokio_vs_redon
@@ -29,17 +29,17 @@ groups:
         slug: sd05_alluro_vs_frosty
       - result: Redon def. Honzik1
         slug: sd05_honzik1_vs_redon
-      - result: Lokio def. BudSpencer
+      - result: Lokio def. Toph
         slug: sd05_budspencer_vs_lokio
     - - result: Honzik1 def. Lokio
         slug: sd05_honzik1_vs_lokio
       - result: Redon def. Frosty
         slug: sd05_frosty_vs_redon
-      - result: Alluro def. BudSpencer
+      - result: Alluro def. Toph
         slug: sd05_alluro_vs_budspencer
     - - result: Lokio def. Frosty
         slug: sd05_frosty_vs_lokio
-      - result: Honzik1 def. BudSpencer
+      - result: Honzik1 def. Toph
         slug: sd05_budspencer_vs_honzik1
       - result: Redon def. Alluro
         slug: sd05_alluro_vs_redon

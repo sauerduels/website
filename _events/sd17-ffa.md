@@ -29,7 +29,7 @@ semis:
         slug: sd17_semifinal_honzik1_vs_notas_game1
 groups:
   a:
-    - - result: Redon def. BudSpencer
+    - - result: Redon def. Toph
         slug: sd17_budspencer_vs_redon
       - result: Honzik1 def. Frosty
         slug: sd17_frosty_vs_honzik1
@@ -37,7 +37,7 @@ groups:
         slug: sd17_degrave_vs_zcrone
     - - result: Frosty def. ZCrone
         slug: sd17_frosty_vs_zcrone
-      - result: degrave def. BudSpencer
+      - result: degrave def. Toph
         slug: sd17_budspencer_vs_degrave
       - result: Redon def. Honzik1
         slug: sd17_honzik1_vs_redon
@@ -45,17 +45,17 @@ groups:
         slug: sd17_degrave_vs_frosty
       - result: Redon def. ZCrone
         slug: sd17_redon_vs_zcrone
-      - result: Honzik1 def. BudSpencer
+      - result: Honzik1 def. Toph
         slug: sd17_budspencer_vs_honzik1
     - - result: Honzik1 def. ZCrone
         slug: sd17_honzik1_vs_zcrone
       - result: Redon def. degrave
         slug: sd17_degrave_vs_redon
-      - result: Frosty def. BudSpencer
+      - result: Frosty def. Toph
         slug: sd17_budspencer_vs_frosty
     - - result: Honzik1 def. degrave
         slug: sd17_degrave_vs_honzik1
-      - result: BudSpencer def. ZCrone
+      - result: Toph def. ZCrone
         slug: sd17_budspencer_vs_zcrone
       - result: Redon def. Frosty
         slug: sd17_frosty_vs_redon

@@ -50,16 +50,16 @@ groups:
       - result: Rexus def. Mod
         slug: sd19_mod_vs_rexus
   b:
-    - - result: notas def. BudSpencer
+    - - result: notas def. Toph
         slug: sd19_budspencer_vs_notas
       - result: raffael def. Jawer
         slug: sd19_jawer_vs_raffael
     - - result: raffael def. notas
         slug: sd19_notas_vs_raffael
-      - result: Jawer def. BudSpencer
+      - result: Jawer def. Toph
         slug: sd19_budspencer_vs_jawer
     - - result: notas def. Jawer
         slug: sd19_jawer_vs_notas
-      - result: raffael def. BudSpencer
+      - result: raffael def. Toph
         slug: sd19_budspencer_vs_raffael
 ---

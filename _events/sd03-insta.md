@@ -51,7 +51,7 @@ groups:
       - result: Partizan def. NoobGuy
         slug: sd03_noobguy_vs_partizan
   b:
-    - - result: BudSpencer def. Rudi
+    - - result: Toph def. Rudi
         slug: 
       - result: lagout def. Phönix
         slug: sd03_lagout_vs_phonix
@@ -61,17 +61,17 @@ groups:
         slug: sd03_gangler_vs_lagout
       - result: Khornettoh def. Rudi
         slug: 
-      - result: BudSpencer def. Phönix
+      - result: Toph def. Phönix
         slug: sd03_budspencer_vs_phonix
     - - result: lagout def. Khornettoh
         slug: sd03_khornettoh_vs_lagout
-      - result: Gangler def. BudSpencer
+      - result: Gangler def. Toph
         slug: sd03_budspencer_vs_gangler
       - result: Phönix def. Rudi
         slug: 
     - - result: Gangler def. Phönix
         slug: sd03_gangler_vs_phonix
-      - result: BudSpencer def. Khornettoh
+      - result: Toph def. Khornettoh
         slug: sd03_budspencer_vs_khornettoh
       - result: lagout def. Rudi
         slug: 
@@ -79,7 +79,7 @@ groups:
         slug: sd03_khornettoh_vs_phonix
       - result: Gangler def. Rudi
         slug: 
-      - result: lagout def. BudSpencer
+      - result: lagout def. Toph
         slug: sd03_budspencer_vs_lagout
   c:
     - - result: yggdrasil def. ZCrone

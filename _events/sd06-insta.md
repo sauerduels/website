@@ -40,18 +40,18 @@ groups:
         slug: sd06_harsh_vs_honzik1
     - - result: Honzik1 def. Rudi
         slug: 
-      - result: fatmonkeygenius def. BudSpencer
+      - result: fatmonkeygenius def. Toph
         slug: sd06_budspencer_vs_fatmonkeygenius
-    - - result: Honzik1 def. BudSpencer
+    - - result: Honzik1 def. Toph
         slug: sd06_budspencer_vs_honzik1
       - result: Harsh def. Rudi
         slug: 
-    - - result: BudSpencer def. Harsh
+    - - result: Toph def. Harsh
         slug: sd06_budspencer_vs_harsh
       - result: Honzik1 def. fatmonkeygenius
         slug: sd06_fatmonkeygenius_vs_honzik1
     - - result: fatmonkeygenius def. Harsh
         slug: sd06_fatmonkeygenius_vs_harsh
-      - result: BudSpencer def. Rudi
+      - result: Toph def. Rudi
         slug: 
 ---
