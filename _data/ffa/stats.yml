@@ -1,16 +1,16 @@
 ---
 - accuracy: 27%
-  deaths: 1235
-  elo: 1898
-  frags: 2048
-  games: 51
-  kpd: 1.658
+  deaths: 1312
+  elo: 1915
+  frags: 2290
+  games: 56
+  kpd: 1.745
   losses: 7
   name: Redon
   rank: 1
-  suicides: 50
-  win_rate: 0.863
-  wins: 44
+  suicides: 56
+  win_rate: 0.875
+  wins: 49
 - accuracy: 25%
   deaths: 1076
   elo: 1846
@@ -24,29 +24,29 @@
   win_rate: 0.73
   wins: 27
 - accuracy: 26%
-  deaths: 715
-  elo: 1683
-  frags: 972
-  games: 29
-  kpd: 1.359
-  losses: 10
+  deaths: 809
+  elo: 1675
+  frags: 1093
+  games: 33
+  kpd: 1.351
+  losses: 12
   name: Lokio
   rank: 3
-  suicides: 30
-  win_rate: 0.655
-  wins: 19
+  suicides: 39
+  win_rate: 0.636
+  wins: 21
 - accuracy: 24%
-  deaths: 1042
-  elo: 1600
-  frags: 1171
-  games: 38
-  kpd: 1.124
-  losses: 16
+  deaths: 1266
+  elo: 1618
+  frags: 1430
+  games: 46
+  kpd: 1.13
+  losses: 19
   name: Honzik1
   rank: 4
-  suicides: 49
-  win_rate: 0.579
-  wins: 22
+  suicides: 59
+  win_rate: 0.587
+  wins: 27
 - accuracy: 24%
   deaths: 205
   elo: 1593
@@ -59,18 +59,18 @@
   suicides: 1
   win_rate: 0.5
   wins: 3
-- accuracy: 24%
-  deaths: 404
-  elo: 1556
-  frags: 431
-  games: 13
-  kpd: 1.067
-  losses: 7
+- accuracy: 23%
+  deaths: 513
+  elo: 1529
+  frags: 595
+  games: 18
+  kpd: 1.16
+  losses: 9
   name: raffael
   rank: 6
-  suicides: 14
-  win_rate: 0.462
-  wins: 6
+  suicides: 15
+  win_rate: 0.5
+  wins: 9
 - accuracy: 21%
   deaths: 807
   elo: 1527
@@ -83,6 +83,30 @@
   suicides: 41
   win_rate: 0.484
   wins: 15
+- accuracy: 25%
+  deaths: 128
+  elo: 1476
+  frags: 33
+  games: 3
+  kpd: 0.258
+  losses: 2
+  name: Krakovic
+  rank: 8
+  suicides: 3
+  win_rate: 0.333
+  wins: 1
+- accuracy: 25%
+  deaths: 145
+  elo: 1468
+  frags: 153
+  games: 5
+  kpd: 1.055
+  losses: 2
+  name: benzomatic
+  rank: 9
+  suicides: 5
+  win_rate: 0.6
+  wins: 3
 - accuracy: 26%
   deaths: 59
   elo: 1458
@@ -91,7 +115,7 @@
   kpd: 2.627
   losses: 4
   name: starch
-  rank: 8
+  rank: 10
   suicides: 1
   win_rate: 0.429
   wins: 3
@@ -103,10 +127,22 @@
   kpd: 0.455
   losses: 3
   name: DarkFire
-  rank: 9
+  rank: 11
   suicides: 2
   win_rate: 0.4
   wins: 2
+- accuracy: 20%
+  deaths: 553
+  elo: 1414
+  frags: 369
+  games: 16
+  kpd: 0.667
+  losses: 10
+  name: Rotti
+  rank: 12
+  suicides: 21
+  win_rate: 0.375
+  wins: 6
 - accuracy: 22%
   deaths: 182
   elo: 1411
@@ -115,22 +151,34 @@
   kpd: 0.533
   losses: 3
   name: degrave
-  rank: 10
+  rank: 13
   suicides: 14
   win_rate: 0.4
   wins: 2
-- accuracy: 20%
-  deaths: 438
-  elo: 1389
-  frags: 247
-  games: 12
-  kpd: 0.564
-  losses: 8
-  name: Rotti
-  rank: 11
-  suicides: 17
-  win_rate: 0.333
-  wins: 4
+- accuracy: 29%
+  deaths: 113
+  elo: 1409
+  frags: 100
+  games: 4
+  kpd: 0.885
+  losses: 2
+  name: Skillz
+  rank: 14
+  suicides: 0
+  win_rate: 0.5
+  wins: 2
+- accuracy: 24%
+  deaths: 1012
+  elo: 1340
+  frags: 482
+  games: 27
+  kpd: 0.476
+  losses: 21
+  name: h8
+  rank: 15
+  suicides: 50
+  win_rate: 0.222
+  wins: 6
 - accuracy: 26%
   deaths: 140
   elo: 1331
@@ -139,7 +187,7 @@
   kpd: 0.629
   losses: 4
   name: Alluro
-  rank: 12
+  rank: 16
   suicides: 4
   win_rate: 0.2
   wins: 1
@@ -151,10 +199,22 @@
   kpd: 0.791
   losses: 4
   name: Partizan
-  rank: 13
+  rank: 17
   suicides: 2
   win_rate: 0.2
   wins: 1
+- accuracy: 18%
+  deaths: 89
+  elo: 1306
+  frags: 12
+  games: 2
+  kpd: 0.135
+  losses: 2
+  name: Bertolt_Brecht
+  rank: 18
+  suicides: 1
+  win_rate: 0.0
+  wins: 0
 - accuracy: 21%
   deaths: 343
   elo: 1254
@@ -163,44 +223,44 @@
   kpd: 0.222
   losses: 6
   name: __FRY__
-  rank: 14
+  rank: 19
   suicides: 8
   win_rate: 0.143
   wins: 1
-- accuracy: 25%
-  deaths: 866
-  elo: 1218
-  frags: 352
-  games: 22
-  kpd: 0.406
-  losses: 19
-  name: h8
-  rank: 15
-  suicides: 43
-  win_rate: 0.136
-  wins: 3
-- accuracy: 26%
-  deaths: 757
-  elo: 1166
-  frags: 335
-  games: 20
-  kpd: 0.443
-  losses: 18
-  name: BudSpencer
-  rank: 16
-  suicides: 7
-  win_rate: 0.1
-  wins: 2
-- accuracy: 18%
-  deaths: 183
-  elo: 1152
-  frags: 8
-  games: 7
-  kpd: 0.044
-  losses: 7
-  name: Zarah
-  rank: 17
+- accuracy: 14%
+  deaths: 79
+  elo: 1248
+  frags: 32
+  games: 2
+  kpd: 0.405
+  losses: 2
+  name: Master
+  rank: 20
   suicides: 4
+  win_rate: 0.0
+  wins: 0
+- accuracy: 25%
+  deaths: 835
+  elo: 1192
+  frags: 413
+  games: 23
+  kpd: 0.495
+  losses: 20
+  name: Toph
+  rank: 21
+  suicides: 10
+  win_rate: 0.13
+  wins: 3
+- accuracy: 19%
+  deaths: 273
+  elo: 1126
+  frags: 23
+  games: 9
+  kpd: 0.084
+  losses: 9
+  name: Zarah
+  rank: 22
+  suicides: 6
   win_rate: 0.0
   wins: 0
 - accuracy: 24%
@@ -211,8 +271,20 @@
   kpd: 0.167
   losses: 10
   name: ZCrone
-  rank: 18
+  rank: 23
   suicides: 13
+  win_rate: 0.0
+  wins: 0
+- accuracy: 16%
+  deaths: 88
+  elo: 1023
+  frags: 2
+  games: 2
+  kpd: 0.023
+  losses: 2
+  name: Tamin0
+  rank: 24
+  suicides: 1
   win_rate: 0.0
   wins: 0
 ---

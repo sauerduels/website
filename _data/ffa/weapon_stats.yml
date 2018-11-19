@@ -1,13 +1,13 @@
 ---
 - accuracy: 27%
-  chaingun: 25%
-  chainsaw: 16%
+  chaingun: 24%
+  chainsaw: 18%
   grenade_launcher: 16%
   name: Redon
-  pistol: 41%
+  pistol: 42%
   rank: 1
   rifle: 38%
-  rocket_launcher: 33%
+  rocket_launcher: 32%
   shotgun: 31%
 - accuracy: 25%
   chaingun: 21%
@@ -20,24 +20,24 @@
   rocket_launcher: 31%
   shotgun: 23%
 - accuracy: 26%
-  chaingun: 24%
+  chaingun: 23%
   chainsaw: 24%
   grenade_launcher: 23%
   name: Lokio
   pistol: 37%
   rank: 3
   rifle: 39%
-  rocket_launcher: 33%
-  shotgun: 29%
+  rocket_launcher: 32%
+  shotgun: 28%
 - accuracy: 24%
   chaingun: 22%
-  chainsaw: 00%
-  grenade_launcher: 16%
+  chainsaw: 10%
+  grenade_launcher: 15%
   name: Honzik1
-  pistol: 38%
+  pistol: 39%
   rank: 4
-  rifle: 42%
-  rocket_launcher: 30%
+  rifle: 41%
+  rocket_launcher: 29%
   shotgun: 26%
 - accuracy: 24%
   chaingun: 23%
@@ -49,14 +49,14 @@
   rifle: 26%
   rocket_launcher: 32%
   shotgun: 30%
-- accuracy: 24%
-  chaingun: 21%
+- accuracy: 23%
+  chaingun: 20%
   chainsaw: 00%
-  grenade_launcher: 14%
+  grenade_launcher: 12%
   name: raffael
   pistol: 37%
   rank: 6
-  rifle: 45%
+  rifle: 40%
   rocket_launcher: 23%
   shotgun: 24%
 - accuracy: 21%
@@ -69,13 +69,33 @@
   rifle: 37%
   rocket_launcher: 23%
   shotgun: 23%
+- accuracy: 25%
+  chaingun: 25%
+  chainsaw: 00%
+  grenade_launcher: 20%
+  name: Krakovic
+  pistol: 24%
+  rank: 8
+  rifle: 31%
+  rocket_launcher: 27%
+  shotgun: 26%
+- accuracy: 25%
+  chaingun: 23%
+  chainsaw: 00%
+  grenade_launcher: 29%
+  name: benzomatic
+  pistol: 37%
+  rank: 9
+  rifle: 30%
+  rocket_launcher: 31%
+  shotgun: 25%
 - accuracy: 26%
   chaingun: 26%
   chainsaw: 00%
   grenade_launcher: 19%
   name: starch
   pistol: 29%
-  rank: 8
+  rank: 10
   rifle: 34%
   rocket_launcher: 30%
   shotgun: 24%
@@ -85,37 +105,57 @@
   grenade_launcher: 25%
   name: DarkFire
   pistol: 22%
-  rank: 9
+  rank: 11
   rifle: 33%
   rocket_launcher: 19%
   shotgun: 32%
+- accuracy: 20%
+  chaingun: 18%
+  chainsaw: 00%
+  grenade_launcher: 16%
+  name: Rotti
+  pistol: 24%
+  rank: 12
+  rifle: 26%
+  rocket_launcher: 26%
+  shotgun: 22%
 - accuracy: 22%
   chaingun: 20%
   chainsaw: 00%
   grenade_launcher: 16%
   name: degrave
   pistol: 23%
-  rank: 10
+  rank: 13
   rifle: 37%
   rocket_launcher: 28%
   shotgun: 17%
-- accuracy: 20%
+- accuracy: 29%
+  chaingun: 24%
+  chainsaw: 08%
+  grenade_launcher: 23%
+  name: Skillz
+  pistol: 25%
+  rank: 14
+  rifle: 34%
+  rocket_launcher: 40%
+  shotgun: 34%
+- accuracy: 24%
   chaingun: 19%
   chainsaw: 00%
-  grenade_launcher: 18%
-  name: Rotti
-  pistol: 22%
-  rank: 11
-  rifle: 25%
-  rocket_launcher: 27%
-  shotgun: 18%
+  grenade_launcher: 20%
+  name: h8
+  pistol: 30%
+  rank: 15
+  rifle: 36%
+  rocket_launcher: 32%
+  shotgun: 30%
 - accuracy: 26%
   chaingun: 25%
   chainsaw: 00%
   grenade_launcher: 18%
   name: Alluro
   pistol: 30%
-  rank: 12
+  rank: 16
   rifle: 30%
   rocket_launcher: 29%
   shotgun: 27%
@@ -125,58 +165,78 @@
   grenade_launcher: 21%
   name: Partizan
   pistol: 40%
-  rank: 13
+  rank: 17
   rifle: 32%
   rocket_launcher: 42%
   shotgun: 33%
+- accuracy: 18%
+  chaingun: 18%
+  chainsaw: 00%
+  grenade_launcher: 09%
+  name: Bertolt_Brecht
+  pistol: 12%
+  rank: 18
+  rifle: 32%
+  rocket_launcher: 18%
+  shotgun: 16%
 - accuracy: 21%
   chaingun: 18%
   chainsaw: 00%
   grenade_launcher: 22%
   name: __FRY__
   pistol: 21%
-  rank: 14
+  rank: 19
   rifle: 27%
   rocket_launcher: 23%
   shotgun: 23%
+- accuracy: 14%
+  chaingun: 13%
+  chainsaw: 00%
+  grenade_launcher: 17%
+  name: Master
+  pistol: 27%
+  rank: 20
+  rifle: 11%
+  rocket_launcher: 13%
+  shotgun: 21%
 - accuracy: 25%
-  chaingun: 19%
-  chainsaw: 00%
-  grenade_launcher: 23%
-  name: h8
-  pistol: 30%
-  rank: 15
-  rifle: 34%
-  rocket_launcher: 33%
-  shotgun: 31%
-- accuracy: 26%
-  chaingun: 25%
+  chaingun: 24%
   chainsaw: 11%
-  grenade_launcher: 13%
-  name: BudSpencer
-  pistol: 36%
-  rank: 16
-  rifle: 35%
-  rocket_launcher: 29%
-  shotgun: 25%
-- accuracy: 18%
-  chaingun: 21%
+  grenade_launcher: 14%
+  name: Toph
+  pistol: 35%
+  rank: 21
+  rifle: 33%
+  rocket_launcher: 30%
+  shotgun: 24%
+- accuracy: 19%
+  chaingun: 22%
   chainsaw: 00%
-  grenade_launcher: 09%
+  grenade_launcher: 08%
   name: Zarah
-  pistol: 18%
-  rank: 17
-  rifle: 22%
-  rocket_launcher: 20%
-  shotgun: 14%
+  pistol: 25%
+  rank: 22
+  rifle: 20%
+  rocket_launcher: 24%
+  shotgun: 15%
 - accuracy: 24%
   chaingun: 22%
   chainsaw: 00%
   grenade_launcher: 18%
   name: ZCrone
   pistol: 29%
-  rank: 18
+  rank: 23
   rifle: 37%
   rocket_launcher: 26%
   shotgun: 25%
+- accuracy: 16%
+  chaingun: 17%
+  chainsaw: 00%
+  grenade_launcher: 06%
+  name: Tamin0
+  pistol: 10%
+  rank: 24
+  rifle: 22%
+  rocket_launcher: 25%
+  shotgun: 16%
 ---
