@@ -8,7 +8,7 @@ module Jekyll
       'DarkFire' => 'us',
       'Alluro' => 'de',
       'Partizan' => 'rs',
-      'BudSpencer' => 'de',
+      'Toph' => 'de',
       'starch' => 'us',
       'hades' => 'us',
       'Rexus' => 'gb',
@@ -68,7 +68,8 @@ module Jekyll
       'Doko' => 'cl',
       'Master' => 'de',
       'Alli' => 'de',
-      'ZahariaHome' => 'ro' }
+      'ZahariaHome' => 'ro',
+      'benzomatic' => 'de' }
     
     def add_flags(input)
       PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"https://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }

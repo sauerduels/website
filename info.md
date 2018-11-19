@@ -52,7 +52,6 @@ If you find that either you or your opponent is lagging you may pause the game a
 * Jumper
 * Rudi
 * DarkFire
-* Jawer
 
 ## Reminder
 
