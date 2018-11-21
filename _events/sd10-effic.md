@@ -56,17 +56,17 @@ groups:
         slug: sd09_honzik1_vs_redon
   b:
     - - result: raffael def. Toph
-        slug: sd10_budspencer_vs_raffael
+        slug: sd10_raffael_vs_toph
       - result: Morry def. hamon
         slug: sd10_hamon_vs_morry
     - - result: Toph def. Morry
-        slug: sd10_budspencer_vs_morry
+        slug: sd10_morry_vs_toph
       - result: lagout def. raffael
         slug: sd10_lagout_vs_raffael
     - - result: lagout def. Morry
         slug: sd10_lagout_vs_morry
       - result: Toph def. hamon
-        slug: sd10_budspencer_vs_hamon
+        slug: sd10_hamon_vs_toph
     - - result: lagout def. hamon
         slug: sd10_hamon_vs_lagout
       - result: raffael def. Morry
@@ -74,5 +74,5 @@ groups:
     - - result: raffael def. hamon
         slug: sd10_hamon_vs_raffael
       - result: lagout def. Toph
-        slug: sd10_budspencer_vs_lagout
+        slug: sd10_lagout_vs_toph
 ---

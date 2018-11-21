@@ -18,11 +18,11 @@ groups:
     - - result: Honzik1 def. ZCrone
         slug: sd07_honzik1_vs_zcrone
       - result: Gangler def. Toph
-        slug: sd07_budspencer_vs_gangler
+        slug: sd07_gangler_vs_toph
       - result: __FRY__ def. Mod
         slug: sd07___fry___vs_mod
     - - result: Toph def. Mod
-        slug: sd07_budspencer_vs_mod
+        slug: sd07_mod_vs_toph
       - result: Gangler def. ZCrone
         slug: sd07_gangler_vs_zcrone
       - result: Honzik1 def. hades
@@ -32,7 +32,7 @@ groups:
       - result: ZCrone def. Mod
         slug: sd07_mod_vs_zcrone
       - result: Toph def. __FRY__
-        slug: sd07___fry___vs_budspencer
+        slug: sd07___fry___vs_toph
     - - result: __FRY__ def. ZCrone
         slug: sd07___fry___vs_zcrone
       - result: hades def. Mod
@@ -44,9 +44,9 @@ groups:
       - result: hades def. __FRY__
         slug: sd07___fry___vs_hades
       - result: Toph def. ZCrone
-        slug: sd07_budspencer_vs_zcrone
+        slug: sd07_toph_vs_zcrone
     - - result: hades def. Toph
-        slug: sd07_budspencer_vs_hades
+        slug: sd07_hades_vs_toph
       - result: Honzik1 def. __FRY__
         slug: sd07___fry___vs_honzik1
       - result: Gangler def. Mod
@@ -54,7 +54,7 @@ groups:
     - - result: Gangler def. __FRY__
         slug: sd07___fry___vs_gangler
       - result: Honzik1 def. Toph
-        slug: sd07_budspencer_vs_honzik1
+        slug: sd07_honzik1_vs_toph
       - result: hades def. ZCrone
         slug: sd07_hades_vs_zcrone
   b:

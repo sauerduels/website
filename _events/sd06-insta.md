@@ -41,13 +41,13 @@ groups:
     - - result: Honzik1 def. Rudi
         slug: 
       - result: fatmonkeygenius def. Toph
-        slug: sd06_budspencer_vs_fatmonkeygenius
+        slug: sd06_fatmonkeygenius_vs_toph
     - - result: Honzik1 def. Toph
-        slug: sd06_budspencer_vs_honzik1
+        slug: sd06_honzik1_vs_toph
       - result: Harsh def. Rudi
         slug: 
     - - result: Toph def. Harsh
-        slug: sd06_budspencer_vs_harsh
+        slug: sd06_harsh_vs_toph
       - result: Honzik1 def. fatmonkeygenius
         slug: sd06_fatmonkeygenius_vs_honzik1
     - - result: fatmonkeygenius def. Harsh

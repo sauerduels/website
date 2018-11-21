@@ -30,7 +30,7 @@ semis:
 groups:
   a:
     - - result: Redon def. Toph
-        slug: sd17_budspencer_vs_redon
+        slug: sd17_redon_vs_toph
       - result: Honzik1 def. Frosty
         slug: sd17_frosty_vs_honzik1
       - result: degrave def. ZCrone
@@ -38,7 +38,7 @@ groups:
     - - result: Frosty def. ZCrone
         slug: sd17_frosty_vs_zcrone
       - result: degrave def. Toph
-        slug: sd17_budspencer_vs_degrave
+        slug: sd17_degrave_vs_toph
       - result: Redon def. Honzik1
         slug: sd17_honzik1_vs_redon
     - - result: Frosty def. degrave
@@ -46,17 +46,17 @@ groups:
       - result: Redon def. ZCrone
         slug: sd17_redon_vs_zcrone
       - result: Honzik1 def. Toph
-        slug: sd17_budspencer_vs_honzik1
+        slug: sd17_honzik1_vs_toph
     - - result: Honzik1 def. ZCrone
         slug: sd17_honzik1_vs_zcrone
       - result: Redon def. degrave
         slug: sd17_degrave_vs_redon
       - result: Frosty def. Toph
-        slug: sd17_budspencer_vs_frosty
+        slug: sd17_frosty_vs_toph
     - - result: Honzik1 def. degrave
         slug: sd17_degrave_vs_honzik1
       - result: Toph def. ZCrone
-        slug: sd17_budspencer_vs_zcrone
+        slug: sd17_toph_vs_zcrone
       - result: Redon def. Frosty
         slug: sd17_frosty_vs_redon
   b:

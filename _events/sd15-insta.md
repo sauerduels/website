@@ -16,19 +16,19 @@ groups:
     - - result: Fear def. Phönix
         slug: sd15_fear_vs_phonix
       - result: Headway def. Toph
-        slug: sd15_budspencer_vs_headway
+        slug: sd15_headway_vs_toph
     - - result: Toph def. Phönix
-        slug: sd15_budspencer_vs_phonix
+        slug: sd15_phonix_vs_toph
       - result: starch def. Fear
         slug: sd15_fear_vs_starch
     - - result: starch def. Toph
-        slug: sd15_budspencer_vs_starch
+        slug: sd15_starch_vs_toph
       - result: Headway def. Phönix
         slug: sd15_headway_vs_phonix
     - - result: Headway def. starch
         slug: sd15_headway_vs_starch
       - result: Fear def. Toph
-        slug: sd15_budspencer_vs_fear
+        slug: sd15_fear_vs_toph
     - - result: Fear def. Headway
         slug: sd15_fear_vs_headway
       - result: starch def. Phönix

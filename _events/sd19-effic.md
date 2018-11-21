@@ -51,15 +51,15 @@ groups:
         slug: sd19_mod_vs_rexus
   b:
     - - result: notas def. Toph
-        slug: sd19_budspencer_vs_notas
+        slug: sd19_notas_vs_toph
       - result: raffael def. Jawer
         slug: sd19_jawer_vs_raffael
     - - result: raffael def. notas
         slug: sd19_notas_vs_raffael
       - result: Jawer def. Toph
-        slug: sd19_budspencer_vs_jawer
+        slug: sd19_jawer_vs_toph
     - - result: notas def. Jawer
         slug: sd19_jawer_vs_notas
       - result: raffael def. Toph
-        slug: sd19_budspencer_vs_raffael
+        slug: sd19_raffael_vs_toph
 ---

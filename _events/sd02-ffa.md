@@ -18,17 +18,17 @@ groups:
     - - result: Redon def. Partizan
         slug: sd02_partizan_vs_redon
       - result: Lokio def. Toph
-        slug: sd02_budspencer_vs_lokio
+        slug: sd02_lokio_vs_toph
       - result: Honzik1 def. DarkFire
         slug: sd02_darkfire_vs_honzik1
     - - result: Honzik1 def. Toph
-        slug: sd02_budspencer_vs_honzik1
+        slug: sd02_honzik1_vs_toph
       - result: DarkFire def. Partizan
         slug: 
       - result: Redon def. Lokio
         slug: sd02_lokio_vs_redon
     - - result: DarkFire def. Toph
-        slug: sd02_budspencer_vs_darkfire
+        slug: sd02_darkfire_vs_toph
       - result: Honzik1 def. Redon
         slug: sd02_honzik1_vs_redon
       - result: Lokio def. Partizan
@@ -38,11 +38,11 @@ groups:
       - result: Redon def. DarkFire
         slug: sd02_darkfire_vs_redon
       - result: Partizan def. Toph
-        slug: sd02_budspencer_vs_partizan
+        slug: sd02_partizan_vs_toph
     - - result: Lokio def. DarkFire
         slug: sd02_darkfire_vs_lokio
       - result: Honzik1 def. Partizan
         slug: sd02_honzik1_vs_partizan
       - result: Redon def. Toph
-        slug: sd02_budspencer_vs_redon
+        slug: sd02_redon_vs_toph
 ---

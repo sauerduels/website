@@ -16,7 +16,7 @@ finals:
 groups:
   a:
     - - result: Redon def. Toph
-        slug: sd08_budspencer_vs_redon
+        slug: sd08_redon_vs_toph
       - result: Frosty def. Honzik1
         slug: sd08_frosty_vs_honzik1
       - result: Lokio def. h8
@@ -24,7 +24,7 @@ groups:
     - - result: Lokio def. Frosty
         slug: sd08_frosty_vs_lokio
       - result: Toph def. h8
-        slug: sd08_budspencer_vs_h8
+        slug: sd08_h8_vs_toph
       - result: Redon def. Honzik1
         slug: sd08_honzik1_vs_redon
     - - result: Frosty def. h8
@@ -32,17 +32,17 @@ groups:
       - result: Redon def. Lokio
         slug: sd08_lokio_vs_redon
       - result: Honzik1 def. Toph
-        slug: sd08_budspencer_vs_honzik1
+        slug: sd08_honzik1_vs_toph
     - - result: Lokio def. Honzik1
         slug: sd08_honzik1_vs_lokio
       - result: Redon def. h8
         slug: sd08_h8_vs_redon
       - result: Frosty def. Toph
-        slug: sd08_budspencer_vs_frosty
+        slug: sd08_frosty_vs_toph
     - - result: Honzik1 def. h8
         slug: sd08_honzik1_vs_h8
       - result: Lokio def. Toph
-        slug: sd08_budspencer_vs_lokio
+        slug: sd08_lokio_vs_toph
       - result: Redon def. Frosty
         slug: sd08_frosty_vs_redon
 ---

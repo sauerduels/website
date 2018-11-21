@@ -73,7 +73,7 @@ groups:
     - - result: Gangler def. Rudi
         slug: 
       - result: Toph def. Khornettoh
-        slug: sd04_budspencer_vs_khornettoh
+        slug: sd04_khornettoh_vs_toph
       - result: hades def. lagout
         slug: sd04_hades_vs_lagout
       - result: Honzik1 def. Josh22
@@ -85,7 +85,7 @@ groups:
       - result: lagout def. Khornettoh
         slug: sd04_khornettoh_vs_lagout
       - result: Gangler def. Toph
-        slug: sd04_budspencer_vs_gangler
+        slug: sd04_gangler_vs_toph
     - - result: Khornettoh def. Josh22
         slug: sd04_josh22_vs_khornettoh
       - result: lagout def. Gangler
@@ -95,7 +95,7 @@ groups:
       - result: hades def. Honzik1
         slug: sd04_hades_vs_honzik1
     - - result: lagout def. Toph
-        slug: sd04_budspencer_vs_lagout
+        slug: sd04_lagout_vs_toph
       - result: Honzik1 def. Khornettoh
         slug: sd04_honzik1_vs_khornettoh
       - result: Gangler def. Josh22
@@ -105,13 +105,13 @@ groups:
     - - result: hades def. Khornettoh
         slug: 
       - result: Toph def. Josh22
-        slug: sd04_budspencer_vs_josh22
+        slug: sd04_josh22_vs_toph
       - result: Honzik1 def. Gangler
         slug: sd04_gangler_vs_honzik1
       - result: lagout def. Rudi
         slug: 
     - - result: Honzik1 def. Toph
-        slug: sd04_budspencer_vs_honzik1
+        slug: sd04_honzik1_vs_toph
       - result: hades def. Gangler
         slug: sd04_gangler_vs_hades
       - result: Rudi def. Khornettoh
@@ -123,7 +123,7 @@ groups:
       - result: Rudi def. Josh22
         slug: 
       - result: hades def. Toph
-        slug: sd04_budspencer_vs_hades
+        slug: sd04_hades_vs_toph
       - result: Gangler def. Khornettoh
         slug: 
 

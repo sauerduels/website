@@ -62,17 +62,17 @@ groups:
       - result: Khornettoh def. Rudi
         slug: 
       - result: Toph def. Phönix
-        slug: sd03_budspencer_vs_phonix
+        slug: sd03_phonix_vs_toph
     - - result: lagout def. Khornettoh
         slug: sd03_khornettoh_vs_lagout
       - result: Gangler def. Toph
-        slug: sd03_budspencer_vs_gangler
+        slug: sd03_gangler_vs_toph
       - result: Phönix def. Rudi
         slug: 
     - - result: Gangler def. Phönix
         slug: sd03_gangler_vs_phonix
       - result: Toph def. Khornettoh
-        slug: sd03_budspencer_vs_khornettoh
+        slug: sd03_khornettoh_vs_toph
       - result: lagout def. Rudi
         slug: 
     - - result: Khornettoh def. Phönix
@@ -80,7 +80,7 @@ groups:
       - result: Gangler def. Rudi
         slug: 
       - result: lagout def. Toph
-        slug: sd03_budspencer_vs_lagout
+        slug: sd03_lagout_vs_toph
   c:
     - - result: yggdrasil def. ZCrone
         slug: sd03_yggdrasil_vs_zcrone
