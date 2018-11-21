@@ -29,15 +29,3 @@
   {% endfor %}
 </div>
 
-<div style="margin-top: 0.5em;">
-  <strong>Top ranked:</strong>
-  {% assign hofpages = site.pages | where: 'title', 'Hall of Fame' %}
-  {% for hofpage in hofpages %}
-    {% for topranked in hofpage.toprankeds %}
-      <span style="margin-left: 2em;">
-        {{ topranked.category }} -
-        {{ topranked.name | add_flags }}
-      </span>
-    {% endfor %}
-  {% endfor %}
-</div>
