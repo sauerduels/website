@@ -6,16 +6,20 @@ index: 0
 
 ## About The Project
 
-Sauerduels.me is a service provided by Frosty and Origin. The goal of this project is to provide regularly scheduled tournaments for the remaining players who still enjoy playing Sauerbraten. We keep track of all demos and screenshots, and provide an ELO & stats system for players to track their skill. Our mission is to make our events as smooth and enjoyable as we can, giving the community something to look forward to on weekends. We hope to see you there!
+SauerDuels is a tournament organization for Cube 2: Sauerbraten, created by Frosty and Origin. Our mission is to provide high quality tournaments, hoping to bring excitement and fun to the Sauerbraten community. We also keep track of all demos and screenshots, and provide an ELO & stats system for players to track their skill.
 
-## How To Participate
+Please remember that this is a FREE service provided by volunteers. We will do our best to provide a high quality service for all players, but we are not perfect, and cannot always satisfy the needs of everyone. Most importantly, don't forget that this is just a game, so HAVE FUN!
 
-Participating is straight forward, all you need to do is read the details on our <a href="{{ site.baseurl }}{% link info.md %}">information page</a>, and use our Challonge <a href="{{ site.baseurl }}{% link sign-up.md %}">sign up page</a> or ask us on Discord to sign you up. There is no other setup required.
+## How To Play
 
-## Contact Us
+Participating is straight forward, all you need to do is read the details on our <a href="{{ site.baseurl }}{% link info.md %}">information page</a>, then use the <a href="{{ site.baseurl }}{% link sign-up.md %}">sign up link</a>, or ask us on Discord to sign you up. We hope to see you there!
 
-Feel free to contact us for any questions, feedback, or concerns you may have. You can contact us on our Discord server (<a href="https://discord.gg/FTSjNfz" target="_blank">https://discord.gg/FTSjNfz</a>).
+## Discord
+
+Feel free to contact us on Discord for any questions, feedback, or concerns you may have.
+
+<a href="https://discord.gg/FTSjNfz" target="_blank">https://discord.gg/FTSjNfz</a>
 
 ## Contribute
 
-The easiest way to contribute is to participate. We need players, and without your participation, we could not exist. We are also looking for referees to help out during tournament days, if you think you want to help out, don't be afraid to contact us using the Discord link provided above.
+The easiest way to contribute is to participate. We need players, and without your participation, we could not exist. We are also looking for referees to help out during tournament days, don't be afraid to contact us using the Discord link provided above.
