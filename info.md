@@ -13,7 +13,7 @@ All events will use a traditional double elimination format. This means that the
 
 For map selection, five maps will be randomly selected from the pool, then each player will veto two maps, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
 
-| Efficiency | FFA | Instagib |
+<!-- | Efficiency | FFA | Instagib |
 | :--------: | :-: | :------: |
 | aard3c | corruption | aard3c |
 | academy | hades | academy |
@@ -23,7 +23,58 @@ For map selection, five maps will be randomly selected from the pool, then each 
 | memento | nmp8 | douze |
 | ot | paradigm | kffa |
 | simplicity | skrdm1 | ot |
-| turbine | tumwalk | turbine |
+| turbine | tumwalk | turbine | -->
+
+<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+  <tbody>
+    <tr>
+      <th>Efficiency</th>
+      <td>aard3c</td>
+      <td>academy</td>
+      <td>duel8</td>
+      <td>frozen</td>
+      <td>legazzo</td>
+      <td>memento</td>
+      <td>ot</td>
+      <td>simplicity</td>
+      <td>turbine</td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+  <tbody>
+    <tr>
+      <th>FFA</th>
+      <td>corruption</td>
+      <td>hades</td>
+      <td>metl2</td>
+      <td>metl3</td>
+      <td>metl4</td>
+      <td>nmp8</td>
+      <td>paradigm</td>
+      <td>skrdm1</td>
+      <td>tumwalk</td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+  <tbody>
+    <tr>
+      <th>Instagib</th>
+      <td>aard3c</td>
+      <td>academy</td>
+      <td>complex</td>
+      <td>duel7</td>
+      <td>duel8</td>
+      <td>douze</td>
+      <td>kffa</td>
+      <td>ot</td>
+      <td>turbine</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Servers
 
