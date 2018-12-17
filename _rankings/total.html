@@ -3,4 +3,33 @@ title:   Rankings
 section: Total
 ---
 
-{% include_relative _total_stats.html players=site.data.total.stats %}
+<h3>Total Stats</h3>
+<table class="sortable">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Player</th>
+            <th>ELO</th>
+            <th>Games</th>
+            <th>Wins</th>
+            <th>Losses</th>
+            <th>Win Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        {% for player in site.data.total %}
+
+        <tr>
+            <td>{{ player.rank }}</td>
+            <td class="left-align">{{ player.name | add_flags }}</td>
+            <td>{{ player.elo }}</td>
+            <td>{{ player.games }}</td>
+            <td>{{ player.wins }}</td>
+            <td>{{ player.losses }}</td>
+            <td>{{ player.win_rate }}</td>
+        </tr>
+        {% endfor %}
+
+    </tbody>
+</table>

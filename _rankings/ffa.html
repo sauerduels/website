@@ -3,16 +3,22 @@ title:   Rankings
 section: FFA
 ---
 
-{% include_relative _basic_stats.html players=site.data.ffa.stats %}
-
-<br/>
-<h3>Weapon Stats</h3>
+<h3>Basic Stats</h3>
 <table class="sortable">
     <thead>
         <tr>
             <th>Rank</th>
             <th>Player</th>
-            <th>Accuracy</th>
+            <th>ELO</th>
+            <th><span class="abbr" title="Games">G</span></th>
+            <th><span class="abbr" title="Wins">W</span></th>
+            <th><span class="abbr" title="Losses">L</span></th>
+            <th><span class="abbr" title="Win Rate">WR</span></th>
+            <th><span class="abbr" title="Frags">F</span></th>
+            <th><span class="abbr" title="Deaths">D</span></th>
+            <th>K/D</th>
+            <!-- <th><span class="abbr" title="Suicides">S</span></th> -->
+            <th><span class="abbr" title="Accuracy">A</span></th>
             <th><img class="icon" src="https://sauerduels.me/images/shotgun.png" alt="Shotgun"/></th>
             <th><img class="icon" src="https://sauerduels.me/images/chaingun.png" alt="Chaingun"/></th>
             <th><img class="icon" src="https://sauerduels.me/images/rocket.png" alt="Rocket Launcher"/></th>
@@ -24,11 +30,20 @@ section: FFA
     </thead>
     <tbody>
 
-        {% for player in site.data.ffa.weapon_stats %}
+        {% for player in site.data.ffa %}
 
         <tr>
             <td>{{ player.rank }}</td>
             <td class="left-align">{{ player.name | add_flags }}</td>
+            <td>{{ player.elo }}</td>
+            <td>{{ player.games }}</td>
+            <td>{{ player.wins }}</td>
+            <td>{{ player.losses }}</td>
+            <td>{{ player.win_rate }}</td>
+            <td>{{ player.frags }}</td>
+            <td>{{ player.deaths }}</td>
+            <td>{{ player.kpd }}</td>
+            <!-- <td>{{ player.suicides }}</td> -->
             <td>{{ player.accuracy }}</td>
             <td>{{ player.shotgun }}</td>
             <td>{{ player.chaingun }}</td>
