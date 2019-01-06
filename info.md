@@ -55,10 +55,10 @@ For map selection, five maps will be randomly selected from the pool, then each 
       <td>academy</td>
       <td>complex</td>
       <td>duel7</td>
-      <td>duel8</td>
       <td>douze</td>
       <td>kffa</td>
       <td>ot</td>
+      <td>tartech</td>
       <td>turbine</td>
     </tr>
   </tbody>
