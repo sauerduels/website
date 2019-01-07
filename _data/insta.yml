@@ -1,4 +1,18 @@
 ---
+- accuracy: 41%
+  chainsaw: 09%
+  deaths: 2358
+  elo: 1987
+  frags: 2837
+  games: 26
+  kpd: 1.203
+  losses: 3
+  name: raffael
+  rank: 1
+  rifle: 41%
+  suicides: 0
+  win_rate: 0.885
+  wins: 23
 - accuracy: 40%
   chainsaw: 12%
   deaths: 2471
@@ -8,25 +22,25 @@
   kpd: 1.278
   losses: 3
   name: Gangler
-  rank: 1
+  rank: 2
   rifle: 40%
   suicides: 1
   win_rate: 0.914
   wins: 32
-- accuracy: 40%
-  chainsaw: 09%
-  deaths: 1747
-  elo: 1966
-  frags: 2062
+- accuracy: 47%
+  chainsaw: 07%
+  deaths: 1872
+  elo: 1843
+  frags: 2187
   games: 19
-  kpd: 1.18
-  losses: 2
-  name: raffael
-  rank: 2
-  rifle: 40%
-  suicides: 0
-  win_rate: 0.895
-  wins: 17
+  kpd: 1.168
+  losses: 6
+  name: Achille
+  rank: 3
+  rifle: 47%
+  suicides: 5
+  win_rate: 0.684
+  wins: 13
 - accuracy: 34%
   chainsaw: 17%
   deaths: 1728
@@ -36,25 +50,11 @@
   kpd: 1.157
   losses: 5
   name: Partizan
-  rank: 3
+  rank: 4
   rifle: 34%
   suicides: 0
   win_rate: 0.773
   wins: 17
-- accuracy: 48%
-  chainsaw: 03%
-  deaths: 1093
-  elo: 1817
-  frags: 1342
-  games: 11
-  kpd: 1.228
-  losses: 3
-  name: Achille
-  rank: 4
-  rifle: 48%
-  suicides: 1
-  win_rate: 0.727
-  wins: 8
 - accuracy: 40%
   chainsaw: 12%
   deaths: 2304
@@ -97,34 +97,34 @@
   suicides: 0
   win_rate: 0.692
   wins: 9
-- accuracy: 36%
-  chainsaw: 17%
-  deaths: 307
-  elo: 1691
-  frags: 381
-  games: 5
-  kpd: 1.241
-  losses: 1
-  name: lagout
+- accuracy: 31%
+  chainsaw: 04%
+  deaths: 1431
+  elo: 1712
+  frags: 1578
+  games: 22
+  kpd: 1.103
+  losses: 7
+  name: Frosty
   rank: 8
-  rifle: 37%
-  suicides: 0
-  win_rate: 0.8
-  wins: 4
-- accuracy: 27%
+  rifle: 31%
+  suicides: 1
+  win_rate: 0.682
+  wins: 15
+- accuracy: 28%
   chainsaw: 06%
-  deaths: 738
-  elo: 1689
-  frags: 789
-  games: 12
-  kpd: 1.069
-  losses: 4
+  deaths: 1025
+  elo: 1687
+  frags: 1098
+  games: 18
+  kpd: 1.071
+  losses: 6
   name: Shinnok
   rank: 9
-  rifle: 28%
-  suicides: 0
+  rifle: 29%
+  suicides: 1
   win_rate: 0.667
-  wins: 8
+  wins: 12
 - accuracy: 37%
   chainsaw: 00%
   deaths: 479
@@ -139,6 +139,20 @@
   suicides: 0
   win_rate: 0.667
   wins: 4
+- accuracy: 29%
+  chainsaw: 19%
+  deaths: 310
+  elo: 1679
+  frags: 285
+  games: 4
+  kpd: 0.919
+  losses: 2
+  name: Galaxy
+  rank: 11
+  rifle: 29%
+  suicides: 0
+  win_rate: 0.5
+  wins: 2
 - accuracy: 35%
   chainsaw: 22%
   deaths: 1511
@@ -148,25 +162,11 @@
   kpd: 1.176
   losses: 8
   name: fatmonkeygenius
-  rank: 11
+  rank: 12
   rifle: 35%
   suicides: 2
   win_rate: 0.619
   wins: 13
-- accuracy: 31%
-  chainsaw: 05%
-  deaths: 859
-  elo: 1648
-  frags: 971
-  games: 14
-  kpd: 1.13
-  losses: 5
-  name: Frosty
-  rank: 12
-  rifle: 31%
-  suicides: 1
-  win_rate: 0.643
-  wins: 9
 - accuracy: 37%
   chainsaw: 13%
   deaths: 1171
@@ -181,6 +181,20 @@
   suicides: 2
   win_rate: 0.533
   wins: 8
+- accuracy: 38%
+  chainsaw: 22%
+  deaths: 1561
+  elo: 1589
+  frags: 1923
+  games: 21
+  kpd: 1.232
+  losses: 9
+  name: Fear
+  rank: 14
+  rifle: 38%
+  suicides: 3
+  win_rate: 0.571
+  wins: 12
 - accuracy: 35%
   chainsaw: 50%
   deaths: 472
@@ -190,25 +204,25 @@
   kpd: 0.831
   losses: 3
   name: M!lch-Mann
-  rank: 14
+  rank: 15
   rifle: 35%
   suicides: 1
   win_rate: 0.5
   wins: 3
-- accuracy: 38%
+- accuracy: 36%
   chainsaw: 17%
-  deaths: 1320
-  elo: 1569
-  frags: 1630
-  games: 17
-  kpd: 1.235
-  losses: 7
-  name: Fear
-  rank: 15
-  rifle: 38%
-  suicides: 3
-  win_rate: 0.588
-  wins: 10
+  deaths: 550
+  elo: 1568
+  frags: 620
+  games: 8
+  kpd: 1.127
+  losses: 3
+  name: lagout
+  rank: 16
+  rifle: 36%
+  suicides: 1
+  win_rate: 0.625
+  wins: 5
 - accuracy: 36%
   chainsaw: 39%
   deaths: 656
@@ -218,7 +232,7 @@
   kpd: 1.07
   losses: 5
   name: Redon
-  rank: 16
+  rank: 17
   rifle: 36%
   suicides: 2
   win_rate: 0.444
@@ -232,11 +246,39 @@
   kpd: 0.911
   losses: 13
   name: Headway
-  rank: 17
+  rank: 18
   rifle: 38%
   suicides: 2
   win_rate: 0.48
   wins: 12
+- accuracy: 49%
+  chainsaw: 00%
+  deaths: 344
+  elo: 1556
+  frags: 364
+  games: 4
+  kpd: 1.058
+  losses: 2
+  name: Krakovic
+  rank: 19
+  rifle: 49%
+  suicides: 0
+  win_rate: 0.5
+  wins: 2
+- accuracy: 33%
+  chainsaw: 00%
+  deaths: 345
+  elo: 1556
+  frags: 333
+  games: 4
+  kpd: 0.965
+  losses: 2
+  name: Tamin0
+  rank: 20
+  rifle: 33%
+  suicides: 0
+  win_rate: 0.5
+  wins: 2
 - accuracy: 35%
   chainsaw: 07%
   deaths: 871
@@ -246,7 +288,7 @@
   kpd: 1.119
   losses: 6
   name: Lokio
-  rank: 18
+  rank: 21
   rifle: 36%
   suicides: 0
   win_rate: 0.455
@@ -260,25 +302,11 @@
   kpd: 0.882
   losses: 2
   name: Shikijo
-  rank: 19
+  rank: 22
   rifle: 33%
   suicides: 0
   win_rate: 0.333
   wins: 1
-- accuracy: 35%
-  chainsaw: 03%
-  deaths: 604
-  elo: 1462
-  frags: 511
-  games: 6
-  kpd: 0.846
-  losses: 4
-  name: Zarah
-  rank: 20
-  rifle: 35%
-  suicides: 0
-  win_rate: 0.333
-  wins: 2
 - accuracy: 34%
   chainsaw: 00%
   deaths: 1593
@@ -288,11 +316,39 @@
   kpd: 0.92
   losses: 11
   name: Toph
-  rank: 21
+  rank: 23
   rifle: 34%
   suicides: 0
   win_rate: 0.421
   wins: 8
+- accuracy: 34%
+  chainsaw: 02%
+  deaths: 898
+  elo: 1446
+  frags: 818
+  games: 10
+  kpd: 0.911
+  losses: 6
+  name: Zarah
+  rank: 24
+  rifle: 34%
+  suicides: 0
+  win_rate: 0.4
+  wins: 4
+- accuracy: 24%
+  chainsaw: 06%
+  deaths: 306
+  elo: 1438
+  frags: 275
+  games: 4
+  kpd: 0.899
+  losses: 2
+  name: sickllama
+  rank: 25
+  rifle: 28%
+  suicides: 7
+  win_rate: 0.5
+  wins: 2
 - accuracy: 34%
   chainsaw: 00%
   deaths: 446
@@ -302,7 +358,7 @@
   kpd: 0.888
   losses: 3
   name: Alluro
-  rank: 22
+  rank: 26
   rifle: 34%
   suicides: 0
   win_rate: 0.4
@@ -316,11 +372,25 @@
   kpd: 0.715
   losses: 3
   name: Khornettoh
-  rank: 23
+  rank: 27
   rifle: 26%
   suicides: 0
   win_rate: 0.4
   wins: 2
+- accuracy: 35%
+  chainsaw: 00%
+  deaths: 223
+  elo: 1412
+  frags: 236
+  games: 3
+  kpd: 1.058
+  losses: 2
+  name: sensless
+  rank: 28
+  rifle: 35%
+  suicides: 1
+  win_rate: 0.333
+  wins: 1
 - accuracy: 25%
   chainsaw: 08%
   deaths: 452
@@ -330,7 +400,7 @@
   kpd: 0.655
   losses: 5
   name: Calinou
-  rank: 24
+  rank: 29
   rifle: 25%
   suicides: 0
   win_rate: 0.286
@@ -344,7 +414,7 @@
   kpd: 1.261
   losses: 5
   name: Cannibal
-  rank: 25
+  rank: 30
   rifle: 31%
   suicides: 0
   win_rate: 0.286
@@ -358,7 +428,7 @@
   kpd: 0.712
   losses: 5
   name: Rotti
-  rank: 26
+  rank: 31
   rifle: 29%
   suicides: 0
   win_rate: 0.286
@@ -372,25 +442,25 @@
   kpd: 1.249
   losses: 7
   name: DarkFire
-  rank: 27
+  rank: 32
   rifle: 35%
   suicides: 0
   win_rate: 0.364
   wins: 4
-- accuracy: 31%
-  chainsaw: 00%
-  deaths: 1082
-  elo: 1356
-  frags: 754
-  games: 11
-  kpd: 0.697
-  losses: 8
+- accuracy: 30%
+  chainsaw: 05%
+  deaths: 1333
+  elo: 1377
+  frags: 945
+  games: 14
+  kpd: 0.709
+  losses: 10
   name: Bertolt_Brecht
-  rank: 28
-  rifle: 31%
-  suicides: 0
-  win_rate: 0.273
-  wins: 3
+  rank: 33
+  rifle: 30%
+  suicides: 1
+  win_rate: 0.286
+  wins: 4
 - accuracy: 29%
   chainsaw: 12%
   deaths: 511
@@ -400,11 +470,25 @@
   kpd: 0.751
   losses: 5
   name: skimmet
-  rank: 29
+  rank: 34
   rifle: 29%
   suicides: 0
   win_rate: 0.167
   wins: 1
+- accuracy: 29%
+  chainsaw: 12%
+  deaths: 1885
+  elo: 1347
+  frags: 1471
+  games: 19
+  kpd: 0.78
+  losses: 14
+  name: ZCrone
+  rank: 35
+  rifle: 29%
+  suicides: 0
+  win_rate: 0.263
+  wins: 5
 - accuracy: 30%
   chainsaw: 10%
   deaths: 1194
@@ -414,7 +498,7 @@
   kpd: 0.818
   losses: 10
   name: A!M
-  rank: 30
+  rank: 36
   rifle: 31%
   suicides: 3
   win_rate: 0.231
@@ -428,10 +512,24 @@
   kpd: 0.626
   losses: 3
   name: Harsh
-  rank: 31
+  rank: 37
   rifle: 23%
   suicides: 0
   win_rate: 0.25
+  wins: 1
+- accuracy: 31%
+  chainsaw: 00%
+  deaths: 517
+  elo: 1313
+  frags: 411
+  games: 6
+  kpd: 0.795
+  losses: 5
+  name: Tengrichan
+  rank: 38
+  rifle: 31%
+  suicides: 0
+  win_rate: 0.167
   wins: 1
 - accuracy: 27%
   chainsaw: 50%
@@ -442,7 +540,7 @@
   kpd: 0.712
   losses: 3
   name: Morry
-  rank: 32
+  rank: 39
   rifle: 27%
   suicides: 0
   win_rate: 0.0
@@ -456,7 +554,7 @@
   kpd: 0.386
   losses: 4
   name: Josh22
-  rank: 33
+  rank: 40
   rifle: 21%
   suicides: 1
   win_rate: 0.2
@@ -470,36 +568,64 @@
   kpd: 1.048
   losses: 4
   name: yggdrasil
-  rank: 34
+  rank: 41
   rifle: 29%
   suicides: 0
   win_rate: 0.2
   wins: 1
-- accuracy: 29%
-  chainsaw: 13%
-  deaths: 1521
-  elo: 1292
-  frags: 1149
-  games: 15
-  kpd: 0.755
-  losses: 12
-  name: ZCrone
-  rank: 35
-  rifle: 29%
-  suicides: 0
-  win_rate: 0.2
-  wins: 3
-- accuracy: 34%
+- accuracy: 21%
   chainsaw: 00%
-  deaths: 301
+  deaths: 189
+  elo: 1297
+  frags: 115
+  games: 2
+  kpd: 0.608
+  losses: 2
+  name: razvan
+  rank: 42
+  rifle: 21%
+  suicides: 0
+  win_rate: 0.0
+  wins: 0
+- accuracy: 32%
+  chainsaw: 00%
+  deaths: 175
   elo: 1289
-  frags: 216
+  frags: 161
+  games: 2
+  kpd: 0.92
+  losses: 2
+  name: KenhSix
+  rank: 43
+  rifle: 32%
+  suicides: 0
+  win_rate: 0.0
+  wins: 0
+- accuracy: 33%
+  chainsaw: 00%
+  deaths: 277
+  elo: 1279
+  frags: 247
   games: 3
-  kpd: 0.718
-  losses: 3
-  name: Tengrichan
-  rank: 36
-  rifle: 34%
+  kpd: 0.892
+  losses: 2
+  name: maik
+  rank: 44
+  rifle: 33%
+  suicides: 0
+  win_rate: 0.333
+  wins: 1
+- accuracy: 26%
+  chainsaw: 00%
+  deaths: 160
+  elo: 1248
+  frags: 126
+  games: 2
+  kpd: 0.788
+  losses: 2
+  name: Ren4rd
+  rank: 45
+  rifle: 27%
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -512,7 +638,7 @@
   kpd: 0.504
   losses: 6
   name: FixxxerSA
-  rank: 37
+  rank: 46
   rifle: 24%
   suicides: 0
   win_rate: 0.0
@@ -526,7 +652,7 @@
   kpd: 0.515
   losses: 7
   name: '1989'
-  rank: 38
+  rank: 47
   rifle: 22%
   suicides: 0
   win_rate: 0.0
@@ -540,7 +666,7 @@
   kpd: 0.72
   losses: 11
   name: NoobGuy
-  rank: 39
+  rank: 48
   rifle: 28%
   suicides: 1
   win_rate: 0.083
@@ -554,22 +680,8 @@
   kpd: 0.651
   losses: 4
   name: 4-Tune
-  rank: 40
+  rank: 49
   rifle: 30%
-  suicides: 0
-  win_rate: 0.0
-  wins: 0
-- accuracy: 25%
-  chainsaw: 06%
-  deaths: 838
-  elo: 1165
-  frags: 409
-  games: 7
-  kpd: 0.488
-  losses: 7
-  name: fishcakes
-  rank: 41
-  rifle: 26%
   suicides: 0
   win_rate: 0.0
   wins: 0
@@ -582,9 +694,23 @@
   kpd: 0.745
   losses: 12
   name: "Ph\xF6nix"
-  rank: 42
+  rank: 50
   rifle: 30%
   suicides: 0
   win_rate: 0.077
   wins: 1
+- accuracy: 25%
+  chainsaw: 05%
+  deaths: 1039
+  elo: 1131
+  frags: 542
+  games: 9
+  kpd: 0.522
+  losses: 9
+  name: fishcakes
+  rank: 51
+  rifle: 25%
+  suicides: 0
+  win_rate: 0.0
+  wins: 0
 ---
