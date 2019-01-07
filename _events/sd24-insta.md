@@ -86,7 +86,7 @@ brackets:
     - - result: Frosty def. Galaxy
         slug: sd24_lb_frosty_vs_galaxy
       - result: Shinnok def. Fear
-        slug: sd24_lb_fear_vs_shinnok
+        slug: 
     - - result: Frosty def. Shinnok
         slug: sd24_lb_frosty_vs_shinnok
     - - result: Achille def. Frosty
