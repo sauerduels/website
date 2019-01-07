@@ -65,7 +65,7 @@ brackets:
         slug: sd24_lb_razvan_vs_zarah
     - - result: swatllama def. Bertolt_Brecht
         slug: sd24_lb_bertolt_brecht_vs_swatllama
-      - result: Frosty def. sensleszs
+      - result: Frosty def. sensless
         slug: sd24_lb_frosty_vs_sensless
       - result: ZCrone def. maik
         slug: sd24_lb_maik_vs_zcrone
