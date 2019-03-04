@@ -288,9 +288,9 @@
   chaingun: 16%
   chainsaw: 00%
   deaths: 215
-  elo: 1347
+  elo: 1376
   frags: 59
-  games: 5
+  games: 6
   grenade_launcher: 11%
   kpd: 0.274
   losses: 4
@@ -301,8 +301,8 @@
   rocket_launcher: 22%
   shotgun: 18%
   suicides: 3
-  win_rate: 0.2
-  wins: 1
+  win_rate: 0.333
+  wins: 2
 - accuracy: 24%
   chaingun: 19%
   chainsaw: 00%
@@ -478,12 +478,12 @@
   chaingun: 22%
   chainsaw: 00%
   deaths: 533
-  elo: 1088
+  elo: 1066
   frags: 81
-  games: 11
+  games: 12
   grenade_launcher: 18%
   kpd: 0.152
-  losses: 11
+  losses: 12
   name: ZCrone
   pistol: 28%
   rank: 26

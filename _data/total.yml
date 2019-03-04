@@ -139,27 +139,27 @@
   rank: 20
   win_rate: 0.5
   wins: 5
+- elo: 1333
+  games: 31
+  losses: 23
+  name: Bertolt_Brecht
+  rank: 21
+  win_rate: 0.258
+  wins: 8
 - elo: 1329
   games: 10
   losses: 5
   name: M!lch-Mann
-  rank: 21
+  rank: 22
   win_rate: 0.5
   wins: 5
 - elo: 1325
   games: 11
   losses: 7
   name: skimmet
-  rank: 22
+  rank: 23
   win_rate: 0.364
   wins: 4
-- elo: 1324
-  games: 30
-  losses: 23
-  name: Bertolt_Brecht
-  rank: 23
-  win_rate: 0.233
-  wins: 7
 - elo: 1310
   games: 17
   losses: 12
@@ -216,12 +216,12 @@
   rank: 31
   win_rate: 0.19
   wins: 4
-- elo: 1232
-  games: 61
-  losses: 50
+- elo: 1225
+  games: 62
+  losses: 51
   name: ZCrone
   rank: 32
-  win_rate: 0.18
+  win_rate: 0.177
   wins: 11
 - elo: 1222
   games: 16
