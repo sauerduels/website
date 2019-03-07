@@ -8,9 +8,9 @@ finals:
   result: Redon def. notas
   games:
     - title: tumwalk 48:18
-      slug: sd25_final_notas_vs_redon_game1
-    - title: nmp8 18:14
-      slug: sd25_final_notas_vs_redon_game2
+      slug: sd26_final_notas_vs_redon_game1
+    - title: nmp8 26:14
+      slug: sd26_final_notas_vs_redon_game2
 brackets:
   Winners:
     - - result: Tay|Z def. Daemes
