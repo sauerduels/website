@@ -114,13 +114,13 @@ groups:
         slug: sd04_honzik1_vs_toph
       - result: hades def. Gangler
         slug: sd04_gangler_vs_hades
-      - result: Rudi def. Khornettoh
+      - result: Khornettoh def. Rudi
         slug: 
       - result: lagout def. Josh22
         slug: sd04_josh22_vs_lagout
     - - result: lagout def. Honzik1
         slug: sd04_honzik1_vs_lagout
-      - result: Rudi def. Josh22
+      - result: Josh22 def. Rudi
         slug: 
       - result: hades def. Toph
         slug: sd04_hades_vs_toph
