@@ -6,9 +6,9 @@ index: 0
 
 ## About The Project
 
-SauerDuels is a tournament organization for Cube 2: Sauerbraten, created by Frosty and Origin. Our mission is to provide high quality tournaments, hoping to bring excitement and fun to the Sauerbraten community. We also keep track of all demos and screenshots, and provide an ELO & stats system for players to track their skill.
+SauerDuels is a tournament organization for Cube 2: Sauerbraten, created by Frosty and Origin. Our mission is to provide high quality tournaments that bring excitement and fun to the Sauerbraten community. We also archive our results with demos and screenshots, and provide an ELO & stats system for players to track their skill.
 
-Please remember that this is a FREE service provided by volunteers. We will do our best to provide a high quality service for all players, but we are not perfect, and cannot always satisfy the needs of everyone. Most importantly, don't forget that this is just a game, so HAVE FUN!
+Please remember that this is a FREE service provided by volunteers. We will do our best to provide an enjoyable experience for all players, but we are not perfect, and cannot always satisfy the needs of everyone. Most importantly, don't forget that this is a game, so HAVE FUN!
 
 ## How To Play
 
