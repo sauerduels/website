@@ -14,7 +14,7 @@ finals:
 brackets:
   Winners:
     - - result: ZCrone def. Phönix
-        slug: sd28_wb_phönix_vs_zcrone
+        slug: sd28_wb_phonix_vs_zcrone
       - result: Galaxy def. Zarah
         slug: sd28_wb_galaxy_vs_zarah
       - result: Plata def. Mod
@@ -60,7 +60,7 @@ brackets:
       - result: Tay|Z def. Zarah
         slug: sd28_lb_tay|z_vs_zarah
       - result: degrave def. Phönix
-        slug: sd28_lb_degrave_vs_phönix
+        slug: sd28_lb_degrave_vs_phonix
       - result: Plata def. Bertolt_Brecht
         slug: sd28_lb_bertolt_brecht_vs_plata
       - result: Tamin0 def. Mod
