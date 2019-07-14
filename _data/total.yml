@@ -1,53 +1,53 @@
 ---
-- elo: 1843
-  games: 96
+- elo: 1854
+  games: 102
   losses: 21
   name: raffael
   rank: 1
-  win_rate: 0.781
-  wins: 75
-- elo: 1757
-  games: 66
-  losses: 21
-  name: notas
-  rank: 2
-  win_rate: 0.682
-  wins: 45
+  win_rate: 0.794
+  wins: 81
 - elo: 1752
   games: 70
   losses: 15
   name: starch
-  rank: 3
+  rank: 2
   win_rate: 0.786
   wins: 55
+- elo: 1744
+  games: 70
+  losses: 23
+  name: notas
+  rank: 3
+  win_rate: 0.671
+  wins: 47
+- elo: 1719
+  games: 92
+  losses: 23
+  name: Redon
+  rank: 4
+  win_rate: 0.75
+  wins: 69
 - elo: 1713
   games: 107
   losses: 37
   name: Honzik1
-  rank: 4
+  rank: 5
   win_rate: 0.654
   wins: 70
 - elo: 1687
-  games: 86
-  losses: 21
-  name: Redon
-  rank: 5
-  win_rate: 0.756
-  wins: 65
-- elo: 1684
-  games: 73
-  losses: 29
+  games: 79
+  losses: 31
   name: Frosty
   rank: 6
-  win_rate: 0.603
-  wins: 44
-- elo: 1653
-  games: 78
-  losses: 28
+  win_rate: 0.608
+  wins: 48
+- elo: 1641
+  games: 81
+  losses: 30
   name: Lokio
   rank: 7
-  win_rate: 0.641
-  wins: 50
+  win_rate: 0.63
+  wins: 51
 - elo: 1626
   games: 56
   losses: 18
@@ -62,13 +62,13 @@
   rank: 9
   win_rate: 0.814
   wins: 48
-- elo: 1515
-  games: 49
-  losses: 13
+- elo: 1516
+  games: 56
+  losses: 16
   name: Rexus
   rank: 10
-  win_rate: 0.735
-  wins: 36
+  win_rate: 0.714
+  wins: 40
 - elo: 1469
   games: 26
   losses: 12
@@ -83,13 +83,13 @@
   rank: 12
   win_rate: 0.656
   wins: 40
-- elo: 1461
-  games: 47
-  losses: 14
+- elo: 1455
+  games: 51
+  losses: 16
   name: lagout
   rank: 13
-  win_rate: 0.702
-  wins: 33
+  win_rate: 0.686
+  wins: 35
 - elo: 1424
   games: 21
   losses: 13
@@ -104,20 +104,20 @@
   rank: 15
   win_rate: 0.633
   wins: 19
+- elo: 1416
+  games: 17
+  losses: 8
+  name: Galaxy
+  rank: 16
+  win_rate: 0.529
+  wins: 9
 - elo: 1408
   games: 9
   losses: 6
   name: Krakovic
-  rank: 16
+  rank: 17
   win_rate: 0.333
   wins: 3
-- elo: 1373
-  games: 29
-  losses: 13
-  name: Fear
-  rank: 17
-  win_rate: 0.552
-  wins: 16
 - elo: 1367
   games: 62
   losses: 43
@@ -125,13 +125,13 @@
   rank: 18
   win_rate: 0.306
   wins: 19
-- elo: 1361
-  games: 11
-  losses: 6
-  name: Galaxy
+- elo: 1345
+  games: 32
+  losses: 15
+  name: Fear
   rank: 19
-  win_rate: 0.455
-  wins: 5
+  win_rate: 0.531
+  wins: 17
 - elo: 1344
   games: 10
   losses: 5
@@ -146,215 +146,215 @@
   rank: 21
   win_rate: 0.5
   wins: 5
+- elo: 1328
+  games: 22
+  losses: 14
+  name: Tamin0
+  rank: 22
+  win_rate: 0.364
+  wins: 8
 - elo: 1325
   games: 11
   losses: 7
   name: skimmet
-  rank: 22
+  rank: 23
   win_rate: 0.364
   wins: 4
-- elo: 1318
-  games: 33
-  losses: 25
-  name: Bertolt_Brecht
-  rank: 23
-  win_rate: 0.242
-  wins: 8
-- elo: 1310
-  games: 17
-  losses: 12
-  name: Tamin0
+- elo: 1312
+  games: 9
+  losses: 5
+  name: degrave
   rank: 24
-  win_rate: 0.294
-  wins: 5
+  win_rate: 0.444
+  wins: 4
+- elo: 1303
+  games: 35
+  losses: 27
+  name: Bertolt_Brecht
+  rank: 25
+  win_rate: 0.229
+  wins: 8
 - elo: 1289
   games: 7
   losses: 4
   name: Skillz
-  rank: 25
+  rank: 26
   win_rate: 0.429
   wins: 3
 - elo: 1284
   games: 26
   losses: 9
   name: Achille
-  rank: 26
+  rank: 27
   win_rate: 0.654
   wins: 17
 - elo: 1275
   games: 9
   losses: 5
   name: KenhSix
-  rank: 27
+  rank: 28
   win_rate: 0.444
   wins: 4
 - elo: 1275
-  games: 25
-  losses: 16
+  games: 7
+  losses: 4
+  name: Tay|Z
+  rank: 29
+  win_rate: 0.429
+  wins: 3
+- elo: 1272
+  games: 28
+  losses: 18
   name: Khornettoh
-  rank: 28
-  win_rate: 0.36
-  wins: 9
+  rank: 30
+  win_rate: 0.357
+  wins: 10
 - elo: 1271
   games: 23
   losses: 15
   name: Rotti
-  rank: 29
+  rank: 31
   win_rate: 0.348
   wins: 8
-- elo: 1265
-  games: 25
-  losses: 19
-  name: Zarah
-  rank: 30
-  win_rate: 0.24
-  wins: 6
 - elo: 1259
   games: 12
   losses: 9
   name: Morry
-  rank: 31
+  rank: 32
   win_rate: 0.25
   wins: 3
-- elo: 1238
-  games: 15
-  losses: 14
-  name: FixxxerSA
-  rank: 32
-  win_rate: 0.067
-  wins: 1
-- elo: 1225
-  games: 62
-  losses: 51
+- elo: 1245
+  games: 67
+  losses: 53
   name: ZCrone
   rank: 33
-  win_rate: 0.177
-  wins: 11
+  win_rate: 0.209
+  wins: 14
+- elo: 1242
+  games: 27
+  losses: 21
+  name: Zarah
+  rank: 34
+  win_rate: 0.222
+  wins: 6
+- elo: 1236
+  games: 18
+  losses: 16
+  name: FixxxerSA
+  rank: 35
+  win_rate: 0.111
+  wins: 2
 - elo: 1222
   games: 16
   losses: 11
   name: Ren4rd
-  rank: 34
+  rank: 36
   win_rate: 0.312
   wins: 5
 - elo: 1217
   games: 32
   losses: 25
   name: h8
-  rank: 35
+  rank: 37
   win_rate: 0.219
   wins: 7
 - elo: 1216
   games: 21
   losses: 8
   name: fatmonkeygenius
-  rank: 36
+  rank: 38
   win_rate: 0.619
   wins: 13
 - elo: 1213
   games: 10
   losses: 4
   name: Alli
-  rank: 37
+  rank: 39
   win_rate: 0.6
   wins: 6
 - elo: 1206
   games: 5
   losses: 2
   name: Doko
-  rank: 38
+  rank: 40
   win_rate: 0.6
   wins: 3
 - elo: 1193
   games: 26
   losses: 20
   name: __FRY__
-  rank: 39
+  rank: 41
   win_rate: 0.231
   wins: 6
 - elo: 1191
   games: 9
   losses: 8
   name: Harsh
-  rank: 40
+  rank: 42
   win_rate: 0.111
   wins: 1
 - elo: 1187
   games: 25
   losses: 13
   name: Headway
-  rank: 41
+  rank: 43
   win_rate: 0.48
   wins: 12
 - elo: 1179
   games: 12
   losses: 10
   name: Josh22
-  rank: 42
+  rank: 44
   win_rate: 0.167
-  wins: 2
-- elo: 1168
-  games: 4
-  losses: 2
-  name: Tay|Z
-  rank: 43
-  win_rate: 0.5
   wins: 2
 - elo: 1168
   games: 10
   losses: 6
   name: Jawer
-  rank: 44
+  rank: 45
   win_rate: 0.4
   wins: 4
 - elo: 1161
   games: 20
   losses: 12
   name: bug
-  rank: 45
+  rank: 46
   win_rate: 0.4
   wins: 8
 - elo: 1157
   games: 3
   losses: 2
   name: Shikijo
-  rank: 46
+  rank: 47
   win_rate: 0.333
   wins: 1
 - elo: 1156
   games: 5
   losses: 2
   name: benzomatic
-  rank: 47
+  rank: 48
   win_rate: 0.6
   wins: 3
 - elo: 1145
   games: 7
   losses: 4
   name: BenKei
-  rank: 48
+  rank: 49
   win_rate: 0.429
   wins: 3
+- elo: 1142
+  games: 4
+  losses: 2
+  name: Plata
+  rank: 50
+  win_rate: 0.5
+  wins: 2
 - elo: 1137
   games: 3
   losses: 2
   name: sensless
-  rank: 49
-  win_rate: 0.333
-  wins: 1
-- elo: 1137
-  games: 5
-  losses: 3
-  name: degrave
-  rank: 50
-  win_rate: 0.4
-  wins: 2
-- elo: 1137
-  games: 17
-  losses: 16
-  name: "Ph\xF6nix"
   rank: 51
-  win_rate: 0.059
+  win_rate: 0.333
   wins: 1
 - elo: 1134
   games: 11
@@ -405,130 +405,144 @@
   rank: 58
   win_rate: 0.231
   wins: 3
+- elo: 1106
+  games: 19
+  losses: 18
+  name: "Ph\xF6nix"
+  rank: 59
+  win_rate: 0.053
+  wins: 1
 - elo: 1105
   games: 11
   losses: 9
   name: hamon
-  rank: 59
+  rank: 60
   win_rate: 0.182
   wins: 2
 - elo: 1103
   games: 5
   losses: 4
   name: yggdrasil
-  rank: 60
+  rank: 61
   win_rate: 0.2
   wins: 1
 - elo: 1100
   games: 2
   losses: 2
   name: Daemes
-  rank: 61
+  rank: 62
   win_rate: 0.0
   wins: 0
 - elo: 1093
   games: 3
   losses: 2
   name: maik
-  rank: 62
+  rank: 63
   win_rate: 0.333
   wins: 1
 - elo: 1092
   games: 7
   losses: 6
   name: Jason
-  rank: 63
+  rank: 64
   win_rate: 0.143
   wins: 1
 - elo: 1088
   games: 2
   losses: 2
   name: ZahariaHome
-  rank: 64
+  rank: 65
   win_rate: 0.0
   wins: 0
 - elo: 1079
   games: 4
   losses: 4
   name: razvan
-  rank: 65
+  rank: 66
   win_rate: 0.0
   wins: 0
 - elo: 1073
   games: 2
   losses: 2
   name: daux
-  rank: 66
+  rank: 67
+  win_rate: 0.0
+  wins: 0
+- elo: 1070
+  games: 2
+  losses: 2
+  name: Eleisa
+  rank: 68
   win_rate: 0.0
   wins: 0
 - elo: 1066
   games: 9
   losses: 9
   name: '1989'
-  rank: 67
+  rank: 69
   win_rate: 0.0
   wins: 0
 - elo: 1065
   games: 2
   losses: 2
   name: Liugam
-  rank: 68
+  rank: 70
   win_rate: 0.0
   wins: 0
 - elo: 1059
   games: 12
   losses: 11
   name: NoobGuy
-  rank: 69
+  rank: 71
   win_rate: 0.083
   wins: 1
 - elo: 1058
   games: 4
   losses: 4
   name: 4-Tune
-  rank: 70
+  rank: 72
   win_rate: 0.0
   wins: 0
 - elo: 1056
   games: 2
   losses: 2
   name: pix
-  rank: 71
+  rank: 73
   win_rate: 0.0
   wins: 0
 - elo: 1052
   games: 12
   losses: 12
   name: Friteq
-  rank: 72
+  rank: 74
   win_rate: 0.0
   wins: 0
 - elo: 1050
   games: 7
   losses: 7
   name: Atheroz
-  rank: 73
+  rank: 75
   win_rate: 0.0
   wins: 0
 - elo: 1044
   games: 9
   losses: 9
   name: fishcakes
-  rank: 74
-  win_rate: 0.0
-  wins: 0
-- elo: 1038
-  games: 10
-  losses: 10
-  name: Mod
-  rank: 75
+  rank: 76
   win_rate: 0.0
   wins: 0
 - elo: 1038
   games: 7
   losses: 7
   name: greenadiss
-  rank: 76
+  rank: 77
+  win_rate: 0.0
+  wins: 0
+- elo: 1027
+  games: 12
+  losses: 12
+  name: Mod
+  rank: 78
   win_rate: 0.0
   wins: 0
 ---
