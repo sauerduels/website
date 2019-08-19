@@ -50,8 +50,8 @@ For map selection, five maps will be randomly selected from the pool, then each 
       <td>complex</td>
       <td>duel7</td>
       <td>douze</td>
+      <td>frozen</td>
       <td>kffa</td>
-      <td>memento</td>
       <td>ot</td>
       <td>turbine</td>
     </tr>
