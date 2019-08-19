@@ -47,11 +47,11 @@ For map selection, five maps will be randomly selected from the pool, then each 
   <tbody>
     <tr>
       <th>Instagib</th>
-      <td>aard3c</td>
       <td>complex</td>
       <td>duel7</td>
       <td>douze</td>
       <td>kffa</td>
+      <td>memento</td>
       <td>ot</td>
       <td>turbine</td>
     </tr>
@@ -66,5 +66,5 @@ We will be using multiple servers located in Europe or North America for all of 
 
 ## Cheating
 
-There will not be an anti-cheat client that is required to play. However, we do have server side anti-cheat detection which can still detect certain methods of cheating. Players with a cheating history will not be allowed to play.
+There will not be an anti-cheat client that is required to play. However, we do have server side anti-cheat detection which can still detect certain methods of cheating. Players with a cheating history will not be allowed to play. If you are unsure if a certain modification is considered cheating, please ask Frosty in discord.
 
