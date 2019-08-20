@@ -117,7 +117,7 @@ brackets:
         slug: sd30_lb_echo-echo_vs_hades
       - result: notas def. Shinnok
         slug: sd30_lb_notas_vs_shinnok
-      - result: Alluro def. Tengrichan
+      - result: Tengrichan def. Alluro
         slug: sd30_lb_alluro_vs_tengrichan
       - result: Krakovic def. fatmonkeygenius
         slug: sd30_lb_fatmonkeygenius_vs_krakovic
