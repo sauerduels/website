@@ -87,7 +87,13 @@ module Jekyll
       "Kotzikacki" => 'de',
       "TheLove" => 'kw',
       "neon" => 'de',
-      "echo-echo" => 'us' }
+      "echo-echo" => 'us',
+      "Lexar" => 'gb',
+      "secrets" => 'cr',
+      "Apikk" => 'fr',
+      "MintyCMS" => 'us',
+      "DarkWolf" => 'de',
+      "Fatality" => 'us' }
     
     def add_flags(input)
       PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"https://sauerduels.me/images/#{value}.png\" /> #{key}</span>") }
