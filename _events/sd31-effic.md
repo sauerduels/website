@@ -7,7 +7,7 @@ completed: true
 finals:
   result: starch def. raffael
   games:
-    - title: memento 67:56
+    - title: memento 56:67
       slug: sd31_final_raffael_vs_starch_game1
     - title: aard3c 58:49
       slug: sd31_final_raffael_vs_starch_game2
