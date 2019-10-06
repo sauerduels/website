@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SauerDuels.me
+title: SauerDuels
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Cube 2: Sauerbraten League
@@ -23,9 +23,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 timezone: CET
 future: true
-demobaseurl: "http://sauerduels.me/demos/"
-screenbaseurl: "http://sauerduels.me/screens/"
-flagbaseurl: "http://sauerduels.me/images/"
+demobaseurl: "http://sauerduels.org/demos/"
+screenbaseurl: "http://sauerduels.org/screens/"
+flagbaseurl: "http://sauerduels.org/images/"
 
 # Build settings
 markdown: kramdown
