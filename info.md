@@ -7,7 +7,7 @@ index: 1
 
 ## Format
 
-All events will use a traditional double elimination format. This means that the participants will be seeded in a bracket based on ELO, and play through the bracket until they are eliminated. All matches with the exception of the finals will be a best of 1. The finals will be a best of 3. You can look at some example tournament brackets [here](http://sauerduels.challonge.com/).
+All events will use a traditional double elimination format. This means that the participants will be seeded in a bracket based on ELO, and play through the bracket until they are eliminated. All matches with the exception of the finals will be a best of 1. The finals will be a best of 3. You can look at some example tournament brackets [here](https://sauerduels.challonge.com/).
 
 ## Maps
 
@@ -62,7 +62,7 @@ For map selection, five maps will be randomly selected from the pool, then each 
 
 We will be using multiple servers located in Europe or North America for all of our events. Here is the connect command:
 
-`/connect sauerduels.me 10000|20000|30000|40000|50000`
+`/connect sauerduels.me 10000|20000|30000|40000`
 
 ## Cheating
 
