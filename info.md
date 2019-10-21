@@ -60,9 +60,8 @@ For map selection, five maps will be randomly selected from the pool, then each 
 
 ## Servers
 
-We will be using multiple servers located in Europe or North America for all of our events. Here is the connect command:
+We will be hosting multiple servers located in Europe and/or North America for all of our events.
 
-`/connect sauerduels.me 10000|20000|30000|40000`
 
 ## Cheating
 
