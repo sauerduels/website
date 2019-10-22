@@ -174,20 +174,20 @@
   rank: 25
   win_rate: 0.364
   wins: 4
-- elo: 1314
-  games: 17
-  losses: 13
-  name: Master
-  rank: 26
-  win_rate: 0.235
-  wins: 4
 - elo: 1304
   games: 7
   losses: 4
   name: secrets
-  rank: 27
+  rank: 26
   win_rate: 0.429
   wins: 3
+- elo: 1300
+  games: 18
+  losses: 14
+  name: Master
+  rank: 27
+  win_rate: 0.222
+  wins: 4
 - elo: 1289
   games: 31
   losses: 11
@@ -321,48 +321,48 @@
   rank: 46
   win_rate: 0.2
   wins: 1
+- elo: 1204
+  games: 6
+  losses: 4
+  name: Fatality
+  rank: 47
+  win_rate: 0.333
+  wins: 2
 - elo: 1194
   games: 30
   losses: 26
   name: FixxxerSA
-  rank: 47
+  rank: 48
   win_rate: 0.133
   wins: 4
 - elo: 1193
   games: 26
   losses: 20
   name: __FRY__
-  rank: 48
+  rank: 49
   win_rate: 0.231
   wins: 6
 - elo: 1191
   games: 9
   losses: 8
   name: Harsh
-  rank: 49
+  rank: 50
   win_rate: 0.111
   wins: 1
 - elo: 1181
   games: 33
   losses: 17
   name: Headway
-  rank: 50
+  rank: 51
   win_rate: 0.485
   wins: 16
 - elo: 1181
   games: 4
   losses: 4
   name: Eleisa
-  rank: 51
+  rank: 52
   win_rate: 0.0
   wins: 0
-- elo: 1180
-  games: 5
-  losses: 4
-  name: Fatality
-  rank: 52
-  win_rate: 0.2
-  wins: 1
 - elo: 1172
   games: 5
   losses: 2

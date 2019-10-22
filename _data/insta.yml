@@ -209,6 +209,20 @@
   suicides: 2
   win_rate: 0.615
   wins: 16
+- accuracy: 30%
+  chainsaw: 02%
+  deaths: 308
+  elo: 1581
+  frags: 214
+  games: 4
+  kpd: 0.695
+  losses: 2
+  name: Fatality
+  rank: 16
+  rifle: 31%
+  suicides: 2
+  win_rate: 0.5
+  wins: 2
 - accuracy: 35%
   chainsaw: 50%
   deaths: 472
@@ -218,7 +232,7 @@
   kpd: 0.831
   losses: 3
   name: M!lch-Mann
-  rank: 16
+  rank: 17
   rifle: 35%
   suicides: 1
   win_rate: 0.5
@@ -232,7 +246,7 @@
   kpd: 1.031
   losses: 9
   name: Redon
-  rank: 17
+  rank: 18
   rifle: 35%
   suicides: 2
   win_rate: 0.438
@@ -246,7 +260,7 @@
   kpd: 1.014
   losses: 4
   name: Plata
-  rank: 18
+  rank: 19
   rifle: 34%
   suicides: 0
   win_rate: 0.556
@@ -260,7 +274,7 @@
   kpd: 1.214
   losses: 13
   name: Fear
-  rank: 19
+  rank: 20
   rifle: 37%
   suicides: 3
   win_rate: 0.536
@@ -274,7 +288,7 @@
   kpd: 0.984
   losses: 17
   name: Headway
-  rank: 20
+  rank: 21
   rifle: 39%
   suicides: 2
   win_rate: 0.485
@@ -288,7 +302,7 @@
   kpd: 1.107
   losses: 5
   name: lagout
-  rank: 21
+  rank: 22
   rifle: 38%
   suicides: 2
   win_rate: 0.545
@@ -302,7 +316,7 @@
   kpd: 1.115
   losses: 2
   name: echo-echo
-  rank: 22
+  rank: 23
   rifle: 38%
   suicides: 0
   win_rate: 0.6
@@ -316,25 +330,11 @@
   kpd: 1.062
   losses: 4
   name: TheLove
-  rank: 23
+  rank: 24
   rifle: 29%
   suicides: 0
   win_rate: 0.5
   wins: 4
-- accuracy: 30%
-  chainsaw: 02%
-  deaths: 308
-  elo: 1508
-  frags: 214
-  games: 3
-  kpd: 0.695
-  losses: 2
-  name: Fatality
-  rank: 24
-  rifle: 31%
-  suicides: 2
-  win_rate: 0.333
-  wins: 1
 - accuracy: 34%
   chainsaw: 08%
   deaths: 209
@@ -447,20 +447,6 @@
   suicides: 0
   win_rate: 0.421
   wins: 8
-- accuracy: 27%
-  chainsaw: 08%
-  deaths: 478
-  elo: 1442
-  frags: 319
-  games: 5
-  kpd: 0.667
-  losses: 3
-  name: Master
-  rank: 33
-  rifle: 28%
-  suicides: 0
-  win_rate: 0.4
-  wins: 2
 - accuracy: 24%
   chainsaw: 06%
   deaths: 306
@@ -470,7 +456,7 @@
   kpd: 0.899
   losses: 2
   name: swatllama
-  rank: 34
+  rank: 33
   rifle: 28%
   suicides: 7
   win_rate: 0.5
@@ -484,7 +470,7 @@
   kpd: 0.715
   losses: 3
   name: Khornettoh
-  rank: 35
+  rank: 34
   rifle: 26%
   suicides: 0
   win_rate: 0.4
@@ -498,7 +484,7 @@
   kpd: 0.908
   losses: 2
   name: Liugam
-  rank: 36
+  rank: 35
   rifle: 34%
   suicides: 0
   win_rate: 0.333
@@ -512,11 +498,25 @@
   kpd: 1.058
   losses: 2
   name: sensless
-  rank: 37
+  rank: 36
   rifle: 35%
   suicides: 1
   win_rate: 0.333
   wins: 1
+- accuracy: 27%
+  chainsaw: 08%
+  deaths: 478
+  elo: 1400
+  frags: 319
+  games: 6
+  kpd: 0.667
+  losses: 4
+  name: Master
+  rank: 37
+  rifle: 28%
+  suicides: 0
+  win_rate: 0.333
+  wins: 2
 - accuracy: 31%
   chainsaw: 00%
   deaths: 337
