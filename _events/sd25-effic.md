@@ -4,6 +4,10 @@ index: 25
 date: '2019-01-27 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd25effic
 completed: true
+podium:
+  golden: starch
+  silver: hades
+  bronze: lagout
 finals:
   result: raffael def. starch
   games:

@@ -4,6 +4,10 @@ index: 23
 date: '2018-11-18 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd23ffa
 completed: true
+podium:
+  golden: Redon
+  silver: Honzik1
+  bronze: Lokio
 finals:
   result: Redon def. Honzik1
   games:

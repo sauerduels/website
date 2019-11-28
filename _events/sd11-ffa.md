@@ -4,6 +4,10 @@ index: 11
 date: '2018-03-18 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd11ffa
 completed: true
+podium:
+  golden: Redon
+  silver: notas
+  bronze: Frosty
 finals:
   result: Redon def. notas
   games:

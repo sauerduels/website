@@ -4,6 +4,10 @@ index: 30
 date: '2019-08-18 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd30insta
 completed: true
+podium:
+  golden: starch
+  silver: Frosty
+  bronze: hades
 finals:
   result: raffael def. starch
   games:

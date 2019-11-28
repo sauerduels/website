@@ -4,6 +4,10 @@ index: 32
 date: '2019-10-06 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd32ffa
 completed: true
+podium:
+  golden: Lokio
+  silver: Redon
+  bronze: starch
 finals:
   result: Lokio def. raffael
   games:

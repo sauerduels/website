@@ -4,6 +4,10 @@ index: 27
 date: '2019-03-17 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd27insta
 completed: true
+podium:
+  golden: Achille
+  silver: starch
+  bronze: Honzik1
 finals:
   result: raffael def. Achille
   games:

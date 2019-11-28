@@ -4,6 +4,10 @@ index: 7
 date: '2018-01-14 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd07effic
 completed: true
+podium:
+  golden: Honzik1
+  silver: Rexus
+  bronze: lagout
 finals:
   result: Honzik1 def. Rexus
   games:
@@ -62,16 +66,16 @@ groups:
         slug: sd07_harsh_vs_rexus
       - result: lagout def. Morry
         slug: sd07_lagout_vs_morry
-      - result: raffael def. bug
-        slug: sd07_bug_vs_raffael
+      - result: bug def. raffael
+        slug: 
     - - result: Morry def. bug
         slug: sd07_bug_vs_morry
-      - result: raffael def. Harsh
-        slug: sd07_harsh_vs_raffael
+      - result: Harsh def. raffael
+        slug: 
       - result: lagout def. Rexus
         slug: sd07_lagout_vs_rexus
-    - - result: raffael def. Morry
-        slug: sd07_morry_vs_raffael
+    - - result: Morry def. raffael
+        slug: 
       - result: Rexus def. bug
         slug: sd07_bug_vs_rexus
       - result: lagout def. Harsh
@@ -79,11 +83,11 @@ groups:
     - - result: lagout def. bug
         slug: sd07_bug_vs_lagout
       - result: Rexus def. raffael
-        slug: sd07_raffael_vs_rexus
+        slug: 
       - result: Morry def. Harsh
         slug: sd07_harsh_vs_morry
-    - - result: raffael def. lagout
-        slug: sd07_lagout_vs_raffael
+    - - result: lagout def. raffael
+        slug: 
       - result: bug def. Harsh
         slug: sd07_bug_vs_harsh
       - result: Rexus def. Morry

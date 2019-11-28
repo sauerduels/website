@@ -4,6 +4,10 @@ index: 17
 date: '2018-07-01 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd17ffa
 completed: true
+podium:
+  golden: Redon
+  silver: notas
+  bronze: Honzik1
 finals:
   result: Redon def. notas
   games:

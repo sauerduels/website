@@ -4,6 +4,10 @@ index: 24
 date: '2019-01-06 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd24insta
 completed: true
+podium:
+  golden: Achille
+  silver: Frosty
+  bronze: Satoshi
 finals:
   result: raffael def. Achille
   games:

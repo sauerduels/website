@@ -4,6 +4,10 @@ index: 9
 date: '2018-02-04 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd09insta
 completed: true
+podium:
+  golden: starch
+  silver: hades
+  bronze: Gangler
 finals:
   result: starch def. hades
   games:

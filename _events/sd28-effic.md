@@ -4,6 +4,10 @@ index: 28
 date: '2019-07-14 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd28effic
 completed: true
+podium:
+  golden: Rexus
+  silver: Frosty
+  bronze: Redon
 finals:
   result: raffael def. Rexus
   games:

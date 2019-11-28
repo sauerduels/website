@@ -4,6 +4,10 @@ index: 1
 date: '2017-10-15 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd01effic
 completed: true
+podium:
+  golden: Lokio
+  silver: Partizan
+  bronze: Alluro
 finals:
   result: Lokio def. Partizan
   games:

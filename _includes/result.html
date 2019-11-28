@@ -12,6 +12,13 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   Bracket: <a href="{{ event.bracketurl }}" target="_blank">{{ event.bracketurl }}</a><br />
 {% endif %}
 <br />
+{% if event.podium %}
+  <h3>Podium:</h3>
+  1st: {{ event.podium.golden | add_flags }}<br />
+  2nd: {{ event.podium.silver | add_flags }}<br />
+  3rd: {{ event.podium.bronze | add_flags }}<br />
+{% endif %}
+<br />
 {% if event.finals %}
   <h3>Finals:</h3>
   {{ event.finals.result | add_flags }}<br />

@@ -5,6 +5,10 @@ date: '2019-10-20 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd33insta
 signupurl: https://sauerduels.challonge.com/tournaments/signup/UzeXiLLQ8p
 completed: true
+podium:
+  golden: Gangler
+  silver: Achille
+  bronze: starch
 finals:
   result: raffael def. Gangler
   games:

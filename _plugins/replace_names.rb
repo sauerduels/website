@@ -40,7 +40,7 @@ module Jekyll
       'hamon' => 'de',
       'Friteq' => 'pl',
       'notas' => 'us',
-      'Shinnok' => 'nl',
+      'Satoshi' => 'nl',
       'Cannibal' => 'bg',
       'Rotti' => 'de',
       'Calinou' => 'fr',

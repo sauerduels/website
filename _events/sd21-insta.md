@@ -5,6 +5,10 @@ date: '2018-09-16 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd21insta
 signupurl: https://challonge.com/tournaments/signup/2syHhuvBln
 completed: true
+podium:
+  golden: Gangler
+  silver: Partizan
+  bronze: starch
 finals:
   result: Gangler def. raffael
   games:

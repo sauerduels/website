@@ -4,6 +4,10 @@ index: 16
 date: '2018-06-17 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd16effic
 completed: true
+podium:
+  golden: Partizan
+  silver: hades
+  bronze: starch
 finals:
   result: raffael def. Partizan
   games:

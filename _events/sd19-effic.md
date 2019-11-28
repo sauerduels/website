@@ -4,6 +4,10 @@ index: 19
 date: '2018-08-19 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd19effic
 completed: true
+podium:
+  golden: Rexus
+  silver: notas
+  bronze: Gangler
 finals:
   result: raffael def. Rexus
   games:

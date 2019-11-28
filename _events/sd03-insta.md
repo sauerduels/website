@@ -4,6 +4,10 @@ index: 3
 date: '2017-11-12 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd03insta
 completed: true
+podium:
+  golden: Gangler
+  silver: Rexus
+  bronze: Partizan
 finals:
   result: Gangler def. Rexus
   games:
