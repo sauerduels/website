@@ -9,16 +9,14 @@ podium:
   silver: Frosty
   bronze: Redon
 finals:
-  result: raffael def. Rexus
+  result: Rexus def. raffael
   games:
-    - title: turbine 87:86
-      slug: sd28_final_raffael_vs_rexus_game1
-    - title: academy 49:45
-      slug: sd28_final_raffael_vs_rexus_game2
+    - title: 
+      slug: 
 brackets:
   Winners:
-    - - result: ZCrone def. Phönix
-        slug: sd28_wb_phonix_vs_zcrone
+    - - result: ZCrone def. kinnyi
+        slug: sd28_wb_kinnyi_vs_zcrone
       - result: Galaxy def. Zarah
         slug: sd28_wb_galaxy_vs_zarah
       - result: Plata def. Mod
@@ -33,8 +31,8 @@ brackets:
         slug: sd28_wb_fear_vs_tay|z
       - result: Lokio def. degrave
         slug: sd28_wb_degrave_vs_lokio
-      - result: raffael def. ZCrone
-        slug: sd28_wb_raffael_vs_zcrone
+      - result: ZCrone def. raffael
+        slug: 
       - result: Frosty def. Galaxy
         slug: sd28_wb_frosty_vs_galaxy
       - result: notas def. Plata
@@ -43,28 +41,28 @@ brackets:
         slug: sd28_wb_rexus_vs_tamin0
       - result: lagout def. Khornettoh
         slug: sd28_wb_khornettoh_vs_lagout
-    - - result: raffael def. Redon
-        slug: sd28_wb_raffael_vs_redon
+    - - result: Redon def. raffael
+        slug: 
       - result: Frosty def. notas
         slug: sd28_wb_frosty_vs_notas
       - result: Rexus def. Fear
         slug: 
       - result: lagout def. Lokio
         slug: sd28_wb_lagout_vs_lokio
-    - - result: raffael def. Frosty
-        slug: sd28_wb_frosty_vs_raffael
+    - - result: Frosty def. raffael
+        slug: 
       - result: Rexus def. lagout
         slug: sd28_wb_lagout_vs_rexus
-    - - result: raffael def. Rexus
-        slug: sd28_wb_raffael_vs_rexus
+    - - result: Rexus def. raffael
+        slug: 
 
   Losers:
     - - result: FixxxerSA def. Eleisa
         slug: sd28_lb_eleisa_vs_fixxxersa
       - result: Tay|Z def. Zarah
         slug: sd28_lb_tay|z_vs_zarah
-      - result: degrave def. Phönix
-        slug: sd28_lb_degrave_vs_phonix
+      - result: degrave def. kinnyi
+        slug: sd28_lb_degrave_vs_kinnyi
       - result: Plata def. Bertolt_Brecht
         slug: sd28_lb_bertolt_brecht_vs_plata
       - result: Tamin0 def. Mod

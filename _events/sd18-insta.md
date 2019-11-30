@@ -9,22 +9,20 @@ podium:
   silver: Partizan
   bronze: Honzik1
 finals:
-  result: raffael def. Achille
+  result: Achille def. raffael
   games:
-    - title: complex 116:112
-      slug: sd18_final_achille_vs_raffael_game1
-    - title: ot 115:106
-      slug: sd18_final_achille_vs_raffael_game2
+    - title: 
+      slug: 
 consolation:
   - result: Partizan def. Honzik1
     games:
       - title: turbine 114:98
         slug: sd18_consolation_honzik1_vs_partizan_game1
 semis:
-  - result: raffael def. Partizan
+  - result: Partizan def. raffael
     games:
-      - title: ot 103:102
-        slug: sd18_semifinal_partizan_vs_raffael_game1
+      - title: 
+        slug: 
   - result: Achille def. Honzik1
     games:
       - title: turbine 146:141
@@ -39,18 +37,18 @@ groups:
         slug: sd18_fatmonkeygenius_vs_fishcakes
       - result: Achille def. Fear
         slug: sd18_achille_vs_fear
-      - result: raffael def. A!M
-        slug: sd18_a!m_vs_raffael
-    - - result: raffael def. Achille
-        slug: sd18_achille_vs_raffael
+      - result: A!M def. raffael
+        slug: 
+    - - result: Achille def. raffael
+        slug: 
       - result: A!M def. NoobGuy
         slug: sd18_a!m_vs_noobguy
       - result: Fear def. fishcakes
         slug: sd18_fear_vs_fishcakes
       - result: starch def. fatmonkeygenius
         slug: sd18_fatmonkeygenius_vs_starch
-    - - result: raffael def. fishcakes
-        slug: sd18_fishcakes_vs_raffael
+    - - result: fishcakes def. raffael
+        slug: 
       - result: starch def. Fear
         slug: sd18_fear_vs_starch
       - result: fatmonkeygenius def. NoobGuy
@@ -61,14 +59,14 @@ groups:
         slug: sd18_fatmonkeygenius_vs_fear
       - result: A!M def. fishcakes
         slug: sd18_a!m_vs_fishcakes
-      - result: raffael def. starch
-        slug: sd18_raffael_vs_starch
+      - result: starch def. raffael
+        slug: 
       - result: Achille def. NoobGuy
         slug: sd18_achille_vs_noobguy
     - - result: Achille def. fishcakes
         slug: sd18_achille_vs_fishcakes
-      - result: raffael def. fatmonkeygenius
-        slug: sd18_fatmonkeygenius_vs_raffael
+      - result: fatmonkeygenius def. raffael
+        slug: 
       - result: starch def. A!M
         slug: sd18_a!m_vs_starch
       - result: Fear def. NoobGuy
@@ -79,12 +77,12 @@ groups:
         slug: sd18_achille_vs_starch
       - result: NoobGuy def. fishcakes
         slug: sd18_fishcakes_vs_noobguy
-      - result: raffael def. Fear
-        slug: sd18_fear_vs_raffael
+      - result: Fear def. raffael
+        slug: 
     - - result: Fear def. A!M
         slug: sd18_a!m_vs_fear
-      - result: raffael def. NoobGuy
-        slug: sd18_noobguy_vs_raffael
+      - result: NoobGuy def. raffael
+        slug: 
       - result: Achille def. fatmonkeygenius
         slug: sd18_achille_vs_fatmonkeygenius
       - result: starch def. fishcakes

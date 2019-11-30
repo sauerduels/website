@@ -9,14 +9,10 @@ podium:
   silver: Frosty
   bronze: Satoshi
 finals:
-  result: raffael def. Achille
+  result: Achille def. raffael
   games:
-    - title: kffa 115:98
-      slug: sd24_final_achille_vs_raffael_game1
-    - title: turbine 115:116
-      slug: sd24_final_achille_vs_raffael_game2
-    - title: duel7 118:109
-      slug: sd24_final_achille_vs_raffael_game3
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: Bertolt_Brecht def. Zarah
@@ -35,28 +31,28 @@ brackets:
         slug: sd24_wb_krakovic_vs_maik
       - result: Fear def. razvan
         slug: sd24_wb_fear_vs_razvan
-      - result: raffael def. Bertolt_Brecht
-        slug: sd24_wb_bertolt_brecht_vs_raffael
-      - result: Shinnok def. sensless
-        slug: sd24_wb_sensless_vs_shinnok
+      - result: Bertolt_Brecht def. raffael
+        slug: 
+      - result: Satoshi def. sensless
+        slug: sd24_wb_satoshi_vs_sensless
       - result: Achille def. ZCrone
         slug: sd24_wb_achille_vs_zcrone
       - result: lagout def. Tengrichan
         slug: sd24_wb_lagout_vs_tengrichan
-    - - result: raffael def. Tamin0
-        slug: sd24_wb_raffael_vs_tamin0
-      - result: Galaxy def. Shinnok
-        slug: sd24_wb_galaxy_vs_shinnok
+    - - result: Tamin0 def. raffael
+        slug: 
+      - result: Galaxy def. Satoshi
+        slug: sd24_wb_galaxy_vs_satoshi
       - result: Achille def. Krakovic
         slug: sd24_wb_achille_vs_krakovic
       - result: Fear def. lagout
         slug: sd24_wb_fear_vs_lagout
-    - - result: raffael def. Galaxy
-        slug: sd24_wb_galaxy_vs_raffael
+    - - result: Galaxy def. raffael
+        slug: 
       - result: Achille def. Fear
         slug: sd24_wb_achille_vs_fear
-    - - result: raffael def. Achille
-        slug: sd24_wb_achille_vs_raffael
+    - - result: Achille def. raffael
+        slug: 
 
   Losers:
     - - result: swatllama def. KenhSix
@@ -77,22 +73,22 @@ brackets:
         slug: sd24_lb_tengrichan_vs_zarah
     - - result: Tamin0 def. ZCrone
         slug: sd24_lb_tamin0_vs_zcrone
-      - result: Shinnok def. Zarah
-        slug: sd24_lb_shinnok_vs_zarah
+      - result: Satoshi def. Zarah
+        slug: sd24_lb_satoshi_vs_zarah
       - result: Krakovic def. swatllama
         slug: sd24_lb_krakovic_vs_swatllama
       - result: Frosty def. lagout
         slug: sd24_lb_frosty_vs_lagout
-    - - result: Shinnok def. Tamin0
-        slug: sd24_lb_shinnok_vs_tamin0
+    - - result: Satoshi def. Tamin0
+        slug: sd24_lb_satoshi_vs_tamin0
       - result: Frosty def. Krakovic
         slug: sd24_lb_frosty_vs_krakovic
     - - result: Frosty def. Galaxy
         slug: sd24_lb_frosty_vs_galaxy
-      - result: Shinnok def. Fear
+      - result: Satoshi def. Fear
         slug: 
-    - - result: Frosty def. Shinnok
-        slug: sd24_lb_frosty_vs_shinnok
+    - - result: Frosty def. Satoshi
+        slug: sd24_lb_frosty_vs_satoshi
     - - result: Achille def. Frosty
         slug: sd24_lb_achille_vs_frosty
 ---

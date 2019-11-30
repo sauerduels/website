@@ -19,8 +19,8 @@ brackets:
   Winners:
     - - result: Krakovic def. Master
         slug: sd23_wb_krakovic_vs_master
-      - result: raffael def. Toph
-        slug: sd23_wb_raffael_vs_toph
+      - result: Toph def. raffael
+        slug: 
       - result: h8 def. Tamin0
         slug: sd23_wb_h8_vs_tamin0
       - result: benzomatic def. Bertolt_Brecht
@@ -32,7 +32,7 @@ brackets:
     - - result: Redon def. Krakovic
         slug: sd23_wb_krakovic_vs_redon
       - result: h8 def. raffael
-        slug: sd23_wb_h8_vs_raffael
+        slug: 
       - result: Lokio def. benzomatic
         slug: sd23_wb_benzomatic_vs_lokio
       - result: Honzik1 def. Rotti
@@ -51,20 +51,20 @@ brackets:
         slug: sd23_lb_skillz_vs_zarah
     - - result: Skillz def. Krakovic
         slug: sd23_lb_krakovic_vs_skillz
-      - result: raffael def. Bertolt_Brecht
-        slug: sd23_lb_bertolt_brecht_vs_raffael
+      - result: Bertolt_Brecht def. raffael
+        slug: 
       - result: benzomatic def. Toph
         slug: sd23_lb_benzomatic_vs_toph
       - result: Rotti def. Master
         slug: sd23_lb_master_vs_rotti
-    - - result: raffael def. Skillz
-        slug: sd23_lb_raffael_vs_skillz
+    - - result: Skillz def. raffael
+        slug: 
       - result: benzomatic def. Rotti
         slug: sd23_lb_benzomatic_vs_rotti
     - - result: h8 def. benzomatic
         slug: sd23_lb_benzomatic_vs_h8
       - result: Honzik1 def. raffael
-        slug: sd23_lb_honzik1_vs_raffael
+        slug: 
     - - result: Honzik1 def. h8
         slug: sd23_lb_honzik1_vs_h8
     - - result: Honzik1 def. Lokio

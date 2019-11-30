@@ -18,7 +18,7 @@ Participating is straight forward, all you need to do is read the details on our
 
 Feel free to contact us on Discord for any questions, feedback, or concerns you may have.
 
-<a href="https://discord.gg/FTSjNfz" target="_blank">https://discord.gg/FTSjNfz</a>
+<a href="https://discord.gg/feCsNXF" target="_blank">https://discord.gg/feCsNXF</a>
 
 ## Contribute
 

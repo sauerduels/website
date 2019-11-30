@@ -27,8 +27,8 @@ brackets:
         slug: sd29_wb_fixxxersa_vs_galaxy
     - - result: Gangler def. Bertolt_Brecht
         slug: sd29_wb_bertolt_brecht_vs_gangler
-      - result: raffael def. Tamin0
-        slug: sd29_wb_raffael_vs_tamin0
+      - result: Tamin0 def. raffael
+        slug: 
       - result: h8 def. Bear's
         slug: sd29_wb_bear's_vs_h8
     - - result: Lokio def. Rotti
@@ -37,12 +37,12 @@ brackets:
         slug: sd29_wb_galaxy_vs_master
       - result: Frosty def. Gangler
         slug: sd29_wb_frosty_vs_gangler
-      - result: raffael def. h8
-        slug: sd29_wb_h8_vs_raffael
+      - result: h8 def. raffael
+        slug: 
     - - result: Lokio def. Master
         slug: sd29_wb_lokio_vs_master
       - result: Frosty def. raffael
-        slug: sd29_wb_frosty_vs_raffael
+        slug: 
     - - result: Lokio def. Frosty
         slug: sd29_wb_frosty_vs_lokio
 
@@ -65,10 +65,10 @@ brackets:
         slug: sd29_lb_galaxy_vs_rotti
     - - result: h8 def. Master
         slug: sd29_lb_h8_vs_master
-      - result: raffael def. Galaxy
-        slug: sd29_lb_galaxy_vs_raffael
+      - result: Galaxy def. raffael
+        slug: 
     - - result: h8 def. raffael
-        slug: sd29_lb_h8_vs_raffael
+        slug: 
     - - result: Frosty def. h8
         slug: 
 ---

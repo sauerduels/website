@@ -57,30 +57,30 @@ groups:
   b:
     - - result: Toph def. Rudi
         slug: 
-      - result: lagout def. Phönix
-        slug: sd03_lagout_vs_phonix
+      - result: lagout def. kinnyi
+        slug: sd03_kinnyi_vs_lagout
       - result: Gangler def. Khornettoh
         slug: sd03_gangler_vs_khornettoh
     - - result: Gangler def. lagout
         slug: sd03_gangler_vs_lagout
       - result: Khornettoh def. Rudi
         slug: 
-      - result: Toph def. Phönix
-        slug: sd03_phonix_vs_toph
+      - result: Toph def. kinnyi
+        slug: sd03_kinnyi_vs_toph
     - - result: lagout def. Khornettoh
         slug: sd03_khornettoh_vs_lagout
       - result: Gangler def. Toph
         slug: sd03_gangler_vs_toph
-      - result: Phönix def. Rudi
+      - result: kinnyi def. Rudi
         slug: 
-    - - result: Gangler def. Phönix
-        slug: sd03_gangler_vs_phonix
+    - - result: Gangler def. kinnyi
+        slug: sd03_gangler_vs_kinnyi
       - result: Toph def. Khornettoh
         slug: sd03_khornettoh_vs_toph
       - result: lagout def. Rudi
         slug: 
-    - - result: Khornettoh def. Phönix
-        slug: sd03_khornettoh_vs_phonix
+    - - result: Khornettoh def. kinnyi
+        slug: sd03_khornettoh_vs_kinnyi
       - result: Gangler def. Rudi
         slug: 
       - result: lagout def. Toph

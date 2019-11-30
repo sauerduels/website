@@ -9,14 +9,10 @@ podium:
   silver: hades
   bronze: lagout
 finals:
-  result: raffael def. starch
+  result: starch def. raffael
   games:
-    - title: turbine 66:63
-      slug: sd25_final_raffael_vs_starch_game1
-    - title: academy 74:75
-      slug: sd25_final_raffael_vs_starch_game2
-    - title: ot 66:63
-      slug: sd25_final_raffael_vs_starch_game3
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: starch def. ZCrone
@@ -27,8 +23,8 @@ brackets:
         slug: sd25_wb_bertolt_brecht_vs_honzik1
       - result: Lokio def. Tamin0
         slug: sd25_wb_lokio_vs_tamin0
-      - result: raffael def. Master
-        slug: sd25_wb_master_vs_raffael
+      - result: Master def. raffael
+        slug: 
       - result: Alli def. Galaxy
         slug: sd25_wb_alli_vs_galaxy
       - result: lagout def. FixxxerSA
@@ -39,16 +35,16 @@ brackets:
         slug: sd25_wb_redon_vs_starch
       - result: Honzik1 def. Lokio
         slug: sd25_wb_honzik1_vs_lokio
-      - result: raffael def. Alli
-        slug: sd25_wb_alli_vs_raffael
+      - result: Alli def. raffael
+        slug: 
       - result: lagout def. hades
         slug: sd25_wb_hades_vs_lagout
     - - result: starch def. Honzik1
         slug: sd25_wb_honzik1_vs_starch
-      - result: raffael def. lagout
-        slug: sd25_wb_lagout_vs_raffael
+      - result: lagout def. raffael
+        slug: 
     - - result: starch def. raffael
-        slug: sd25_wb_raffael_vs_starch
+        slug: 
 
   Losers:
     - - result: ZCrone def. Liugam
@@ -77,6 +73,6 @@ brackets:
         slug: sd25_lb_lagout_vs_lokio
     - - result: hades def. lagout
         slug: sd25_lb_hades_vs_lagout
-    - - result: raffael def. hades
-        slug: sd25_lb_hades_vs_raffael
+    - - result: hades def. raffael
+        slug: 
 ---

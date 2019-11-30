@@ -27,7 +27,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
     {% if game.slug %}
       (<a href="{{ site.screenbaseurl }}{{ game.slug }}.jpg" target="_blank">screen</a> | <a href="{{ site.demobaseurl }}{{ game.slug }}.dmo" target="_blank">demo</a>)<br />
     {% else %}
-      (forfeit)<br />
+      (forfeited)<br />
     {% endif %}
   {% endfor %}
   <br />

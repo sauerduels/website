@@ -40,20 +40,20 @@ groups:
   b:
     - - result: lagout def. Khornettoh
         slug: sd13_khornettoh_vs_lagout
-      - result: notas def. Phönix
-        slug: sd13_notas_vs_phonix
-    - - result: Khornettoh def. Phönix
-        slug: sd13_khornettoh_vs_phonix
+      - result: notas def. kinnyi
+        slug: sd13_kinnyi_vs_notas
+    - - result: Khornettoh def. kinnyi
+        slug: sd13_khornettoh_vs_kinnyi
       - result: Lokio def. lagout
         slug: sd13_lagout_vs_lokio
-    - - result: Lokio def. Phönix
-        slug: sd13_lokio_vs_phonix
+    - - result: Lokio def. kinnyi
+        slug: sd13_kinnyi_vs_lokio
       - result: notas def. Khornettoh
         slug: sd13_khornettoh_vs_notas
     - - result: notas def. Lokio
         slug: sd13_lokio_vs_notas
-      - result: lagout def. Phönix
-        slug: sd13_lagout_vs_phonix
+      - result: lagout def. kinnyi
+        slug: sd13_kinnyi_vs_lagout
     - - result: lagout def. notas
         slug: sd13_lagout_vs_notas
       - result: Lokio def. Khornettoh

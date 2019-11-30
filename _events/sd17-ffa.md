@@ -67,19 +67,19 @@ groups:
     - - result: Lokio def. h8
         slug: sd17_h8_vs_lokio
       - result: swatllama def. raffael
-        slug: sd17_raffael_vs_swatllama
-    - - result: raffael def. h8
-        slug: sd17_h8_vs_raffael
+        slug: 
+    - - result: h8 def. raffael
+        slug: 
       - result: notas def. Lokio
         slug: sd17_lokio_vs_notas
-    - - result: raffael def. notas
-        slug: sd17_notas_vs_raffael
+    - - result: notas def. raffael
+        slug: 
       - result: swatllama def. h8
         slug: sd17_h8_vs_swatllama
     - - result: notas def. swatllama
         slug: sd17_notas_vs_swatllama
       - result: Lokio def. raffael
-        slug: sd17_lokio_vs_raffael
+        slug: 
     - - result: swatllama def. Lokio
         slug: sd17_lokio_vs_swatllama
       - result: notas def. h8

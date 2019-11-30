@@ -9,14 +9,10 @@ podium:
   silver: hades
   bronze: starch
 finals:
-  result: raffael def. Partizan
+  result: Partizan def. raffael
   games:
-    - title: turbine 73:79
-      slug: sd16_final_partizan_vs_raffael_game1
-    - title: legazzo 74:72
-      slug: sd16_final_partizan_vs_raffael_game2
-    - title: academy 67:59
-      slug: sd16_final_partizan_vs_raffael_game3
+    - title: 
+      slug: 
 groups:
   a:
     - - result: starch def. ZCrone
@@ -78,58 +74,58 @@ groups:
   b:
     - - result: Lokio def. Friteq
         slug: sd16_friteq_vs_lokio
-      - result: raffael def. __FRY__
-        slug: sd16___fry___vs_raffael
+      - result: __FRY__ def. raffael
+        slug: 
       - result: hades def. Jawer
         slug: sd16_hades_vs_jawer
-      - result: Shinnok def. Jason
-        slug: sd16_jason_vs_shinnok
+      - result: Satoshi def. Jason
+        slug: sd16_jason_vs_satoshi
     - - result: Jawer def. Jason
         slug: sd16_jason_vs_jawer
-      - result: Shinnok def. Friteq
-        slug: sd16_friteq_vs_shinnok
+      - result: Satoshi def. Friteq
+        slug: sd16_friteq_vs_satoshi
       - result: hades def. __FRY__
         slug: sd16___fry___vs_hades
-      - result: raffael def. Lokio
-        slug: sd16_lokio_vs_raffael
+      - result: Lokio def. raffael
+        slug: 
     - - result: __FRY__ def. Jason
         slug: sd16___fry___vs_jason
       - result: hades def. Lokio
         slug: sd16_hades_vs_lokio
-      - result: raffael def. Friteq
-        slug: sd16_friteq_vs_raffael
-      - result: Shinnok def. Jawer
-        slug: sd16_jawer_vs_shinnok
-    - - result: raffael def. hades
-        slug: sd16_hades_vs_raffael
-      - result: Shinnok def. __FRY__
-        slug: sd16___fry___vs_shinnok
+      - result: Friteq def. raffael
+        slug: 
+      - result: Satoshi def. Jawer
+        slug: sd16_jawer_vs_satoshi
+    - - result: hades def. raffael
+        slug: 
+      - result: Satoshi def. __FRY__
+        slug: sd16___fry___vs_satoshi
       - result: Lokio def. Jason
         slug: sd16_jason_vs_lokio
       - result: Jawer def. Friteq
         slug: 
     - - result: Jawer def. __FRY__
         slug: sd16___fry___vs_jawer
-      - result: raffael def. Jason
+      - result: Jason def. raffael
         slug: 
-      - result: Lokio def. Shinnok
-        slug: sd16_lokio_vs_shinnok
+      - result: Lokio def. Satoshi
+        slug: sd16_lokio_vs_satoshi
       - result: hades def. Friteq
         slug: 
-    - - result: raffael def. Shinnok
-        slug: sd16_raffael_vs_shinnok
+    - - result: Satoshi def. raffael
+        slug: 
       - result: Lokio def. Jawer
         slug: sd16_jawer_vs_lokio
       - result: __FRY__ def. Friteq
         slug: 
       - result: hades def. Jason
         slug: 
-    - - result: hades def. Shinnok
-        slug: sd16_hades_vs_shinnok
+    - - result: hades def. Satoshi
+        slug: sd16_hades_vs_satoshi
       - result: Jason def. Friteq
         slug: 
-      - result: raffael def. Jawer
-        slug: sd16_jawer_vs_raffael
+      - result: Jawer def. raffael
+        slug: 
       - result: Lokio def. __FRY__
         slug: sd16___fry___vs_lokio
 ---

@@ -19,15 +19,13 @@ finals:
 consolation:
   - result: Frosty def. raffael
     games:
-      - title: hades 38:29
-        slug: sd20_consolation_frosty_vs_raffael_game1
+      - title: 
+        slug: 
 semis:
   - result: notas def. raffael
     games:
-      - title: tumwalk 34:42
-        slug: sd20_semifinal_notas_vs_raffael_game1
-      - title: nmp8 23:18
-        slug: sd20_semifinal_notas_vs_raffael_game2
+      - title: 
+        slug: 
   - result: Honzik1 def. Frosty
     games:
       - title: nmp8 13:26
@@ -40,10 +38,10 @@ groups:
         slug: sd20_notas_vs_zcrone
       - result: Frosty def. Honzik1
         slug: sd20_frosty_vs_honzik1
-      - result: raffael def. Rotti
-        slug: sd20_raffael_vs_rotti
-    - - result: raffael def. Frosty
-        slug: sd20_frosty_vs_raffael
+      - result: Rotti def. raffael
+        slug: 
+    - - result: Frosty def. raffael
+        slug: 
       - result: Rotti def. ZCrone
         slug: sd20_rotti_vs_zcrone
       - result: notas def. Honzik1
@@ -51,23 +49,23 @@ groups:
     - - result: Frosty def. Rotti
         slug: sd20_frosty_vs_rotti
       - result: notas def. raffael
-        slug: sd20_notas_vs_raffael
+        slug: 
       - result: Honzik1 def. ZCrone
         slug: sd20_honzik1_vs_zcrone
     - - result: Honzik1 def. raffael
-        slug: sd20_honzik1_vs_raffael
+        slug: 
       - result: notas def. Rotti
         slug: sd20_notas_vs_rotti
       - result: Frosty def. ZCrone
         slug: sd20_frosty_vs_zcrone
     - - result: Honzik1 def. Rotti
         slug: sd20_honzik1_vs_rotti
-      - result: raffael def. ZCrone
-        slug: sd20_raffael_vs_zcrone
+      - result: ZCrone def. raffael
+        slug: 
       - result: notas def. Frosty
         slug: sd20_frosty_vs_notas
     - - result: Honzik1 def. raffael
-        slug: sd20_tb_honzik1_vs_raffael_game1
+        slug: 
       - result: Honzik1 def. Frosty
         slug: sd20_tb_frosty_vs_honzik1_game1
 ---

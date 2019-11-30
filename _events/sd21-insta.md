@@ -12,20 +12,18 @@ podium:
 finals:
   result: Gangler def. raffael
   games:
-    - title: duel7 106:103
-      slug: sd21_final_gangler_vs_raffael_game1
-    - title: ot 110:96
-      slug: sd21_final_gangler_vs_raffael_game2
+    - title: 
+      slug: 
 consolation:
   - result: Partizan def. starch
     games:
       - title:
         slug: 
 semis:
-  - result: raffael def. starch
+  - result: starch def. raffael
     games:
-      - title: turbine 132:127
-        slug: sd21_semifinal_raffael_vs_starch_game1
+      - title: 
+        slug: 
   - result: Gangler def. Partizan
     games:
       - title: ot 101:95
@@ -42,28 +40,28 @@ groups:
         slug: sd21_lokio_vs_zarah
       - result: Honzik1 def. A!M
         slug: sd21_a!m_vs_honzik1
-      - result: raffael def. Partizan
-        slug: sd21_partizan_vs_raffael
-    - - result: raffael def. Honzik1
-        slug: sd21_honzik1_vs_raffael
+      - result: Partizan def. raffael
+        slug: 
+    - - result: Honzik1 def. raffael
+        slug: 
       - result: Zarah def. A!M
         slug: sd21_a!m_vs_zarah
       - result: Lokio def. FixxxerSA
         slug: sd21_fixxxersa_vs_lokio
     - - result: A!M def. FixxxerSA
         slug: sd21_a!m_vs_fixxxersa
-      - result: raffael def. Zarah
-        slug: sd21_raffael_vs_zarah
+      - result: Zarah def. raffael
+        slug: 
       - result: Partizan def. Honzik1
         slug: sd21_honzik1_vs_partizan
     - - result: Partizan def. Zarah
         slug: sd21_partizan_vs_zarah
-      - result: raffael def. FixxxerSA
-        slug: sd21_fixxxersa_vs_raffael
+      - result: FixxxerSA def. raffael
+        slug: 
       - result: Lokio def. A!M
         slug: sd21_a!m_vs_lokio
-    - - result: raffael def. Lokio
-        slug: sd21_lokio_vs_raffael
+    - - result: Lokio def. raffael
+        slug: 
       - result: Partizan def. FixxxerSA
         slug: sd21_fixxxersa_vs_partizan
       - result: Honzik1 def. Zarah
@@ -72,8 +70,8 @@ groups:
         slug: sd21_fixxxersa_vs_honzik1
       - result: Partizan def. Lokio
         slug: sd21_lokio_vs_partizan
-      - result: raffael def. A!M
-        slug: sd21_a!m_vs_raffael
+      - result: A!M def. raffael
+        slug: 
 
   b:
     - - result: starch def. ZCrone

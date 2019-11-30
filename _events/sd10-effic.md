@@ -20,8 +20,8 @@ finals:
 semis:
   - result: Rexus def. raffael
     games:
-      - title: academy 38:36
-        slug: sd10_semifinal_raffael_vs_rexus_game1
+      - title: 
+        slug: 
   - result: lagout def. Partizan
     games:
       - title: ot 80:63
@@ -59,24 +59,24 @@ groups:
       - result: Honzik1 def. Redon
         slug: sd09_honzik1_vs_redon
   b:
-    - - result: raffael def. Toph
-        slug: sd10_raffael_vs_toph
+    - - result: Toph def. raffael
+        slug: 
       - result: Morry def. hamon
         slug: sd10_hamon_vs_morry
     - - result: Toph def. Morry
         slug: sd10_morry_vs_toph
       - result: lagout def. raffael
-        slug: sd10_lagout_vs_raffael
+        slug: 
     - - result: lagout def. Morry
         slug: sd10_lagout_vs_morry
       - result: Toph def. hamon
         slug: sd10_hamon_vs_toph
     - - result: lagout def. hamon
         slug: sd10_hamon_vs_lagout
-      - result: raffael def. Morry
-        slug: sd10_morry_vs_raffael
-    - - result: raffael def. hamon
-        slug: sd10_hamon_vs_raffael
+      - result: Morry def. raffael
+        slug: 
+    - - result: hamon def. raffael
+        slug: 
       - result: lagout def. Toph
         slug: sd10_lagout_vs_toph
 ---

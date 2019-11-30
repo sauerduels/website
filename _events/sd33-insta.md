@@ -10,12 +10,10 @@ podium:
   silver: Achille
   bronze: starch
 finals:
-  result: raffael def. Gangler
+  result: Gangler def. raffael
   games:
-    - title: ot 94:78
-      slug: sd33_final_gangler_vs_raffael_game1
-    - title: complex 98:90
-      slug: sd33_final_gangler_vs_raffael_game2
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: Fatality def. AriKani
@@ -38,12 +36,12 @@ brackets:
         slug: sd33_wb_headway_vs_tamin0
       - result: Liugam def. secrets
         slug: sd33_wb_liugam_vs_secrets
-      - result: Shinnok def. FixxxerSA
-        slug: sd33_wb_fixxxersa_vs_shinnok
+      - result: Satoshi def. FixxxerSA
+        slug: sd33_wb_fixxxersa_vs_satoshi
       - result: TheLove def. Master
         slug: sd33_wb_master_vs_thelove
-    - - result: raffael def. Fatality
-        slug: sd33_wb_fatality_vs_raffael
+    - - result: Fatality def. raffael
+        slug: 
       - result: Redon def. Galaxy
         slug: sd33_wb_galaxy_vs_redon
       - result: starch def. Tengrichan
@@ -56,22 +54,22 @@ brackets:
         slug: sd33_wb_headway_vs_krakovic
       - result: Achille def. Liugam
         slug: sd33_wb_achille_vs_liugam
-      - result: Shinnok def. TheLove
-        slug: sd33_wb_shinnok_vs_thelove
-    - - result: raffael def. Redon
-        slug: sd33_wb_raffael_vs_redon
+      - result: Satoshi def. TheLove
+        slug: sd33_wb_satoshi_vs_thelove
+    - - result: Redon def. raffael
+        slug: 
       - result: starch def. Honzik1
         slug: sd33_wb_honzik1_vs_starch
       - result: Gangler def. Krakovic
         slug: sd33_wb_gangler_vs_krakovic
-      - result: Achille def. Shinnok
-        slug: sd33_wb_achille_vs_shinnok
-    - - result: raffael def. starch
-        slug: sd33_wb_raffael_vs_starch
+      - result: Achille def. Satoshi
+        slug: sd33_wb_achille_vs_satoshi
+    - - result: starch def. raffael
+        slug: 
       - result: Achille def. Gangler
         slug: sd33_wb_achille_vs_gangler
-    - - result: raffael def. Achille
-        slug: sd33_wb_achille_vs_raffael
+    - - result: Achille def. raffael
+        slug: 
 
   Losers:
     - - result: DarkFire def. ZCrone
@@ -112,14 +110,14 @@ brackets:
         slug: sd33_lb_darkfire_vs_honzik1
       - result: Galaxy def. Krakovic
         slug: sd33_lb_galaxy_vs_krakovic
-      - result: Shinnok def. Plata
-        slug: sd33_lb_plata_vs_shinnok
+      - result: Satoshi def. Plata
+        slug: sd33_lb_plata_vs_satoshi
     - - result: Lokio def. Honzik1
         slug: sd33_lb_honzik1_vs_lokio
-      - result: Shinnok def. Galaxy
-        slug: sd33_lb_galaxy_vs_shinnok
-    - - result: starch def. Shinnok
-        slug: sd33_lb_shinnok_vs_starch
+      - result: Satoshi def. Galaxy
+        slug: sd33_lb_galaxy_vs_satoshi
+    - - result: starch def. Satoshi
+        slug: sd33_lb_satoshi_vs_starch
       - result: Gangler def. Lokio
         slug: sd33_lb_gangler_vs_lokio
     - - result: Gangler def. starch

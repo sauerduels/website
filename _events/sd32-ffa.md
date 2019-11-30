@@ -11,10 +11,8 @@ podium:
 finals:
   result: Lokio def. raffael
   games:
-    - title: metl3 42:41
-      slug: sd32_final_lokio_vs_raffael_game1
-    - title: paradigm 23:13
-      slug: sd32_final_lokio_vs_raffael_game2
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: Bertolt_Brecht def. FixxxerSA
@@ -23,18 +21,18 @@ brackets:
         slug: sd32_wb_tay|z_vs_zcrone
     - - result: starch def. Plata
         slug: sd32_wb_plata_vs_starch
-      - result: raffael def. Galaxy
-        slug: sd32_wb_galaxy_vs_raffael
+      - result: Galaxy def. raffael
+        slug: 
       - result: Redon def. Bertolt_Brecht
         slug: sd32_wb_bertolt_brecht_vs_redon
       - result: Lokio def. Tay|Z
         slug: sd32_wb_lokio_vs_tay|z
     - - result: Redon def. starch
         slug: sd32_wb_redon_vs_starch
-      - result: raffael def. Lokio
-        slug: sd32_wb_lokio_vs_raffael
-    - - result: raffael def. Redon
-        slug: sd32_wb_raffael_vs_redon
+      - result: Lokio def. raffael
+        slug: 
+    - - result: Redon def. raffael
+        slug: 
 
   Losers:
     - - result: Plata def. ZCrone

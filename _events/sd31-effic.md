@@ -11,12 +11,8 @@ podium:
 finals:
   result: starch def. raffael
   games:
-    - title: memento 56:67
-      slug: sd31_final_raffael_vs_starch_game1
-    - title: aard3c 58:49
-      slug: sd31_final_raffael_vs_starch_game2
-    - title: ot 74:72
-      slug: sd31_final_raffael_vs_starch_game3
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: DarkFire def. Lexar
@@ -31,16 +27,16 @@ brackets:
         slug: sd31_wb_khornettoh_vs_kotzikacki
       - result: TheLove def. Plata
         slug: sd31_wb_plata_vs_thelove
-      - result: Shinnok def. Mod
-        slug: sd31_wb_mod_vs_shinnok
+      - result: Satoshi def. Mod
+        slug: sd31_wb_mod_vs_satoshi
       - result: hamon def. DarkWolf
         slug: sd31_wb_darkwolf_vs_hamon
       - result: secrets def. Ren4rd
         slug: sd31_wb_ren4rd_vs_secrets
       - result: ZCrone def. MintyCMS
         slug: sd31_wb_mintycms_vs_zcrone
-    - - result: raffael def. DarkFire
-        slug: sd31_wb_darkfire_vs_raffael
+    - - result: DarkFire def. raffael
+        slug: 
       - result: 1989 def. FixxxerSA
         slug: sd31_wb_1989_vs_fixxxersa
       - result: hades def. Tamin0
@@ -49,26 +45,26 @@ brackets:
         slug: sd31_wb_khornettoh_vs_lokio
       - result: starch def. TheLove
         slug: sd31_wb_starch_vs_thelove
-      - result: Shinnok def. hamon
-        slug: sd31_wb_hamon_vs_shinnok
+      - result: Satoshi def. hamon
+        slug: sd31_wb_hamon_vs_satoshi
       - result: Rexus def. secrets
         slug: sd31_wb_rexus_vs_secrets
       - result: Galaxy def. ZCrone
         slug: sd31_wb_galaxy_vs_zcrone
-    - - result: raffael def. 1989
-        slug: sd31_wb_1989_vs_raffael
+    - - result: 1989 def. raffael
+        slug: 
       - result: hades def. Lokio
         slug: sd31_wb_hades_vs_lokio
-      - result: starch def. Shinnok
-        slug: sd31_wb_shinnok_vs_starch
+      - result: starch def. Satoshi
+        slug: sd31_wb_satoshi_vs_starch
       - result: Rexus def. Galaxy
         slug: sd31_wb_galaxy_vs_rexus
-    - - result: raffael def. hades
-        slug: sd31_wb_hades_vs_raffael
+    - - result: hades def. raffael
+        slug: 
       - result: starch def. Rexus
         slug: sd31_wb_rexus_vs_starch
-    - - result: raffael def. starch
-        slug: sd31_wb_raffael_vs_starch
+    - - result: starch def. raffael
+        slug: 
 
   Losers:
     - - result: Bertolt_Brecht def. Fatality
@@ -99,8 +95,8 @@ brackets:
         slug: sd31_lb_hamon_vs_thelove
       - result: secrets def. Lexar
         slug: sd31_lb_lexar_vs_secrets
-    - - result: DarkFire def. Shinnok
-        slug: sd31_lb_darkfire_vs_shinnok
+    - - result: DarkFire def. Satoshi
+        slug: sd31_lb_darkfire_vs_satoshi
       - result: Galaxy def. Tamin0
         slug: sd31_lb_galaxy_vs_tamin0
       - result: 1989 def. TheLove

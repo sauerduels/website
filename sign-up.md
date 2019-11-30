@@ -9,7 +9,7 @@ index: 2
 
 You can sign up by creating a Challonge account and using the sign-up links below, or by sending us a message on Discord. You must be on our Discord server to be able to play. Events will last about 2-3 hours per mode.
 
-<a href="https://discord.gg/FTSjNfz" target="_blank">https://discord.gg/FTSjNfz</a>
+<a href="https://discord.gg/feCsNXF" target="_blank">https://discord.gg/feCsNXF</a>
 
 ## Events
 

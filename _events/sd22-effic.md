@@ -9,12 +9,10 @@ podium:
   silver: lagout
   bronze: Frosty
 finals:
-  result: raffael def. hades
+  result: hades def. raffael
   games:
-    - title: academy 52:50
-      slug: sd22_final_hades_vs_raffael_game1
-    - title: memento 58:53
-      slug: sd22_final_hades_vs_raffael_game2
+    - title: 
+      slug: 
 brackets:
   Winners:
     - - result: skimmet def. FixxxerSA
@@ -43,8 +41,8 @@ brackets:
         slug: sd22_wb_frosty_vs_tamin0
       - result: Ren4rd def. Zarah
         slug: sd22_wb_ren4rd_vs_zarah
-    - - result: raffael def. skimmet
-        slug: sd22_wb_raffael_vs_skimmet
+    - - result: skimmet def. raffael
+        slug: 
       - result: Redon def. shuzo
         slug: sd22_wb_redon_vs_shuzo
       - result: Lokio def. Skillz
@@ -59,20 +57,20 @@ brackets:
         slug: sd22_wb_doko_vs_lagout
       - result: Frosty def. Ren4rd
         slug: sd22_wb_frosty_vs_ren4rd
-    - - result: raffael def. Redon
-        slug: sd22_wb_raffael_vs_redon
+    - - result: Redon def. raffael
+        slug: 
       - result: Lokio def. Partizan
         slug: sd22_wb_lokio_vs_partizan
       - result: hades def. Rexus
         slug: sd22_wb_hades_vs_rexus
       - result: lagout def. Frosty
         slug: sd22_wb_frosty_vs_lagout
-    - - result: raffael def. Lokio
-        slug: sd22_wb_raffael_vs_lokio
+    - - result: Lokio def. raffael
+        slug: 
       - result: hades def. lagout
         slug: sd22_wb_hades_vs_lagout
-    - - result: raffael def. hades
-        slug: sd22_wb_hades_vs_raffael
+    - - result: hades def. raffael
+        slug: 
 
   Losers:
     - - result: Origin def. __FRY__

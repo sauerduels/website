@@ -19,8 +19,8 @@ brackets:
   Winners:
     - - result: Tay|Z def. Daemes
         slug: sd26_wb_daemes_vs_tay|z
-      - result: raffael def. ZCrone
-        slug: sd26_wb_raffael_vs_zcrone
+      - result: ZCrone def. raffael
+        slug: 
       - result: Bertolt_Brecht def. FixxxerSA
         slug: sd26_wb_bertolt_brecht_vs_fixxxersa
       - result: Frosty def. Master
@@ -28,7 +28,7 @@ brackets:
     - - result: Redon def. Tay|Z
         slug: sd26_wb_redon_vs_tay|z
       - result: Honzik1 def. raffael
-        slug: sd26_wb_honzik1_vs_raffael
+        slug: 
       - result: notas def. Bertolt_Brecht
         slug: sd26_wb_bertolt_brecht_vs_notas
       - result: Lokio def. Frosty
@@ -43,20 +43,20 @@ brackets:
   Losers:
     - - result: Tay|Z def. Master
         slug: sd26_lb_master_vs_tay|z
-      - result: raffael def. FixxxerSA
-        slug: sd26_lb_fixxxersa_vs_raffael
+      - result: FixxxerSA def. raffael
+        slug: 
       - result: Bertolt_Brecht def. ZCrone
         slug: 
       - result: Frosty def. Daemes
         slug: sd26_lb_daemes_vs_frosty
-    - - result: raffael def. Tay|Z
-        slug: sd26_lb_raffael_vs_tay|z
+    - - result: Tay|Z def. raffael
+        slug: 
       - result: Frosty def. Bertolt_Brecht
         slug: sd26_lb_bertolt_brecht_vs_frosty
     - - result: Frosty def. Honzik1
         slug: sd26_lb_frosty_vs_honzik1
       - result: Lokio def. raffael
-        slug: sd26_lb_lokio_vs_raffael
+        slug: 
     - - result: Lokio def. Frosty
         slug: sd26_lb_frosty_vs_lokio
     - - result: notas def. Lokio

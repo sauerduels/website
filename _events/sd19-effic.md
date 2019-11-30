@@ -9,14 +9,10 @@ podium:
   silver: notas
   bronze: Gangler
 finals:
-  result: raffael def. Rexus
+  result: Rexus def. raffael
   games:
-    - title: academy 49:45
-      slug: sd19_final_raffael_vs_rexus_game1
-    - title: turbine 72:75
-      slug: sd19_final_raffael_vs_rexus_game2
-    - title: memento 63:62
-      slug: sd19_final_raffael_vs_rexus_game3
+    - title: 
+      slug: 
 consolation:
   - result: notas def. Gangler
     games:
@@ -27,10 +23,10 @@ semis:
     games:
       - title: memento 68:59
         slug: sd19_semifinal_notas_vs_rexus_game1
-  - result: raffael def. Gangler
+  - result: Gangler def. raffael
     games:
-      - title: turbine 81:75
-        slug: sd19_semifinal_gangler_vs_raffael_game1
+      - title: 
+        slug: 
 groups:
   a:
     - - result: Alluro def. Mod
@@ -56,14 +52,14 @@ groups:
   b:
     - - result: notas def. Toph
         slug: sd19_notas_vs_toph
-      - result: raffael def. Jawer
-        slug: sd19_jawer_vs_raffael
-    - - result: raffael def. notas
-        slug: sd19_notas_vs_raffael
+      - result: Jawer def. raffael
+        slug: 
+    - - result: notas def. raffael
+        slug: 
       - result: Jawer def. Toph
         slug: sd19_jawer_vs_toph
     - - result: notas def. Jawer
         slug: sd19_jawer_vs_notas
-      - result: raffael def. Toph
-        slug: sd19_raffael_vs_toph
+      - result: Toph def. raffael
+        slug: 
 ---

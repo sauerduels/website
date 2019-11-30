@@ -9,22 +9,20 @@ podium:
   silver: starch
   bronze: Honzik1
 finals:
-  result: raffael def. Achille
+  result: Achille def. raffael
   games:
-    - title: kffa 82:75
-      slug: sd27_final_achille_vs_raffael_game1
-    - title: turbine 113:112
-      slug: sd27_final_achille_vs_raffael_game2
+    - title: 
+      slug: 
 brackets:
   Winners:
-    - - result: raffael def. 1989
-        slug: sd27_wb_1989_vs_raffael
+    - - result: 1989 def. raffael
+        slug: 
       - result: Redon def. Fear
         slug: sd27_wb_fear_vs_redon
       - result: Honzik1 def. Tengrichan
         slug: sd27_wb_honzik1_vs_tengrichan
-      - result: Shinnok def. Bertolt_Brecht
-        slug: sd27_wb_bertolt_brecht_vs_shinnok
+      - result: Satoshi def. Bertolt_Brecht
+        slug: sd27_wb_bertolt_brecht_vs_satoshi
       - result: Achille def. FixxxerSA
         slug: sd27_wb_achille_vs_fixxxersa
       - result: hades def. daux
@@ -33,20 +31,20 @@ brackets:
         slug: sd27_wb_razvan_vs_starch
       - result: Galaxy def. Zarah
         slug: sd27_wb_galaxy_vs_zarah
-    - - result: raffael def. Redon
-        slug: sd27_wb_raffael_vs_redon
-      - result: Honzik1 def. Shinnok
-        slug: sd27_wb_honzik1_vs_shinnok
+    - - result: Redon def. raffael
+        slug: 
+      - result: Honzik1 def. Satoshi
+        slug: sd27_wb_honzik1_vs_satoshi
       - result: Achille def. hades
         slug: sd27_wb_achille_vs_hades
       - result: starch def. Galaxy
         slug: sd27_wb_galaxy_vs_starch
-    - - result: raffael def. Honzik1
-        slug: sd27_wb_honzik1_vs_raffael
+    - - result: Honzik1 def. raffael
+        slug: 
       - result: Achille def. starch
         slug: sd27_wb_achille_vs_starch
-    - - result: raffael def. Achille
-        slug: sd27_wb_achille_vs_raffael
+    - - result: Achille def. raffael
+        slug: 
 
   Losers:
     - - result: Fear def. 1989
@@ -59,20 +57,20 @@ brackets:
         slug: sd27_lb_razvan_vs_zarah
     - - result: Zarah def. Redon
         slug: sd27_lb_redon_vs_zarah
-      - result: Shinnok def. FixxxerSA
-        slug: sd27_lb_fixxxersa_vs_shinnok
+      - result: Satoshi def. FixxxerSA
+        slug: sd27_lb_fixxxersa_vs_satoshi
       - result: hades def. Tengrichan
         slug: sd27_lb_hades_vs_tengrichan
       - result: Galaxy def. Fear
         slug: sd27_lb_fear_vs_galaxy
-    - - result: Shinnok def. Zarah
-        slug: sd27_lb_shinnok_vs_zarah
+    - - result: Satoshi def. Zarah
+        slug: sd27_lb_satoshi_vs_zarah
       - result: hades def. Galaxy
         slug: sd27_lb_galaxy_vs_hades
     - - result: Honzik1 def. hades
         slug: sd27_lb_hades_vs_honzik1
-      - result: starch def. Shinnok
-        slug: sd27_lb_shinnok_vs_starch
+      - result: starch def. Satoshi
+        slug: sd27_lb_satoshi_vs_starch
     - - result: starch def. Honzik1
         slug: sd27_lb_honzik1_vs_starch
     - - result: Achille def. starch

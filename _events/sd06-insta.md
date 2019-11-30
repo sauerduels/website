@@ -17,26 +17,26 @@ finals:
       slug: sd06_final_frosty_vs_honzik1_game2
 groups:
   a:
-    - - result: Frosty def. Phönix
-        slug: sd06_frosty_vs_phonix
+    - - result: Frosty def. kinnyi
+        slug: sd06_frosty_vs_kinnyi
       - result: hades def. Headway
         slug: sd06_hades_vs_headway
-    - - result: hades def. Phönix
-        slug: sd06_hades_vs_phonix
+    - - result: hades def. kinnyi
+        slug: sd06_hades_vs_kinnyi
       - result: Frosty def. Gangler
         slug: sd06_frosty_vs_gangler
     - - result: Gangler def. hades
         slug: sd06_gangler_vs_hades
-      - result: Headway def. Phönix
-        slug: sd06_headway_vs_phonix
+      - result: Headway def. kinnyi
+        slug: sd06_headway_vs_kinnyi
     - - result: Gangler def. Headway
         slug: sd06_gangler_vs_headway
       - result: Frosty def. hades
         slug:
     - - result: Frosty def. Headway
         slug: sd06_frosty_vs_headway
-      - result: Gangler def. Phönix
-        slug: sd06_gangler_vs_phonix
+      - result: Gangler def. kinnyi
+        slug: sd06_gangler_vs_kinnyi
   b:
     - - result: fatmonkeygenius def. Rudi
         slug: 
