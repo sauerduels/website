@@ -67,7 +67,7 @@ Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ",
   <h3>{{ bracket[0]}} Bracket:</h3>
   {% for round in bracket[1] %}
   {% assign roundLen = round | size %}
-    <table style="text-align: center; border-top: solid 5px #dfe2e5;">
+    <table style="text-align: center; border-top: solid 5px #4a4a4a;">
       <tbody>
         <tr>
           <td style="font-weight: bold;" width="10%" rowspan="{{ roundLen | plus: 1 | divided_by: 2 }}">Round {{ forloop.index }}</td>

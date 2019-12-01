@@ -13,7 +13,7 @@ All events will use a traditional double elimination format. This means that the
 
 For map selection, five maps will be randomly selected from the pool, then each player will veto two maps, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
 
-<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+<table style="text-align: center; border-top: solid 5px #4a4a4a;">
   <tbody>
     <tr>
       <th>Efficiency</th>
@@ -28,7 +28,7 @@ For map selection, five maps will be randomly selected from the pool, then each 
   </tbody>
 </table>
 
-<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+<table style="text-align: center; border-top: solid 5px #4a4a4a;">
   <tbody>
     <tr>
       <th>FFA</th>
@@ -43,7 +43,7 @@ For map selection, five maps will be randomly selected from the pool, then each 
   </tbody>
 </table>
 
-<table style="text-align: center; border-top: solid 5px #dfe2e5;">
+<table style="text-align: center; border-top: solid 5px #4a4a4a;">
   <tbody>
     <tr>
       <th>Instagib</th>

@@ -83,6 +83,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  color: $brand-color;
 }
 
 
@@ -94,13 +95,9 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: #ffeb9b;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
@@ -139,7 +136,6 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #f4f4f4;
 }
 
 code {
