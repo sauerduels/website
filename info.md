@@ -5,18 +5,16 @@ permalink: /info/
 index: 1
 ---
 
-## Format
-
-All events will use a traditional double elimination format. This means that the participants will be seeded in a bracket based on ELO, and play through the bracket until they are eliminated. All matches with the exception of the finals will be a best of 1. The finals will be a best of 3. You can look at some example tournament brackets [here](https://sauerduels.challonge.com/).
-
-## Maps
-
-For map selection, five maps will be randomly selected from the pool, then each player will veto two maps, and the map remaining will be played. The weaker seeded player will always veto first. For the finals, each player will pick one map, and if necessary, the player who went undefeated in the bracket will get the final pick.
+## Duel
+Double elimination bracket seeded by ELO. All matches are a best of 1 except the finals, which are a best of 3.
+<br>
+<br>
+Five maps will be randomly selected from the pool, each player will veto two maps, and the map remaining will be played. The weaker seeded player will always vetoes first. For the finals, each player will pick one map. If necessary, the player that went undefeated in the bracket will get the final pick.
 
 <table style="text-align: center; border-top: solid 5px #4a4a4a;">
   <tbody>
     <tr>
-      <th>Efficiency</th>
+      <th>Effic</th>
       <td>aard3c</td>
       <td>academy</td>
       <td>frozen</td>
@@ -25,11 +23,6 @@ For map selection, five maps will be randomly selected from the pool, then each 
       <td>simplicity</td>
       <td>turbine</td>
     </tr>
-  </tbody>
-</table>
-
-<table style="text-align: center; border-top: solid 5px #4a4a4a;">
-  <tbody>
     <tr>
       <th>FFA</th>
       <td>corruption</td>
@@ -40,13 +33,8 @@ For map selection, five maps will be randomly selected from the pool, then each 
       <td>paradigm</td>
       <td>tumwalk</td>
     </tr>
-  </tbody>
-</table>
-
-<table style="text-align: center; border-top: solid 5px #4a4a4a;">
-  <tbody>
     <tr>
-      <th>Instagib</th>
+      <th>Insta</th>
       <td>complex</td>
       <td>duel7</td>
       <td>douze</td>
@@ -58,10 +46,46 @@ For map selection, five maps will be randomly selected from the pool, then each 
   </tbody>
 </table>
 
-## Servers
+## CTF
+Double elimination bracket seeded by ELO. All matches are a best of 3.
+<br>
+<br>
+Five maps will be randomly selected from the pool, each player will veto two maps, and the map remaining will be played. The weaker seeded player will always vetoes first. For the finals, each player will pick one map. If necessary, the player that went undefeated in the bracket will get the final pick.
 
-We will be hosting multiple servers located in Europe and/or North America for all of our events.
-
+<table style="text-align: center; border-top: solid 5px #4a4a4a;">
+  <tbody>
+    <tr>
+      <th>eCTF</th>
+      <td>abbey</td>
+      <td>catch22</td>
+      <td>forge</td>
+      <td>haste</td>
+      <td>redemption</td>
+      <td>reissen</td>
+      <td>twinforts</td>
+    </tr>
+    <tr>
+      <th>CTF</th>
+      <td>damnation</td>
+      <td>forge</td>
+      <td>mercury</td>
+      <td>redemption</td>
+      <td>reissen</td>
+      <td>siberia</td>
+      <td>turbulence</td>
+    </tr>
+    <tr>
+      <th>iCTF</th>
+      <td>abbey</td>
+      <td>arbana</td>
+      <td>forge</td>
+      <td>haste</td>
+      <td>redemption</td>
+      <td>reissen</td>
+      <td>twinforts</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Cheating
 
