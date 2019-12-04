@@ -7,7 +7,7 @@ Title: <strong>SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.ti
   {% when '3' or '23' %}{% assign ord = "rd" %}
   {% else %}{% assign ord = "th" %}
 {% endcase %}
-Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: ", %-I:%M %p (%Z)" }}</strong><br />
+Date: <strong>{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: " %Y, %-I:%M %p (%Z)" }}</strong><br />
 {% if event.bracketurl %}
   Bracket: <a href="{{ event.bracketurl }}" target="_blank">{{ event.bracketurl }}</a><br />
 {% endif %}
