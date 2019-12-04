@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 27
-date: '2019-03-17 18:00:00 +01:00'
+date: "2019-03-17 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd27insta
 completed: true
 podium:
@@ -11,12 +11,14 @@ podium:
 finals:
   result: Achille def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: 1989 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Redon def. Fear
         slug: sd27_wb_fear_vs_redon
       - result: Honzik1 def. Tengrichan
@@ -32,7 +34,8 @@ brackets:
       - result: Galaxy def. Zarah
         slug: sd27_wb_galaxy_vs_zarah
     - - result: Redon def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Honzik1 def. Satoshi
         slug: sd27_wb_honzik1_vs_satoshi
       - result: Achille def. hades
@@ -40,11 +43,13 @@ brackets:
       - result: starch def. Galaxy
         slug: sd27_wb_galaxy_vs_starch
     - - result: Honzik1 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Achille def. starch
         slug: sd27_wb_achille_vs_starch
     - - result: Achille def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: Fear def. 1989

@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 25
-date: '2019-01-27 18:00:00 +01:00'
+date: "2019-01-27 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd25effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: starch def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: starch def. ZCrone
@@ -24,7 +25,8 @@ brackets:
       - result: Lokio def. Tamin0
         slug: sd25_wb_lokio_vs_tamin0
       - result: Master def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Alli def. Galaxy
         slug: sd25_wb_alli_vs_galaxy
       - result: lagout def. FixxxerSA
@@ -36,15 +38,18 @@ brackets:
       - result: Honzik1 def. Lokio
         slug: sd25_wb_honzik1_vs_lokio
       - result: Alli def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. hades
         slug: sd25_wb_hades_vs_lagout
     - - result: starch def. Honzik1
         slug: sd25_wb_honzik1_vs_starch
       - result: lagout def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: starch def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: ZCrone def. Liugam
@@ -74,5 +79,6 @@ brackets:
     - - result: hades def. lagout
         slug: sd25_lb_hades_vs_lagout
     - - result: hades def. raffael
-        slug: 
+        slug:
+        disqualified: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 33
-date: '2019-10-20 18:00:00 +02:00'
+date: "2019-10-20 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd33insta
 signupurl: https://sauerduels.challonge.com/tournaments/signup/UzeXiLLQ8p
 completed: true
@@ -12,8 +12,9 @@ podium:
 finals:
   result: Gangler def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: Fatality def. AriKani
@@ -41,7 +42,8 @@ brackets:
       - result: TheLove def. Master
         slug: sd33_wb_master_vs_thelove
     - - result: Fatality def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Redon def. Galaxy
         slug: sd33_wb_galaxy_vs_redon
       - result: starch def. Tengrichan
@@ -57,7 +59,8 @@ brackets:
       - result: Satoshi def. TheLove
         slug: sd33_wb_satoshi_vs_thelove
     - - result: Redon def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. Honzik1
         slug: sd33_wb_honzik1_vs_starch
       - result: Gangler def. Krakovic
@@ -65,11 +68,12 @@ brackets:
       - result: Achille def. Satoshi
         slug: sd33_wb_achille_vs_satoshi
     - - result: starch def. raffael
-        slug: 
+        slug:
       - result: Achille def. Gangler
         slug: sd33_wb_achille_vs_gangler
     - - result: Achille def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: DarkFire def. ZCrone
@@ -81,7 +85,8 @@ brackets:
       - result: Master def. FixxxerSA
         slug: sd33_lb_fixxxersa_vs_master
     - - result: Fatality def. Master
-        slug: 
+        slug:
+        disqualified: true
       - result: Galaxy def. secrets
         slug: sd33_lb_galaxy_vs_secrets
       - result: Tengrichan def. Tamin0

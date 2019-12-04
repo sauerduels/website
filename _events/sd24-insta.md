@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 24
-date: '2019-01-06 18:00:00 +01:00'
+date: "2019-01-06 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd24insta
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Achille def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: Bertolt_Brecht def. Zarah
@@ -32,7 +33,8 @@ brackets:
       - result: Fear def. razvan
         slug: sd24_wb_fear_vs_razvan
       - result: Bertolt_Brecht def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Satoshi def. sensless
         slug: sd24_wb_satoshi_vs_sensless
       - result: Achille def. ZCrone
@@ -40,7 +42,8 @@ brackets:
       - result: lagout def. Tengrichan
         slug: sd24_wb_lagout_vs_tengrichan
     - - result: Tamin0 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Galaxy def. Satoshi
         slug: sd24_wb_galaxy_vs_satoshi
       - result: Achille def. Krakovic
@@ -48,11 +51,13 @@ brackets:
       - result: Fear def. lagout
         slug: sd24_wb_fear_vs_lagout
     - - result: Galaxy def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Achille def. Fear
         slug: sd24_wb_achille_vs_fear
     - - result: Achille def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: swatllama def. KenhSix
@@ -86,7 +91,7 @@ brackets:
     - - result: Frosty def. Galaxy
         slug: sd24_lb_frosty_vs_galaxy
       - result: Satoshi def. Fear
-        slug: 
+        slug:
     - - result: Frosty def. Satoshi
         slug: sd24_lb_frosty_vs_satoshi
     - - result: Achille def. Frosty

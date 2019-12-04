@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 19
-date: '2018-08-19 18:00:00 +02:00'
+date: "2018-08-19 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd19effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Rexus def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 consolation:
   - result: notas def. Gangler
     games:
@@ -25,8 +26,9 @@ semis:
         slug: sd19_semifinal_notas_vs_rexus_game1
   - result: Gangler def. raffael
     games:
-      - title: 
-        slug: 
+      - title:
+        slug:
+        disqualified: true
 groups:
   a:
     - - result: Alluro def. Mod
@@ -53,13 +55,16 @@ groups:
     - - result: notas def. Toph
         slug: sd19_notas_vs_toph
       - result: Jawer def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: notas def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Jawer def. Toph
         slug: sd19_jawer_vs_toph
     - - result: notas def. Jawer
         slug: sd19_jawer_vs_notas
       - result: Toph def. raffael
-        slug: 
+        slug:
+        disqualified: true
 ---

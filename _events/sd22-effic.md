@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 22
-date: '2018-11-11 18:00:00 +01:00'
+date: "2018-11-11 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd22effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: hades def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: skimmet def. FixxxerSA
@@ -42,7 +43,8 @@ brackets:
       - result: Ren4rd def. Zarah
         slug: sd22_wb_ren4rd_vs_zarah
     - - result: skimmet def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Redon def. shuzo
         slug: sd22_wb_redon_vs_shuzo
       - result: Lokio def. Skillz
@@ -58,7 +60,8 @@ brackets:
       - result: Frosty def. Ren4rd
         slug: sd22_wb_frosty_vs_ren4rd
     - - result: Redon def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. Partizan
         slug: sd22_wb_lokio_vs_partizan
       - result: hades def. Rexus
@@ -66,11 +69,13 @@ brackets:
       - result: lagout def. Frosty
         slug: sd22_wb_frosty_vs_lagout
     - - result: Lokio def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. lagout
         slug: sd22_wb_hades_vs_lagout
     - - result: hades def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: Origin def. __FRY__

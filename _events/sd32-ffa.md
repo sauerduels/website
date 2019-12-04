@@ -1,7 +1,7 @@
 ---
 title: FFA 1v1
 index: 32
-date: '2019-10-06 18:00:00 +02:00'
+date: "2019-10-06 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd32ffa
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Lokio def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: Bertolt_Brecht def. FixxxerSA
@@ -22,7 +23,8 @@ brackets:
     - - result: starch def. Plata
         slug: sd32_wb_plata_vs_starch
       - result: Galaxy def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Redon def. Bertolt_Brecht
         slug: sd32_wb_bertolt_brecht_vs_redon
       - result: Lokio def. Tay|Z
@@ -30,9 +32,11 @@ brackets:
     - - result: Redon def. starch
         slug: sd32_wb_redon_vs_starch
       - result: Lokio def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Redon def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: Plata def. ZCrone

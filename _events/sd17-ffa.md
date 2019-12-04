@@ -1,7 +1,7 @@
 ---
 title: FFA 1v1
 index: 17
-date: '2018-07-01 18:00:00 +02:00'
+date: "2018-07-01 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd17ffa
 completed: true
 podium:
@@ -67,19 +67,23 @@ groups:
     - - result: Lokio def. h8
         slug: sd17_h8_vs_lokio
       - result: swatllama def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: h8 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: notas def. Lokio
         slug: sd17_lokio_vs_notas
     - - result: notas def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: swatllama def. h8
         slug: sd17_h8_vs_swatllama
     - - result: notas def. swatllama
         slug: sd17_notas_vs_swatllama
       - result: Lokio def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: swatllama def. Lokio
         slug: sd17_lokio_vs_swatllama
       - result: notas def. h8

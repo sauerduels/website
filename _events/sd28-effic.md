@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 28
-date: '2019-07-14 18:00:00 +02:00'
+date: "2019-07-14 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd28effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Rexus def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: ZCrone def. kinnyi
@@ -32,7 +33,8 @@ brackets:
       - result: Lokio def. degrave
         slug: sd28_wb_degrave_vs_lokio
       - result: ZCrone def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Frosty def. Galaxy
         slug: sd28_wb_frosty_vs_galaxy
       - result: notas def. Plata
@@ -42,19 +44,22 @@ brackets:
       - result: lagout def. Khornettoh
         slug: sd28_wb_khornettoh_vs_lagout
     - - result: Redon def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Frosty def. notas
         slug: sd28_wb_frosty_vs_notas
       - result: Rexus def. Fear
-        slug: 
+        slug:
       - result: lagout def. Lokio
         slug: sd28_wb_lagout_vs_lokio
     - - result: Frosty def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Rexus def. lagout
         slug: sd28_wb_lagout_vs_rexus
     - - result: Rexus def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: FixxxerSA def. Eleisa
@@ -80,7 +85,7 @@ brackets:
       - result: notas def. degrave
         slug: sd28_lb_degrave_vs_notas
       - result: ZCrone def. Fear
-        slug: 
+        slug:
       - result: Galaxy def. Lokio
         slug: sd28_lb_galaxy_vs_lokio
     - - result: Redon def. notas

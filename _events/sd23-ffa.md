@@ -1,7 +1,7 @@
 ---
 title: FFA 1v1
 index: 23
-date: '2018-11-18 18:00:00 +01:00'
+date: "2018-11-18 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd23ffa
 completed: true
 podium:
@@ -20,7 +20,8 @@ brackets:
     - - result: Krakovic def. Master
         slug: sd23_wb_krakovic_vs_master
       - result: Toph def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: h8 def. Tamin0
         slug: sd23_wb_h8_vs_tamin0
       - result: benzomatic def. Bertolt_Brecht
@@ -32,7 +33,8 @@ brackets:
     - - result: Redon def. Krakovic
         slug: sd23_wb_krakovic_vs_redon
       - result: h8 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. benzomatic
         slug: sd23_wb_benzomatic_vs_lokio
       - result: Honzik1 def. Rotti
@@ -52,19 +54,22 @@ brackets:
     - - result: Skillz def. Krakovic
         slug: sd23_lb_krakovic_vs_skillz
       - result: Bertolt_Brecht def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: benzomatic def. Toph
         slug: sd23_lb_benzomatic_vs_toph
       - result: Rotti def. Master
         slug: sd23_lb_master_vs_rotti
     - - result: Skillz def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: benzomatic def. Rotti
         slug: sd23_lb_benzomatic_vs_rotti
     - - result: h8 def. benzomatic
         slug: sd23_lb_benzomatic_vs_h8
       - result: Honzik1 def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Honzik1 def. h8
         slug: sd23_lb_honzik1_vs_h8
     - - result: Honzik1 def. Lokio

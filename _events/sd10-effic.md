@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 10
-date: '2018-02-18 18:00:00 +01:00'
+date: "2018-02-18 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd10effic
 completed: true
 podium:
@@ -20,8 +20,9 @@ finals:
 semis:
   - result: Rexus def. raffael
     games:
-      - title: 
-        slug: 
+      - title:
+        slug:
+        disqualified: true
   - result: lagout def. Partizan
     games:
       - title: ot 80:63
@@ -55,18 +56,20 @@ groups:
     - - result: Partizan def. Friteq
         slug: sd10_friteq_vs_partizan
       - result: Rexus def. bug
-        slug: 
+        slug:
       - result: Honzik1 def. Redon
         slug: sd09_honzik1_vs_redon
   b:
     - - result: Toph def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Morry def. hamon
         slug: sd10_hamon_vs_morry
     - - result: Toph def. Morry
         slug: sd10_morry_vs_toph
       - result: lagout def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: lagout def. Morry
         slug: sd10_lagout_vs_morry
       - result: Toph def. hamon
@@ -74,9 +77,11 @@ groups:
     - - result: lagout def. hamon
         slug: sd10_hamon_vs_lagout
       - result: Morry def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: hamon def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. Toph
         slug: sd10_lagout_vs_toph
 ---

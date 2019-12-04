@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 31
-date: '2019-09-01 18:00:00 +02:00'
+date: "2019-09-01 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd31effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: starch def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: DarkFire def. Lexar
@@ -36,7 +37,8 @@ brackets:
       - result: ZCrone def. MintyCMS
         slug: sd31_wb_mintycms_vs_zcrone
     - - result: DarkFire def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: 1989 def. FixxxerSA
         slug: sd31_wb_1989_vs_fixxxersa
       - result: hades def. Tamin0
@@ -52,7 +54,8 @@ brackets:
       - result: Galaxy def. ZCrone
         slug: sd31_wb_galaxy_vs_zcrone
     - - result: 1989 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. Lokio
         slug: sd31_wb_hades_vs_lokio
       - result: starch def. Satoshi
@@ -60,11 +63,13 @@ brackets:
       - result: Rexus def. Galaxy
         slug: sd31_wb_galaxy_vs_rexus
     - - result: hades def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. Rexus
         slug: sd31_wb_rexus_vs_starch
     - - result: starch def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: Bertolt_Brecht def. Fatality
@@ -72,7 +77,7 @@ brackets:
       - result: Mod def. DarkWolf
         slug: sd31_lb_darkwolf_vs_mod
     - - result: DarkFire def. MintyCMS
-        slug: 
+        slug:
       - result: Ren4rd def. FixxxerSA
         slug: sd31_lb_fixxxersa_vs_ren4rd
       - result: Tamin0 def. Mod
@@ -82,7 +87,7 @@ brackets:
       - result: TheLove def. Kotzikacki
         slug: sd31_lb_kotzikacki_vs_thelove
       - result: hamon def. Apikk
-        slug: 
+        slug:
       - result: secrets def. Bertolt_Brecht
         slug: sd31_lb_bertolt_brecht_vs_secrets
       - result: Lexar def. ZCrone

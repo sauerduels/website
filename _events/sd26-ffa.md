@@ -1,7 +1,7 @@
 ---
 title: FFA 1v1
 index: 26
-date: '2019-03-03 18:00:00 +01:00'
+date: "2019-03-03 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd26ffa
 completed: true
 podium:
@@ -20,7 +20,8 @@ brackets:
     - - result: Tay|Z def. Daemes
         slug: sd26_wb_daemes_vs_tay|z
       - result: ZCrone def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Bertolt_Brecht def. FixxxerSA
         slug: sd26_wb_bertolt_brecht_vs_fixxxersa
       - result: Frosty def. Master
@@ -28,7 +29,8 @@ brackets:
     - - result: Redon def. Tay|Z
         slug: sd26_wb_redon_vs_tay|z
       - result: Honzik1 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: notas def. Bertolt_Brecht
         slug: sd26_wb_bertolt_brecht_vs_notas
       - result: Lokio def. Frosty
@@ -44,19 +46,22 @@ brackets:
     - - result: Tay|Z def. Master
         slug: sd26_lb_master_vs_tay|z
       - result: FixxxerSA def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Bertolt_Brecht def. ZCrone
-        slug: 
+        slug:
       - result: Frosty def. Daemes
         slug: sd26_lb_daemes_vs_frosty
     - - result: Tay|Z def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Frosty def. Bertolt_Brecht
         slug: sd26_lb_bertolt_brecht_vs_frosty
     - - result: Frosty def. Honzik1
         slug: sd26_lb_frosty_vs_honzik1
       - result: Lokio def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Lokio def. Frosty
         slug: sd26_lb_frosty_vs_lokio
     - - result: notas def. Lokio

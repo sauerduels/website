@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 18
-date: '2018-07-22 18:00:00 +02:00'
+date: "2018-07-22 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd18insta
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Achille def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 consolation:
   - result: Partizan def. Honzik1
     games:
@@ -21,8 +22,9 @@ consolation:
 semis:
   - result: Partizan def. raffael
     games:
-      - title: 
-        slug: 
+      - title:
+        slug:
+        disqualified: true
   - result: Achille def. Honzik1
     games:
       - title: turbine 146:141
@@ -38,9 +40,11 @@ groups:
       - result: Achille def. Fear
         slug: sd18_achille_vs_fear
       - result: A!M def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Achille def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: A!M def. NoobGuy
         slug: sd18_a!m_vs_noobguy
       - result: Fear def. fishcakes
@@ -48,7 +52,8 @@ groups:
       - result: starch def. fatmonkeygenius
         slug: sd18_fatmonkeygenius_vs_starch
     - - result: fishcakes def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. Fear
         slug: sd18_fear_vs_starch
       - result: fatmonkeygenius def. NoobGuy
@@ -60,13 +65,15 @@ groups:
       - result: A!M def. fishcakes
         slug: sd18_a!m_vs_fishcakes
       - result: starch def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Achille def. NoobGuy
         slug: sd18_achille_vs_noobguy
     - - result: Achille def. fishcakes
         slug: sd18_achille_vs_fishcakes
       - result: fatmonkeygenius def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. A!M
         slug: sd18_a!m_vs_starch
       - result: Fear def. NoobGuy
@@ -78,11 +85,13 @@ groups:
       - result: NoobGuy def. fishcakes
         slug: sd18_fishcakes_vs_noobguy
       - result: Fear def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Fear def. A!M
         slug: sd18_a!m_vs_fear
       - result: NoobGuy def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Achille def. fatmonkeygenius
         slug: sd18_achille_vs_fatmonkeygenius
       - result: starch def. fishcakes

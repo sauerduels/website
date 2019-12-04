@@ -1,7 +1,7 @@
 ---
 title: FFA 1v1
 index: 29
-date: '2019-07-21 18:00:00 +02:00'
+date: "2019-07-21 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd29ffa
 completed: true
 podium:
@@ -28,7 +28,8 @@ brackets:
     - - result: Gangler def. Bertolt_Brecht
         slug: sd29_wb_bertolt_brecht_vs_gangler
       - result: Tamin0 def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: h8 def. Bear's
         slug: sd29_wb_bear's_vs_h8
     - - result: Lokio def. Rotti
@@ -38,11 +39,13 @@ brackets:
       - result: Frosty def. Gangler
         slug: sd29_wb_frosty_vs_gangler
       - result: h8 def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Lokio def. Master
         slug: sd29_wb_lokio_vs_master
       - result: Frosty def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Lokio def. Frosty
         slug: sd29_wb_frosty_vs_lokio
 
@@ -66,9 +69,11 @@ brackets:
     - - result: h8 def. Master
         slug: sd29_lb_h8_vs_master
       - result: Galaxy def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: h8 def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Frosty def. h8
-        slug: 
+        slug:
 ---

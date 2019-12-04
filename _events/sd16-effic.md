@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 16
-date: '2018-06-17 18:00:00 +02:00'
+date: "2018-06-17 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd16effic
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: Partizan def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 groups:
   a:
     - - result: starch def. ZCrone
@@ -64,18 +65,20 @@ groups:
       - result: notas def. shuzo
         slug: sd16_notas_vs_shuzo
     - - result: notas def. Ren4rd
-        slug: 
+        slug:
+        disqualified: true
       - result: ZCrone def. shuzo
         slug: sd16_shuzo_vs_zcrone
       - result: Partizan def. Frosty
         slug: sd16_frosty_vs_partizan
       - result: starch def. Atheroz
-        slug: 
+        slug:
   b:
     - - result: Lokio def. Friteq
         slug: sd16_friteq_vs_lokio
       - result: __FRY__ def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. Jawer
         slug: sd16_hades_vs_jawer
       - result: Satoshi def. Jason
@@ -87,45 +90,51 @@ groups:
       - result: hades def. __FRY__
         slug: sd16___fry___vs_hades
       - result: Lokio def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: __FRY__ def. Jason
         slug: sd16___fry___vs_jason
       - result: hades def. Lokio
         slug: sd16_hades_vs_lokio
       - result: Friteq def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Satoshi def. Jawer
         slug: sd16_jawer_vs_satoshi
     - - result: hades def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Satoshi def. __FRY__
         slug: sd16___fry___vs_satoshi
       - result: Lokio def. Jason
         slug: sd16_jason_vs_lokio
       - result: Jawer def. Friteq
-        slug: 
+        slug:
     - - result: Jawer def. __FRY__
         slug: sd16___fry___vs_jawer
       - result: Jason def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. Satoshi
         slug: sd16_lokio_vs_satoshi
       - result: hades def. Friteq
-        slug: 
+        slug:
     - - result: Satoshi def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. Jawer
         slug: sd16_jawer_vs_lokio
       - result: __FRY__ def. Friteq
-        slug: 
+        slug:
       - result: hades def. Jason
-        slug: 
+        slug:
     - - result: hades def. Satoshi
         slug: sd16_hades_vs_satoshi
       - result: Jason def. Friteq
-        slug: 
+        slug:
       - result: Jawer def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. __FRY__
         slug: sd16___fry___vs_lokio
 ---

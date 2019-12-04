@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 30
-date: '2019-08-18 18:00:00 +02:00'
+date: "2019-08-18 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd30insta
 completed: true
 podium:
@@ -11,8 +11,9 @@ podium:
 finals:
   result: starch def. raffael
   games:
-    - title: 
-      slug: 
+    - title:
+      slug:
+      disqualified: true
 brackets:
   Winners:
     - - result: Cedii* def. Eleisa
@@ -46,7 +47,8 @@ brackets:
       - result: Krakovic def. Plata
         slug: sd30_wb_krakovic_vs_plata
     - - result: Cedii* def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. Alluro
         slug: sd30_wb_alluro_vs_hades
       - result: Frosty def. obi_de
@@ -62,7 +64,8 @@ brackets:
       - result: Krakovic def. Satoshi
         slug: sd30_wb_krakovic_vs_satoshi
     - - result: hades def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Frosty def. notas
         slug: sd30_wb_frosty_vs_notas
       - result: starch def. Tengrichan
@@ -70,11 +73,13 @@ brackets:
       - result: Rexus def. Krakovic
         slug: sd30_wb_krakovic_vs_rexus
     - - result: Frosty def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. Rexus
         slug: sd30_wb_rexus_vs_starch
     - - result: starch def. raffael
-        slug: 
+        slug:
+        disqualified: true
 
   Losers:
     - - result: Headway def. Calinou
@@ -92,7 +97,7 @@ brackets:
       - result: Plata def. Bertolt_Brecht
         slug: sd30_lb_bertolt_brecht_vs_plata
     - - result: Plata def. Cedii*
-        slug: 
+        slug:
       - result: Alluro def. Ren4rd
         slug: sd30_lb_alluro_vs_ren4rd
       - result: fatmonkeygenius def. obi_de

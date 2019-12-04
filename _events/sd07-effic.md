@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 7
-date: '2018-01-14 18:00:00 +01:00'
+date: "2018-01-14 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd07effic
 completed: true
 podium:
@@ -67,15 +67,18 @@ groups:
       - result: lagout def. Morry
         slug: sd07_lagout_vs_morry
       - result: bug def. raffael
-        slug: 
+        slug:
+        disqualified: true
     - - result: Morry def. bug
         slug: sd07_bug_vs_morry
       - result: Harsh def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. Rexus
         slug: sd07_lagout_vs_rexus
     - - result: Morry def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Rexus def. bug
         slug: sd07_bug_vs_rexus
       - result: lagout def. Harsh
@@ -83,11 +86,13 @@ groups:
     - - result: lagout def. bug
         slug: sd07_bug_vs_lagout
       - result: Rexus def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: Morry def. Harsh
         slug: sd07_harsh_vs_morry
     - - result: lagout def. raffael
-        slug: 
+        slug:
+        disqualified: true
       - result: bug def. Harsh
         slug: sd07_bug_vs_harsh
       - result: Rexus def. Morry
