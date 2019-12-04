@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 4
-date: '2017-11-26 18:00:00 +01:00'
+date: "2017-11-26 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd04effic
 completed: true
 podium:
@@ -56,7 +56,7 @@ groups:
       - result: Alluro def. KenhSix
         slug: sd04_alluro_vs_kenhsix
       - result: Rexus def. ZCrone
-        slug: 
+        slug:
     - - result: starch def. KenhSix
         slug: sd04_kenhsix_vs_starch
       - result: Alluro def. greenadiss
@@ -75,7 +75,8 @@ groups:
         slug: sd04_alluro_vs_benkei
   b:
     - - result: Gangler def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: Toph def. Khornettoh
         slug: sd04_khornettoh_vs_toph
       - result: hades def. lagout
@@ -85,7 +86,8 @@ groups:
     - - result: hades def. Josh22
         slug: sd04_hades_vs_josh22
       - result: Honzik1 def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. Khornettoh
         slug: sd04_khornettoh_vs_lagout
       - result: Gangler def. Toph
@@ -95,7 +97,8 @@ groups:
       - result: lagout def. Gangler
         slug: sd04_gangler_vs_lagout
       - result: Toph def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. Honzik1
         slug: sd04_hades_vs_honzik1
     - - result: lagout def. Toph
@@ -105,30 +108,33 @@ groups:
       - result: Gangler def. Josh22
         slug: sd04_gangler_vs_josh22
       - result: hades def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: hades def. Khornettoh
-        slug: 
+        slug:
       - result: Toph def. Josh22
         slug: sd04_josh22_vs_toph
       - result: Honzik1 def. Gangler
         slug: sd04_gangler_vs_honzik1
       - result: lagout def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: Honzik1 def. Toph
         slug: sd04_honzik1_vs_toph
       - result: hades def. Gangler
         slug: sd04_gangler_vs_hades
       - result: Khornettoh def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. Josh22
         slug: sd04_josh22_vs_lagout
     - - result: lagout def. Honzik1
         slug: sd04_honzik1_vs_lagout
       - result: Josh22 def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. Toph
         slug: sd04_hades_vs_toph
       - result: Gangler def. Khornettoh
-        slug: 
-
+        slug:
 ---

@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 1
-date: '2017-10-15 18:00:00 +02:00'
+date: "2017-10-15 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd01effic
 completed: true
 podium:
@@ -36,13 +36,13 @@ groups:
       - result: Partizan def. ZCrone
         slug: sd01_partizan_vs_zcrone
     - - result: h8 def. ZCrone
-        slug: 
+        slug:
       - result: Alluro def. Khornettoh
         slug: sd01_alluro_vs_khornettoh
       - result: Partizan def. bug
         slug: sd01_bug_vs_partizan
     - - result: Khornettoh def. ZCrone
-        slug: 
+        slug:
       - result: Partizan def. h8
         slug: sd01_h8_vs_partizan
       - result: Alluro def. bug
@@ -51,17 +51,20 @@ groups:
     - - result: Lokio def. Gangler
         slug: sd01_gangler_vs_lokio
       - result: Fear def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: DarkFire def. Tamin0
         slug: sd01_darkfire_vs_tamin0
     - - result: DarkFire def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: Gangler def. Tamin0
         slug: sd01_gangler_vs_tamin0
       - result: Lokio def. Fear
         slug: sd01_fear_vs_lokio
     - - result: Tamin0 def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: Lokio def. DarkFire
         slug: sd01_darkfire_vs_lokio
       - result: Gangler def. Fear
@@ -71,11 +74,13 @@ groups:
       - result: Lokio def. Tamin0
         slug: sd01_lokio_vs_tamin0
       - result: Gangler def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: Fear def. Tamin0
         slug: sd01_fear_vs_tamin0
       - result: Gangler def. DarkFire
         slug: sd01_darkfire_vs_gangler
       - result: Lokio def. Rudi
-        slug: 
+        slug:
+        disqualified: true
 ---

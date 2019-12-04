@@ -1,7 +1,7 @@
 ---
 title: Insta 1v1
 index: 3
-date: '2017-11-12 18:00:00 +01:00'
+date: "2017-11-12 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd03insta
 completed: true
 podium:
@@ -51,12 +51,13 @@ groups:
     - - result: DarkFire def. Alluro
         slug: sd03_alluro_vs_darkfire
       - result: Headway def. Lokio
-        slug: 
+        slug:
       - result: Partizan def. NoobGuy
         slug: sd03_noobguy_vs_partizan
   b:
     - - result: Toph def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. kinnyi
         slug: sd03_kinnyi_vs_lagout
       - result: Gangler def. Khornettoh
@@ -64,7 +65,8 @@ groups:
     - - result: Gangler def. lagout
         slug: sd03_gangler_vs_lagout
       - result: Khornettoh def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: Toph def. kinnyi
         slug: sd03_kinnyi_vs_toph
     - - result: lagout def. Khornettoh
@@ -72,17 +74,20 @@ groups:
       - result: Gangler def. Toph
         slug: sd03_gangler_vs_toph
       - result: kinnyi def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: Gangler def. kinnyi
         slug: sd03_gangler_vs_kinnyi
       - result: Toph def. Khornettoh
         slug: sd03_khornettoh_vs_toph
       - result: lagout def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: Khornettoh def. kinnyi
         slug: sd03_khornettoh_vs_kinnyi
       - result: Gangler def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: lagout def. Toph
         slug: sd03_lagout_vs_toph
   c:
@@ -103,17 +108,17 @@ groups:
       - result: ZCrone def. Josh22
         slug: sd03_josh22_vs_zcrone
       - result: Bertolt_Brecht def. yggdrasil
-        slug: 
+        slug:
     - - result: Bertolt_Brecht def. Josh22
         slug: sd03_bertolt_brecht_vs_josh22
       - result: Rexus def. ZCrone
         slug: sd03_rexus_vs_zcrone
       - result: Fear def. yggdrasil
-        slug: 
+        slug:
     - - result: Rexus def. Bertolt_Brecht
         slug: sd03_bertolt_brecht_vs_rexus
       - result: Josh22 def. yggdrasil
-        slug: 
+        slug:
       - result: Fear def. ZCrone
         slug: sd03_fear_vs_zcrone
 ---

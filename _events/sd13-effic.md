@@ -1,7 +1,7 @@
 ---
 title: Effic 1v1
 index: 13
-date: '2018-04-08 18:00:00 +02:00'
+date: "2018-04-08 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd13effic
 completed: true
 podium:
@@ -18,25 +18,29 @@ finals:
 groups:
   a:
     - - result: Honzik1 def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: hades def. __FRY__
         slug: sd13___fry___vs_hades
     - - result: hades def. Rudi
-        slug: 
+        slug:
+        disqualified: true
       - result: starch def. Honzik1
         slug: sd13_honzik1_vs_starch
     - - result: starch def. hades
         slug: sd13_hades_vs_starch
       - result: __FRY__ def. Rudi
-        slug: 
+        slug:
+        disqualified: true
     - - result: starch def. __FRY__
         slug: sd13___fry___vs_starch
       - result: Honzik1 def. hades
-        slug: 
+        slug:
     - - result: Honzik1 def. __FRY__
         slug: sd13___fry___vs_honzik1
       - result: starch def. Rudi
-        slug: 
+        slug:
+        disqualified: true
   b:
     - - result: lagout def. Khornettoh
         slug: sd13_khornettoh_vs_lagout
