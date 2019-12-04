@@ -86,16 +86,19 @@ groups:
         slug: sd21_starch_vs_zcrone
       - result: Redon def. DarkFire
         slug:
+        disqualified: true
       - result: Headway def. M!lch-Mann
         slug: sd21_headway_vs_m!lch-mann
     - - result: Redon def. Headway
         slug: sd21_headway_vs_redon
       - result: ZCrone def. DarkFire
         slug:
+        disqualified: true
       - result: Gangler def. starch
         slug: sd21_gangler_vs_starch
     - - result: Gangler def. DarkFire
         slug:
+        disqualified: true
       - result: Headway def. ZCrone
         slug: sd21_headway_vs_zcrone
       - result: M!lch-Mann def. Redon
@@ -106,6 +109,7 @@ groups:
         slug: sd21_gangler_vs_headway
       - result: starch def. DarkFire
         slug:
+        disqualified: true
     - - result: starch def. Headway
         slug: sd21_headway_vs_starch
       - result: Gangler def. M!lch-Mann
@@ -118,8 +122,10 @@ groups:
         slug: sd21_m!lch-mann_vs_starch
       - result: Headway def. DarkFire
         slug:
+        disqualified: true
     - - result: M!lch-Mann def. DarkFire
         slug:
+        disqualified: true
       - result: starch def. Redon
         slug: sd21_redon_vs_starch
       - result: Gangler def. ZCrone
