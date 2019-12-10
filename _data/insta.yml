@@ -2,7 +2,7 @@
 - accuracy: 46%
   chainsaw: 06%
   deaths: 1797
-  elo: 2076
+  elo: 2134
   frags: 2291
   games: 20
   kpd: 1.275
@@ -16,7 +16,7 @@
 - accuracy: 40%
   chainsaw: 12%
   deaths: 2797
-  elo: 1968
+  elo: 2013
   frags: 3565
   games: 38
   kpd: 1.275
@@ -30,7 +30,7 @@
 - accuracy: 41%
   chainsaw: 12%
   deaths: 3319
-  elo: 1899
+  elo: 1930
   frags: 4319
   games: 41
   kpd: 1.301
@@ -44,7 +44,7 @@
 - accuracy: 34%
   chainsaw: 17%
   deaths: 1522
-  elo: 1873
+  elo: 1908
   frags: 1797
   games: 20
   kpd: 1.181
@@ -58,7 +58,7 @@
 - accuracy: 31%
   chainsaw: 05%
   deaths: 1795
-  elo: 1757
+  elo: 1784
   frags: 1989
   games: 28
   kpd: 1.108
@@ -72,7 +72,7 @@
 - accuracy: 41%
   chainsaw: 07%
   deaths: 2730
-  elo: 1747
+  elo: 1765
   frags: 3415
   games: 31
   kpd: 1.251
@@ -86,7 +86,7 @@
 - accuracy: 40%
   chainsaw: 07%
   deaths: 1492
-  elo: 1692
+  elo: 1711
   frags: 1985
   games: 18
   kpd: 1.33
@@ -97,38 +97,38 @@
   suicides: 0
   win_rate: 0.667
   wins: 12
-- accuracy: 28%
-  chainsaw: 06%
-  deaths: 1984
-  elo: 1689
-  frags: 2063
-  games: 34
-  kpd: 1.04
-  losses: 12
-  name: Satoshi
-  rank: 8
-  rifle: 29%
-  suicides: 2
-  win_rate: 0.647
-  wins: 22
 - accuracy: 36%
   chainsaw: 11%
   deaths: 2097
-  elo: 1683
+  elo: 1706
   frags: 2310
   games: 26
   kpd: 1.102
   losses: 10
   name: hades
-  rank: 9
+  rank: 8
   rifle: 36%
   suicides: 2
   win_rate: 0.615
   wins: 16
+- accuracy: 28%
+  chainsaw: 06%
+  deaths: 1984
+  elo: 1704
+  frags: 2063
+  games: 34
+  kpd: 1.04
+  losses: 12
+  name: Satoshi
+  rank: 9
+  rifle: 29%
+  suicides: 2
+  win_rate: 0.647
+  wins: 22
 - accuracy: 36%
   chainsaw: 00%
   deaths: 803
-  elo: 1673
+  elo: 1692
   frags: 896
   games: 11
   kpd: 1.116
@@ -142,7 +142,7 @@
 - accuracy: 33%
   chainsaw: 16%
   deaths: 1000
-  elo: 1663
+  elo: 1679
   frags: 1165
   games: 13
   kpd: 1.165
@@ -156,7 +156,7 @@
 - accuracy: 43%
   chainsaw: 02%
   deaths: 1209
-  elo: 1658
+  elo: 1677
   frags: 1224
   games: 14
   kpd: 1.012
@@ -167,38 +167,38 @@
   suicides: 0
   win_rate: 0.571
   wins: 8
-- accuracy: 35%
-  chainsaw: 21%
-  deaths: 1873
-  elo: 1646
-  frags: 2177
-  games: 24
-  kpd: 1.162
-  losses: 9
-  name: fatmonkeygenius
-  rank: 13
-  rifle: 35%
-  suicides: 2
-  win_rate: 0.625
-  wins: 15
 - accuracy: 37%
   chainsaw: 06%
   deaths: 1454
-  elo: 1643
+  elo: 1662
   frags: 1619
   games: 17
   kpd: 1.113
   losses: 7
   name: Lokio
-  rank: 14
+  rank: 13
   rifle: 37%
   suicides: 0
   win_rate: 0.588
   wins: 10
 - accuracy: 35%
+  chainsaw: 21%
+  deaths: 1873
+  elo: 1658
+  frags: 2177
+  games: 24
+  kpd: 1.162
+  losses: 9
+  name: fatmonkeygenius
+  rank: 14
+  rifle: 35%
+  suicides: 2
+  win_rate: 0.625
+  wins: 15
+- accuracy: 35%
   chainsaw: 35%
   deaths: 1019
-  elo: 1583
+  elo: 1597
   frags: 1077
   games: 14
   kpd: 1.057
@@ -212,7 +212,7 @@
 - accuracy: 35%
   chainsaw: 50%
   deaths: 472
-  elo: 1579
+  elo: 1593
   frags: 392
   games: 6
   kpd: 0.831
@@ -226,7 +226,7 @@
 - accuracy: 37%
   chainsaw: 22%
   deaths: 2000
-  elo: 1566
+  elo: 1570
   frags: 2471
   games: 27
   kpd: 1.236
@@ -240,7 +240,7 @@
 - accuracy: 34%
   chainsaw: 00%
   deaths: 637
-  elo: 1559
+  elo: 1566
   frags: 646
   games: 9
   kpd: 1.014
@@ -254,7 +254,7 @@
 - accuracy: 39%
   chainsaw: 00%
   deaths: 3041
-  elo: 1536
+  elo: 1544
   frags: 2992
   games: 33
   kpd: 0.984
@@ -268,7 +268,7 @@
 - accuracy: 31%
   chainsaw: 03%
   deaths: 197
-  elo: 1523
+  elo: 1527
   frags: 153
   games: 2
   kpd: 0.777
@@ -282,7 +282,7 @@
 - accuracy: 38%
   chainsaw: 11%
   deaths: 488
-  elo: 1519
+  elo: 1516
   frags: 544
   games: 5
   kpd: 1.115
@@ -296,7 +296,7 @@
 - accuracy: 37%
   chainsaw: 17%
   deaths: 807
-  elo: 1513
+  elo: 1508
   frags: 893
   games: 10
   kpd: 1.107
@@ -310,7 +310,7 @@
 - accuracy: 29%
   chainsaw: 05%
   deaths: 546
-  elo: 1513
+  elo: 1508
   frags: 580
   games: 8
   kpd: 1.062
@@ -338,7 +338,7 @@
 - accuracy: 31%
   chainsaw: 00%
   deaths: 1487
-  elo: 1490
+  elo: 1496
   frags: 1314
   games: 18
   kpd: 0.884
@@ -352,7 +352,7 @@
 - accuracy: 35%
   chainsaw: 04%
   deaths: 1111
-  elo: 1487
+  elo: 1486
   frags: 1037
   games: 13
   kpd: 0.933
@@ -366,7 +366,7 @@
 - accuracy: 37%
   chainsaw: 00%
   deaths: 897
-  elo: 1479
+  elo: 1477
   frags: 890
   games: 10
   kpd: 0.992
@@ -380,7 +380,7 @@
 - accuracy: 29%
   chainsaw: 00%
   deaths: 206
-  elo: 1470
+  elo: 1467
   frags: 200
   games: 3
   kpd: 0.971
@@ -394,7 +394,7 @@
 - accuracy: 33%
   chainsaw: 00%
   deaths: 271
-  elo: 1468
+  elo: 1466
   frags: 239
   games: 3
   kpd: 0.882
@@ -408,7 +408,7 @@
 - accuracy: 33%
   chainsaw: 03%
   deaths: 797
-  elo: 1466
+  elo: 1461
   frags: 934
   games: 16
   kpd: 1.172
@@ -422,7 +422,7 @@
 - accuracy: 27%
   chainsaw: 08%
   deaths: 478
-  elo: 1442
+  elo: 1436
   frags: 319
   games: 5
   kpd: 0.667
@@ -436,7 +436,7 @@
 - accuracy: 24%
   chainsaw: 06%
   deaths: 306
-  elo: 1435
+  elo: 1419
   frags: 275
   games: 4
   kpd: 0.899
@@ -450,7 +450,7 @@
 - accuracy: 34%
   chainsaw: 00%
   deaths: 326
-  elo: 1434
+  elo: 1412
   frags: 296
   games: 3
   kpd: 0.908
@@ -464,7 +464,7 @@
 - accuracy: 35%
   chainsaw: 00%
   deaths: 223
-  elo: 1411
+  elo: 1399
   frags: 236
   games: 3
   kpd: 1.058
@@ -478,7 +478,7 @@
 - accuracy: 34%
   chainsaw: 00%
   deaths: 1593
-  elo: 1405
+  elo: 1398
   frags: 1465
   games: 17
   kpd: 0.92
@@ -492,7 +492,7 @@
 - accuracy: 34%
   chainsaw: 14%
   deaths: 741
-  elo: 1402
+  elo: 1396
   frags: 712
   games: 8
   kpd: 0.961
@@ -503,30 +503,16 @@
   suicides: 6
   win_rate: 0.375
   wins: 3
-- accuracy: 28%
-  chainsaw: 06%
-  deaths: 264
-  elo: 1395
-  frags: 191
-  games: 3
-  kpd: 0.723
-  losses: 2
-  name: Kotzikacki
-  rank: 37
-  rifle: 28%
-  suicides: 0
-  win_rate: 0.333
-  wins: 1
 - accuracy: 31%
   chainsaw: 00%
   deaths: 337
-  elo: 1394
+  elo: 1386
   frags: 425
   games: 7
   kpd: 1.261
   losses: 5
   name: Cannibal
-  rank: 38
+  rank: 37
   rifle: 31%
   suicides: 0
   win_rate: 0.286
@@ -534,21 +520,35 @@
 - accuracy: 29%
   chainsaw: 08%
   deaths: 650
-  elo: 1394
+  elo: 1386
   frags: 463
   games: 7
   kpd: 0.712
   losses: 5
   name: Rotti
-  rank: 39
+  rank: 38
   rifle: 29%
   suicides: 0
   win_rate: 0.286
   wins: 2
+- accuracy: 28%
+  chainsaw: 06%
+  deaths: 264
+  elo: 1379
+  frags: 191
+  games: 3
+  kpd: 0.723
+  losses: 2
+  name: Kotzikacki
+  rank: 39
+  rifle: 28%
+  suicides: 0
+  win_rate: 0.333
+  wins: 1
 - accuracy: 37%
   chainsaw: 00%
   deaths: 273
-  elo: 1371
+  elo: 1353
   frags: 293
   games: 3
   kpd: 1.073
@@ -562,7 +562,7 @@
 - accuracy: 31%
   chainsaw: 12%
   deaths: 970
-  elo: 1365
+  elo: 1351
   frags: 830
   games: 11
   kpd: 0.856
@@ -576,7 +576,7 @@
 - accuracy: 26%
   chainsaw: 11%
   deaths: 403
-  elo: 1354
+  elo: 1332
   frags: 288
   games: 4
   kpd: 0.715
@@ -590,7 +590,7 @@
 - accuracy: 26%
   chainsaw: 10%
   deaths: 642
-  elo: 1343
+  elo: 1332
   frags: 450
   games: 9
   kpd: 0.701
@@ -604,7 +604,7 @@
 - accuracy: 29%
   chainsaw: 12%
   deaths: 511
-  elo: 1340
+  elo: 1329
   frags: 384
   games: 6
   kpd: 0.751
@@ -618,7 +618,7 @@
 - accuracy: 29%
   chainsaw: 00%
   deaths: 192
-  elo: 1332
+  elo: 1310
   frags: 169
   games: 2
   kpd: 0.88
@@ -632,7 +632,7 @@
 - accuracy: 27%
   chainsaw: 11%
   deaths: 201
-  elo: 1328
+  elo: 1305
   frags: 160
   games: 2
   kpd: 0.796
@@ -646,7 +646,7 @@
 - accuracy: 30%
   chainsaw: 12%
   deaths: 2126
-  elo: 1312
+  elo: 1295
   frags: 1666
   games: 21
   kpd: 0.784
@@ -660,7 +660,7 @@
 - accuracy: 27%
   chainsaw: 50%
   deaths: 312
-  elo: 1311
+  elo: 1292
   frags: 222
   games: 3
   kpd: 0.712
@@ -674,7 +674,7 @@
 - accuracy: 29%
   chainsaw: 33%
   deaths: 167
-  elo: 1309
+  elo: 1284
   frags: 175
   games: 5
   kpd: 1.048
@@ -688,7 +688,7 @@
 - accuracy: 22%
   chainsaw: 03%
   deaths: 189
-  elo: 1302
+  elo: 1273
   frags: 115
   games: 2
   kpd: 0.608
@@ -702,7 +702,7 @@
 - accuracy: 20%
   chainsaw: 00%
   deaths: 235
-  elo: 1293
+  elo: 1271
   frags: 109
   games: 2
   kpd: 0.464
@@ -713,16 +713,44 @@
   suicides: 0
   win_rate: 0.0
   wins: 0
+- accuracy: 29%
+  chainsaw: 05%
+  deaths: 1684
+  elo: 1265
+  frags: 1243
+  games: 19
+  kpd: 0.738
+  losses: 15
+  name: Bertolt_Brecht
+  rank: 52
+  rifle: 29%
+  suicides: 1
+  win_rate: 0.211
+  wins: 4
+- accuracy: 29%
+  chainsaw: 09%
+  deaths: 440
+  elo: 1253
+  frags: 365
+  games: 5
+  kpd: 0.83
+  losses: 4
+  name: Ren4rd
+  rank: 53
+  rifle: 29%
+  suicides: 0
+  win_rate: 0.2
+  wins: 1
 - accuracy: 32%
   chainsaw: 00%
   deaths: 175
-  elo: 1289
+  elo: 1253
   frags: 161
   games: 2
   kpd: 0.92
   losses: 2
   name: KenhSix
-  rank: 52
+  rank: 54
   rifle: 32%
   suicides: 0
   win_rate: 0.0
@@ -730,77 +758,49 @@
 - accuracy: 26%
   chainsaw: 00%
   deaths: 189
-  elo: 1287
+  elo: 1252
   frags: 107
   games: 2
   kpd: 0.566
   losses: 2
   name: firefly
-  rank: 53
+  rank: 55
   rifle: 26%
   suicides: 0
   win_rate: 0.0
   wins: 0
-- accuracy: 29%
-  chainsaw: 09%
-  deaths: 440
-  elo: 1285
-  frags: 365
-  games: 5
-  kpd: 0.83
-  losses: 4
-  name: Ren4rd
-  rank: 54
-  rifle: 29%
-  suicides: 0
-  win_rate: 0.2
-  wins: 1
-- accuracy: 33%
-  chainsaw: 00%
-  deaths: 277
-  elo: 1282
-  frags: 247
-  games: 3
-  kpd: 0.892
-  losses: 2
-  name: maik
-  rank: 55
-  rifle: 33%
-  suicides: 0
-  win_rate: 0.333
-  wins: 1
-- accuracy: 29%
-  chainsaw: 05%
-  deaths: 1684
-  elo: 1281
-  frags: 1243
-  games: 19
-  kpd: 0.738
-  losses: 15
-  name: Bertolt_Brecht
-  rank: 56
-  rifle: 29%
-  suicides: 1
-  win_rate: 0.211
-  wins: 4
 - accuracy: 25%
   chainsaw: 00%
   deaths: 1181
-  elo: 1272
+  elo: 1250
   frags: 816
   games: 13
   kpd: 0.691
   losses: 11
   name: FixxxerSA
-  rank: 57
+  rank: 56
   rifle: 25%
   suicides: 0
   win_rate: 0.154
   wins: 2
+- accuracy: 33%
+  chainsaw: 00%
+  deaths: 277
+  elo: 1234
+  frags: 247
+  games: 3
+  kpd: 0.892
+  losses: 2
+  name: maik
+  rank: 57
+  rifle: 33%
+  suicides: 0
+  win_rate: 0.333
+  wins: 1
 - accuracy: 24%
   chainsaw: 00%
   deaths: 721
-  elo: 1260
+  elo: 1231
   frags: 341
   games: 7
   kpd: 0.473
@@ -814,7 +814,7 @@
 - accuracy: 22%
   chainsaw: 00%
   deaths: 391
-  elo: 1245
+  elo: 1215
   frags: 241
   games: 4
   kpd: 0.616
@@ -828,7 +828,7 @@
 - accuracy: 23%
   chainsaw: 10%
   deaths: 342
-  elo: 1244
+  elo: 1207
   frags: 214
   games: 3
   kpd: 0.626
@@ -842,7 +842,7 @@
 - accuracy: 29%
   chainsaw: 00%
   deaths: 180
-  elo: 1220
+  elo: 1170
   frags: 141
   games: 2
   kpd: 0.783
@@ -853,80 +853,80 @@
   suicides: 0
   win_rate: 0.0
   wins: 0
-- accuracy: 24%
-  chainsaw: 00%
-  deaths: 194
-  elo: 1209
-  frags: 106
-  games: 2
-  kpd: 0.546
-  losses: 2
-  name: MX_RootFroot
-  rank: 62
-  rifle: 24%
-  suicides: 0
-  win_rate: 0.0
-  wins: 0
-- accuracy: 22%
-  chainsaw: 00%
-  deaths: 147
-  elo: 1203
-  frags: 124
-  games: 2
-  kpd: 0.844
-  losses: 2
-  name: Mod
-  rank: 63
-  rifle: 23%
-  suicides: 1
-  win_rate: 0.0
-  wins: 0
 - accuracy: 27%
   chainsaw: 10%
   deaths: 1119
-  elo: 1193
+  elo: 1159
   frags: 822
   games: 11
   kpd: 0.735
   losses: 10
   name: NoobGuy
-  rank: 64
+  rank: 62
   rifle: 28%
   suicides: 1
   win_rate: 0.091
   wins: 1
-- accuracy: 30%
+- accuracy: 24%
   chainsaw: 00%
-  deaths: 427
-  elo: 1171
-  frags: 278
-  games: 4
-  kpd: 0.651
-  losses: 4
-  name: 4-Tune
-  rank: 65
-  rifle: 30%
+  deaths: 194
+  elo: 1146
+  frags: 106
+  games: 2
+  kpd: 0.546
+  losses: 2
+  name: MX_RootFroot
+  rank: 63
+  rifle: 24%
   suicides: 0
   win_rate: 0.0
   wins: 0
 - accuracy: 25%
   chainsaw: 02%
   deaths: 1198
-  elo: 1160
+  elo: 1134
   frags: 671
   games: 12
   kpd: 0.56
   losses: 12
   name: '1989'
-  rank: 66
+  rank: 64
   rifle: 26%
+  suicides: 0
+  win_rate: 0.0
+  wins: 0
+- accuracy: 22%
+  chainsaw: 00%
+  deaths: 147
+  elo: 1131
+  frags: 124
+  games: 2
+  kpd: 0.844
+  losses: 2
+  name: Mod
+  rank: 65
+  rifle: 23%
+  suicides: 1
+  win_rate: 0.0
+  wins: 0
+- accuracy: 30%
+  chainsaw: 00%
+  deaths: 427
+  elo: 1120
+  frags: 278
+  games: 4
+  kpd: 0.651
+  losses: 4
+  name: 4-Tune
+  rank: 66
+  rifle: 30%
   suicides: 0
   win_rate: 0.0
   wins: 0
 - accuracy: 25%
   chainsaw: 03%
   deaths: 926
-  elo: 1141
+  elo: 1101
   frags: 481
   games: 8
   kpd: 0.519
@@ -940,7 +940,7 @@
 - accuracy: 29%
   chainsaw: 05%
   deaths: 1194
-  elo: 1081
+  elo: 1033
   frags: 889
   games: 12
   kpd: 0.745
