@@ -13,7 +13,7 @@ You can sign up by creating a Challonge account and using the sign-up links belo
 
 ## Events
 
-{% assign events = site.events | sort: 'index' %}
+{% assign events = site.events | sort: 'date' %}
 {% for event in events %}
 {% if event.completed != true %}
 {% assign day = event.date | date: "%-d"  %}
@@ -23,6 +23,6 @@ You can sign up by creating a Challonge account and using the sign-up links belo
 {% when '3' or '23' %}{% assign ord = "rd" %}
 {% else %}{% assign ord = "th" %}
 {% endcase %}
-**{{ event.title }}:** <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=SauerDuels+%23{{ event.index }}%3A+{{ event.title | cgi_escape }}&iso={{ event.date | date: "%Y%m%dT%H%M" }}&p1=37&ah=3)" target="\_blank">{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: " %Y, %-I:%M %p (%Z)" }}</a> \| <a href="{{ event.signupurl }}" target="_blank">Sign Up</a> \| <a href="{{ event.bracketurl }}" target="_blank">Bracket</a>
+**{{ event.title }}:** <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg={{ event.prefix }}+%23{{ event.index }}%3A+{{ event.title | cgi_escape }}&iso={{ event.date | date: "%Y%m%dT%H%M" }}&p1=37&ah=3)" target="\_blank">{{ event.date | date: "%B %-d" }}{{ ord }}{{ event.date | date: " %Y, %-I:%M %p (%Z)" }}</a> \| <a href="{{ event.signupurl }}" target="_blank">Sign Up</a> \| <a href="{{ event.bracketurl }}" target="_blank">Bracket</a>
 {% endif %}
 {% endfor %}

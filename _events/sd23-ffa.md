@@ -1,5 +1,6 @@
 ---
 title: FFA 1v1
+prefix: SD
 index: 23
 date: "2018-11-18 18:00:00 +01:00"
 bracketurl: https://sauerduels.challonge.com/sd23ffa

@@ -8,37 +8,39 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% assign events = site.events | sort: 'index' | reverse %}
+    {% assign events = site.events | sort: 'date' | reverse %}
     {% if page.permalink != nil %}
       {% for event in events %}{% if event.completed == true %}
         {% assign pageIndex = event.index %}
+        {% assign pagePrefix = event.prefix %}
         {% break %}
       {% endif %}{% endfor %}
     {% else %}
       {% assign pageIndex = page.index %}
+      {% assign pagePrefix = page.prefix %}
     {% endif %}
     
     <ul id="menu">
       <li>
         <a href="#" class="active" onmouseover="scrollMenu()">
-          {% for event in events %}{% if event.index == pageIndex %}
-            SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}
+          {% for event in events %}{% if event.index == pageIndex and event.prefix == pagePrefix %}
+            {{ event.prefix }} #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}
             {% break %}
           {% endif %}{% endfor %}
           <span style="float: right;">&#9660;</span>
         </a>
         <ul id="scroll-this">
-          {% for event in events %}{% if event.completed == true %}{% if event.index != pageIndex %}
-            <li><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
-          {% endif %}{% if event.index == pageIndex %}
-            <li id="scroll-here"><a href="{{ event.url | relative_url }}">SD #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
+          {% for event in events %}{% if event.completed == true %}{% if event.index != pageIndex or event.prefix != pagePrefix%}
+            <li><a href="{{ event.url | relative_url }}">{{ event.prefix }} #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
+          {% else %}
+            <li id="scroll-here"><a href="{{ event.url | relative_url }}">{{ event.prefix }} #{{ event.index | prepend: '00' | slice: -2, 2 }}: {{ event.title }}</a></li>
           {% endif %}{% endif %}{% endfor %}
         </ul>
       </li>
     </ul>
     
     <ul class="tab-contents">
-      {% for event in events %}{% if event.index == pageIndex %}
+      {% for event in events %}{% if event.index == pageIndex and event.prefix == pagePrefix %}
         <div id="event-{{ event.index }}" class="tab-content active">
           {% include result.html %}
         </div>

@@ -1,5 +1,6 @@
 ---
 title: Effic 1v1
+prefix: SD
 index: 28
 date: "2019-07-14 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd28effic

@@ -1,5 +1,6 @@
 ---
 title: FFA 1v1
+prefix: SD
 index: 14
 date: '2018-04-22 18:00:00 +02:00'
 bracketurl: https://sauerduels.challonge.com/sd14ffa

@@ -1,5 +1,6 @@
 ---
 title: FFA 1v1
+prefix: SD
 index: 5
 date: '2017-12-03 18:00:00 +01:00'
 bracketurl: https://sauerduels.challonge.com/sd05ffa

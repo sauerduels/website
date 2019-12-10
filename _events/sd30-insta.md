@@ -1,5 +1,6 @@
 ---
 title: Insta 1v1
+prefix: SD
 index: 30
 date: "2019-08-18 18:00:00 +02:00"
 bracketurl: https://sauerduels.challonge.com/sd30insta
