@@ -97,7 +97,8 @@ module Jekyll
       "AriKani" => 'de',
       "Manu" => 'de',
       "firefly" => 'mm',
-      "Craft" => 'us' }
+      "Craft" => 'us',
+	  "Jahoo" => 'fr' }
     
     def add_flags(input)
       PLAYER_COUNTRIES.each {|key, value| input = input.gsub(key, "<span class=\"player\"><img class=\"flag\" src=\"https://sauerduels.org/images/#{value}.png\" /> #{key}</span>") }
