@@ -28,7 +28,7 @@ brackets:
       - result: Galaxy def. hamon
         slug: sd34_wb_galaxy_vs_hamon
       - result: Rexus def. Tay|Z
-        slug: sd34_wb_rexus_vs_tay|z
+        slug: sd34_wb_rexus_vs_tayz
       - result: 1989 def. M!lch-Mann
         slug: sd34_wb_1989_vs_m!lch-mann
       - result: hades def. Plata
@@ -56,13 +56,13 @@ brackets:
       - result: ZCrone def. hamon
         slug: sd34_lb_hamon_vs_zcrone
       - result: Tay|Z def. M!lch-Mann
-        slug: sd34_lb_m!lch-mann_vs_tay|z
+        slug: sd34_lb_m!lch-mann_vs_tayz
       - result: Plata def. Khornettoh
         slug: sd34_lb_khornettoh_vs_plata
     - - result: Plata def. Tamin0
         slug: sd34_lb_plata_vs_tamin0
       - result: Galaxy def. Tay|Z
-        slug: sd34_lb_galaxy_vs_tay|z
+        slug: sd34_lb_galaxy_vs_tayz
       - result: 1989 def. ZCrone
         slug: sd34_lb_1989_vs_zcrone
       - result: secrets def. Mod

@@ -19,7 +19,7 @@ finals:
 brackets:
   Winners:
     - - result: Tay|Z def. Daemes
-        slug: sd26_wb_daemes_vs_tay|z
+        slug: sd26_wb_daemes_vs_tayz
       - result: ZCrone def. raffael
         slug:
         disqualified: true
@@ -28,7 +28,7 @@ brackets:
       - result: Frosty def. Master
         slug: sd26_wb_frosty_vs_master
     - - result: Redon def. Tay|Z
-        slug: sd26_wb_redon_vs_tay|z
+        slug: sd26_wb_redon_vs_tayz
       - result: Honzik1 def. raffael
         slug:
         disqualified: true
@@ -45,7 +45,7 @@ brackets:
 
   Losers:
     - - result: Tay|Z def. Master
-        slug: sd26_lb_master_vs_tay|z
+        slug: sd26_lb_master_vs_tayz
       - result: FixxxerSA def. raffael
         slug:
         disqualified: true

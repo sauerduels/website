@@ -22,7 +22,7 @@ finals:
 brackets:
   Winners:
     - - result: h8 def. Tay|Z
-        slug: sd35_wb_h8_vs_tay|z
+        slug: sd35_wb_h8_vs_tayz
       - result: Rotti def. Bertolt_Brecht
         slug: sd35_wb_bertolt_brecht_vs_rotti
       - result: ZCrone def. Jahoo
@@ -47,13 +47,13 @@ brackets:
       - result: h8 def. Jahoo
         slug: sd35_lb_h8_vs_jahoo
       - result: Tay|Z def. ZCrone
-        slug: sd35_lb_tay|z_vs_zcrone
+        slug: sd35_lb_tayz_vs_zcrone
     - - result: h8 def. secrets
         slug: sd35_lb_h8_vs_secrets
       - result: Tay|Z def. Rotti
-        slug: sd35_lb_rotti_vs_tay|z
+        slug: sd35_lb_rotti_vs_tayz
     - - result: lagout def. Tay|Z
-        slug: sd35_lb_lagout_vs_tay|z
+        slug: sd35_lb_lagout_vs_tayz
       - result: h8 def. starch
         slug: sd35_lb_h8_vs_starch
     - - result: h8 def. lagout

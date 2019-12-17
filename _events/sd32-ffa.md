@@ -20,7 +20,7 @@ brackets:
     - - result: Bertolt_Brecht def. FixxxerSA
         slug: sd32_wb_bertolt_brecht_vs_fixxxersa
       - result: Tay|Z def. ZCrone
-        slug: sd32_wb_tay|z_vs_zcrone
+        slug: sd32_wb_tayz_vs_zcrone
     - - result: starch def. Plata
         slug: sd32_wb_plata_vs_starch
       - result: Galaxy def. raffael
@@ -29,7 +29,7 @@ brackets:
       - result: Redon def. Bertolt_Brecht
         slug: sd32_wb_bertolt_brecht_vs_redon
       - result: Lokio def. Tay|Z
-        slug: sd32_wb_lokio_vs_tay|z
+        slug: sd32_wb_lokio_vs_tayz
     - - result: Redon def. starch
         slug: sd32_wb_redon_vs_starch
       - result: Lokio def. raffael
@@ -47,7 +47,7 @@ brackets:
     - - result: Plata def. Bertolt_Brecht
         slug: sd32_lb_bertolt_brecht_vs_plata
       - result: Galaxy def. Tay|Z
-        slug: sd32_lb_galaxy_vs_tay|z
+        slug: sd32_lb_galaxy_vs_tayz
     - - result: starch def. Galaxy
         slug: sd32_lb_galaxy_vs_starch
       - result: Lokio def. Plata

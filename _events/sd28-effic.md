@@ -30,7 +30,7 @@ brackets:
     - - result: Redon def. Eleisa
         slug: sd28_wb_eleisa_vs_redon
       - result: Fear def. Tay|Z
-        slug: sd28_wb_fear_vs_tay|z
+        slug: sd28_wb_fear_vs_tayz
       - result: Lokio def. degrave
         slug: sd28_wb_degrave_vs_lokio
       - result: ZCrone def. raffael
@@ -66,7 +66,7 @@ brackets:
     - - result: FixxxerSA def. Eleisa
         slug: sd28_lb_eleisa_vs_fixxxersa
       - result: Tay|Z def. Zarah
-        slug: sd28_lb_tay|z_vs_zarah
+        slug: sd28_lb_tayz_vs_zarah
       - result: degrave def. kinnyi
         slug: sd28_lb_degrave_vs_kinnyi
       - result: Plata def. Bertolt_Brecht
@@ -80,7 +80,7 @@ brackets:
       - result: Galaxy def. Plata
         slug: sd28_lb_galaxy_vs_plata
       - result: Tamin0 def. Tay|Z
-        slug: sd28_lb_tamin0_vs_tay|z
+        slug: sd28_lb_tamin0_vs_tayz
     - - result: Redon def. Tamin0
         slug: sd28_lb_redon_vs_tamin0
       - result: notas def. degrave

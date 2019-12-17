@@ -23,7 +23,7 @@ brackets:
     - - result: Rotti def. degrave
         slug: sd29_wb_degrave_vs_rotti
       - result: Master def. Tay|Z
-        slug: sd29_wb_master_vs_tay|z
+        slug: sd29_wb_master_vs_tayz
       - result: Galaxy def. FixxxerSA
         slug: sd29_wb_fixxxersa_vs_galaxy
     - - result: Gangler def. Bertolt_Brecht
@@ -52,7 +52,7 @@ brackets:
 
   Losers:
     - - result: Tay|Z def. FixxxerSA
-        slug: sd29_lb_fixxxersa_vs_tay|z
+        slug: sd29_lb_fixxxersa_vs_tayz
       - result: Tamin0 def. Bear's
         slug: sd29_lb_bear's_vs_tamin0
     - - result: Rotti def. Tamin0
@@ -60,7 +60,7 @@ brackets:
       - result: Galaxy def. Bertolt_Brecht
         slug: sd29_lb_bertolt_brecht_vs_galaxy
       - result: Gangler def. Tay|Z
-        slug: sd29_lb_gangler_vs_tay|z
+        slug: sd29_lb_gangler_vs_tayz
       - result: h8 def. degrave
         slug: sd29_lb_degrave_vs_h8
     - - result: h8 def. Gangler
