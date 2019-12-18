@@ -111,7 +111,7 @@
   rank: 16
   win_rate: 0.474
   wins: 9
-- elo: 1421
+- elo: 1419
   games: 15
   losses: 8
   name: secrets
@@ -231,47 +231,47 @@
   win_rate: 0.357
   wins: 15
 - elo: 1236
-  games: 30
-  losses: 20
-  name: Khornettoh
-  rank: 34
-  win_rate: 0.333
-  wins: 10
-- elo: 1236
   games: 20
   losses: 15
   name: '1989'
-  rank: 35
+  rank: 34
   win_rate: 0.25
   wins: 5
 - elo: 1233
   games: 47
   losses: 37
   name: Bertolt_Brecht
-  rank: 36
+  rank: 35
   win_rate: 0.213
   wins: 10
 - elo: 1226
   games: 9
   losses: 3
   name: Alli
-  rank: 37
+  rank: 36
   win_rate: 0.667
   wins: 6
 - elo: 1226
   games: 19
   losses: 11
   name: Tay|Z
-  rank: 38
+  rank: 37
   win_rate: 0.421
   wins: 8
 - elo: 1225
   games: 77
   losses: 60
   name: ZCrone
-  rank: 39
+  rank: 38
   win_rate: 0.221
   wins: 17
+- elo: 1223
+  games: 32
+  losses: 22
+  name: Khornettoh
+  rank: 39
+  win_rate: 0.312
+  wins: 10
 - elo: 1219
   games: 24
   losses: 9
@@ -559,123 +559,116 @@
   rank: 80
   win_rate: 0.0
   wins: 0
-- elo: 1065
-  games: 2
-  losses: 2
-  name: Mantra
-  rank: 81
-  win_rate: 0.0
-  wins: 0
 - elo: 1057
   games: 2
   losses: 2
   name: daux
-  rank: 82
+  rank: 81
   win_rate: 0.0
   wins: 0
 - elo: 1053
   games: 11
   losses: 10
   name: NoobGuy
-  rank: 83
+  rank: 82
   win_rate: 0.091
   wins: 1
 - elo: 1049
   games: 2
   losses: 2
   name: MX_RootFroot
-  rank: 84
+  rank: 83
   win_rate: 0.0
   wins: 0
 - elo: 1045
   games: 11
   losses: 11
   name: Friteq
-  rank: 85
+  rank: 84
   win_rate: 0.0
   wins: 0
 - elo: 1044
   games: 18
   losses: 18
   name: kinnyi
-  rank: 86
+  rank: 85
   win_rate: 0.0
   wins: 0
 - elo: 1043
   games: 2
   losses: 2
   name: Apikk
-  rank: 87
+  rank: 86
   win_rate: 0.0
   wins: 0
 - elo: 1040
   games: 4
   losses: 4
   name: 4-Tune
-  rank: 88
+  rank: 87
   win_rate: 0.0
   wins: 0
 - elo: 1035
   games: 2
   losses: 2
   name: MintyCMS
-  rank: 89
+  rank: 88
   win_rate: 0.0
   wins: 0
 - elo: 1035
   games: 7
   losses: 7
   name: Atheroz
-  rank: 90
+  rank: 89
   win_rate: 0.0
   wins: 0
 - elo: 1034
   games: 8
   losses: 8
   name: fishcakes
-  rank: 91
+  rank: 90
   win_rate: 0.0
   wins: 0
 - elo: 1030
   games: 2
   losses: 2
   name: pix
-  rank: 92
+  rank: 91
   win_rate: 0.0
   wins: 0
 - elo: 1020
   games: 7
   losses: 7
   name: greenadiss
-  rank: 93
+  rank: 92
   win_rate: 0.0
   wins: 0
 - elo: 1014
   games: 2
   losses: 2
   name: Craft
-  rank: 94
+  rank: 93
   win_rate: 0.0
   wins: 0
 - elo: 1001
   games: 2
   losses: 2
   name: Jahoo
-  rank: 95
+  rank: 94
   win_rate: 0.0
   wins: 0
 - elo: 980
   games: 2
   losses: 2
   name: DarkWolf
-  rank: 96
+  rank: 95
   win_rate: 0.0
   wins: 0
 - elo: 979
   games: 2
   losses: 2
   name: Bear's
-  rank: 97
+  rank: 96
   win_rate: 0.0
   wins: 0
 ---

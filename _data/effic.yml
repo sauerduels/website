@@ -273,7 +273,7 @@
   chaingun: 20%
   chainsaw: 00%
   deaths: 642
-  elo: 1624
+  elo: 1618
   frags: 650
   games: 10
   grenade_launcher: 10%
@@ -471,7 +471,7 @@
   chaingun: 25%
   chainsaw: 00%
   deaths: 754
-  elo: 1494
+  elo: 1493
   frags: 735
   games: 11
   grenade_launcher: 07%
@@ -593,24 +593,6 @@
   suicides: 8
   win_rate: 0.364
   wins: 4
-- accuracy: 21%
-  chaingun: 18%
-  chainsaw: 00%
-  deaths: 1586
-  elo: 1376
-  frags: 1392
-  games: 26
-  grenade_launcher: 13%
-  kpd: 0.878
-  losses: 17
-  name: Khornettoh
-  rank: 34
-  rifle: 34%
-  rocket_launcher: 24%
-  shotgun: 18%
-  suicides: 46
-  win_rate: 0.346
-  wins: 9
 - accuracy: 22%
   chaingun: 18%
   chainsaw: 00%
@@ -622,13 +604,31 @@
   kpd: 0.834
   losses: 11
   name: Ren4rd
-  rank: 35
+  rank: 34
   rifle: 33%
   rocket_launcher: 24%
   shotgun: 21%
   suicides: 20
   win_rate: 0.353
   wins: 6
+- accuracy: 21%
+  chaingun: 18%
+  chainsaw: 00%
+  deaths: 1728
+  elo: 1336
+  frags: 1490
+  games: 28
+  grenade_launcher: 13%
+  kpd: 0.862
+  losses: 19
+  name: Khornettoh
+  rank: 35
+  rifle: 33%
+  rocket_launcher: 23%
+  shotgun: 18%
+  suicides: 46
+  win_rate: 0.321
+  wins: 9
 - accuracy: 20%
   chaingun: 17%
   chainsaw: 00%
@@ -827,24 +827,6 @@
   suicides: 1
   win_rate: 0.0
   wins: 0
-- accuracy: 17%
-  chaingun: 16%
-  chainsaw: 00%
-  deaths: 142
-  elo: 1194
-  frags: 98
-  games: 2
-  grenade_launcher: 11%
-  kpd: 0.69
-  losses: 2
-  name: Mantra
-  rank: 47
-  rifle: 29%
-  rocket_launcher: 16%
-  shotgun: 14%
-  suicides: 0
-  win_rate: 0.0
-  wins: 0
 - accuracy: 18%
   chaingun: 14%
   chainsaw: 00%
@@ -856,7 +838,7 @@
   kpd: 0.508
   losses: 2
   name: Kotzikacki
-  rank: 48
+  rank: 47
   rifle: 24%
   rocket_launcher: 18%
   shotgun: 10%
@@ -874,7 +856,7 @@
   kpd: 0.742
   losses: 13
   name: Bertolt_Brecht
-  rank: 49
+  rank: 48
   rifle: 31%
   rocket_launcher: 29%
   shotgun: 18%
@@ -892,7 +874,7 @@
   kpd: 0.71
   losses: 8
   name: FixxxerSA
-  rank: 50
+  rank: 49
   rifle: 25%
   rocket_launcher: 26%
   shotgun: 15%
@@ -910,7 +892,7 @@
   kpd: 0.724
   losses: 2
   name: Eleisa
-  rank: 51
+  rank: 50
   rifle: 26%
   rocket_launcher: 26%
   shotgun: 14%
@@ -928,7 +910,7 @@
   kpd: 0.889
   losses: 2
   name: Krakovic
-  rank: 52
+  rank: 51
   rifle: 52%
   rocket_launcher: 24%
   shotgun: 21%
@@ -946,7 +928,7 @@
   kpd: 0.399
   losses: 6
   name: Josh22
-  rank: 53
+  rank: 52
   rifle: 24%
   rocket_launcher: 19%
   shotgun: 14%
@@ -964,7 +946,7 @@
   kpd: 0.766
   losses: 2
   name: Liugam
-  rank: 54
+  rank: 53
   rifle: 34%
   rocket_launcher: 19%
   shotgun: 24%
@@ -982,7 +964,7 @@
   kpd: 0.822
   losses: 3
   name: Master
-  rank: 55
+  rank: 54
   rifle: 22%
   rocket_launcher: 19%
   shotgun: 27%
@@ -1000,7 +982,7 @@
   kpd: 0.872
   losses: 11
   name: Friteq
-  rank: 56
+  rank: 55
   rifle: 30%
   rocket_launcher: 22%
   shotgun: 16%
@@ -1018,7 +1000,7 @@
   kpd: 0.304
   losses: 2
   name: Apikk
-  rank: 57
+  rank: 56
   rifle: 18%
   rocket_launcher: 19%
   shotgun: 08%
@@ -1036,7 +1018,7 @@
   kpd: 0.586
   losses: 16
   name: Mod
-  rank: 58
+  rank: 57
   rifle: 22%
   rocket_launcher: 24%
   shotgun: 13%
@@ -1054,7 +1036,7 @@
   kpd: 0.317
   losses: 2
   name: MintyCMS
-  rank: 59
+  rank: 58
   rifle: 00%
   rocket_launcher: 25%
   shotgun: 00%
@@ -1072,7 +1054,7 @@
   kpd: 0.651
   losses: 7
   name: Atheroz
-  rank: 60
+  rank: 59
   rifle: 22%
   rocket_launcher: 20%
   shotgun: 16%
@@ -1090,7 +1072,7 @@
   kpd: 0.608
   losses: 6
   name: kinnyi
-  rank: 61
+  rank: 60
   rifle: 29%
   rocket_launcher: 24%
   shotgun: 21%
@@ -1108,7 +1090,7 @@
   kpd: 0.66
   losses: 2
   name: pix
-  rank: 62
+  rank: 61
   rifle: 16%
   rocket_launcher: 17%
   shotgun: 11%
@@ -1126,7 +1108,7 @@
   kpd: 0.641
   losses: 7
   name: greenadiss
-  rank: 63
+  rank: 62
   rifle: 23%
   rocket_launcher: 25%
   shotgun: 19%
@@ -1144,7 +1126,7 @@
   kpd: 0.674
   losses: 2
   name: Craft
-  rank: 64
+  rank: 63
   rifle: 24%
   rocket_launcher: 23%
   shotgun: 14%
@@ -1162,7 +1144,7 @@
   kpd: 0.746
   losses: 4
   name: Zarah
-  rank: 65
+  rank: 64
   rifle: 34%
   rocket_launcher: 23%
   shotgun: 14%
@@ -1180,7 +1162,7 @@
   kpd: 0.471
   losses: 2
   name: DarkWolf
-  rank: 66
+  rank: 65
   rifle: 18%
   rocket_launcher: 15%
   shotgun: 04%
@@ -1198,7 +1180,7 @@
   kpd: 0.837
   losses: 2
   name: Fatality
-  rank: 67
+  rank: 66
   rifle: 35%
   rocket_launcher: 30%
   shotgun: 18%
