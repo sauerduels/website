@@ -1,11 +1,11 @@
 ---
-- elo: 1859
-  games: 86
-  losses: 14
+- elo: 1835
+  games: 89
+  losses: 16
   name: starch
   rank: 1
-  win_rate: 0.837
-  wins: 72
+  win_rate: 0.82
+  wins: 73
 - elo: 1777
   games: 70
   losses: 22
@@ -13,13 +13,13 @@
   rank: 2
   win_rate: 0.686
   wins: 48
-- elo: 1756
-  games: 95
-  losses: 22
+- elo: 1749
+  games: 102
+  losses: 24
   name: Redon
   rank: 3
-  win_rate: 0.768
-  wins: 73
+  win_rate: 0.765
+  wins: 78
 - elo: 1732
   games: 88
   losses: 33
@@ -27,20 +27,20 @@
   rank: 4
   win_rate: 0.625
   wins: 55
+- elo: 1727
+  games: 103
+  losses: 34
+  name: Lokio
+  rank: 5
+  win_rate: 0.67
+  wins: 69
 - elo: 1724
   games: 68
   losses: 15
   name: Gangler
-  rank: 5
+  rank: 6
   win_rate: 0.779
   wins: 53
-- elo: 1715
-  games: 97
-  losses: 32
-  name: Lokio
-  rank: 6
-  win_rate: 0.67
-  wins: 65
 - elo: 1713
   games: 103
   losses: 37
@@ -55,55 +55,55 @@
   rank: 8
   win_rate: 0.725
   wins: 37
+- elo: 1612
+  games: 53
+  losses: 18
+  name: lagout
+  rank: 9
+  win_rate: 0.66
+  wins: 35
 - elo: 1591
   games: 38
   losses: 15
   name: Galaxy
-  rank: 9
+  rank: 10
   win_rate: 0.605
   wins: 23
 - elo: 1545
   games: 66
   losses: 18
   name: Rexus
-  rank: 10
+  rank: 11
   win_rate: 0.727
   wins: 48
 - elo: 1524
   games: 70
   losses: 20
   name: hades
-  rank: 11
+  rank: 12
   win_rate: 0.714
   wins: 50
 - elo: 1493
   games: 30
   losses: 16
   name: DarkFire
-  rank: 12
+  rank: 13
   win_rate: 0.467
   wins: 14
 - elo: 1491
   games: 24
   losses: 12
   name: Plata
-  rank: 13
+  rank: 14
   win_rate: 0.5
   wins: 12
 - elo: 1479
   games: 31
   losses: 14
   name: Alluro
-  rank: 14
+  rank: 15
   win_rate: 0.548
   wins: 17
-- elo: 1449
-  games: 49
-  losses: 16
-  name: lagout
-  rank: 15
-  win_rate: 0.673
-  wins: 33
 - elo: 1435
   games: 19
   losses: 10
@@ -111,62 +111,62 @@
   rank: 16
   win_rate: 0.474
   wins: 9
+- elo: 1421
+  games: 15
+  losses: 8
+  name: secrets
+  rank: 17
+  win_rate: 0.467
+  wins: 7
 - elo: 1416
   games: 44
   losses: 16
   name: Satoshi
-  rank: 17
+  rank: 18
   win_rate: 0.636
   wins: 28
 - elo: 1378
   games: 20
   losses: 1
   name: Achille
-  rank: 18
+  rank: 19
   win_rate: 0.95
   wins: 19
 - elo: 1372
   games: 13
   losses: 6
   name: TheLove
-  rank: 19
+  rank: 20
   win_rate: 0.538
   wins: 7
 - elo: 1347
   games: 56
   losses: 40
   name: Toph
-  rank: 20
+  rank: 21
   win_rate: 0.286
   wins: 16
 - elo: 1331
   games: 10
   losses: 6
   name: skimmet
-  rank: 21
+  rank: 22
   win_rate: 0.4
   wins: 4
 - elo: 1327
   games: 34
   losses: 16
   name: Fear
-  rank: 22
+  rank: 23
   win_rate: 0.529
   wins: 18
 - elo: 1326
   games: 9
   losses: 5
   name: swatllama
-  rank: 23
+  rank: 24
   win_rate: 0.444
   wins: 4
-- elo: 1310
-  games: 12
-  losses: 6
-  name: secrets
-  rank: 24
-  win_rate: 0.5
-  wins: 6
 - elo: 1307
   games: 6
   losses: 3
@@ -202,34 +202,34 @@
   rank: 29
   win_rate: 0.3
   wins: 3
-- elo: 1270
-  games: 26
-  losses: 16
-  name: Rotti
-  rank: 30
-  win_rate: 0.385
-  wins: 10
 - elo: 1266
   games: 11
   losses: 7
   name: degrave
-  rank: 31
+  rank: 30
   win_rate: 0.364
   wins: 4
 - elo: 1264
   games: 9
   losses: 5
   name: KenhSix
-  rank: 32
+  rank: 31
   win_rate: 0.444
   wins: 4
-- elo: 1253
-  games: 45
-  losses: 35
-  name: Bertolt_Brecht
+- elo: 1263
+  games: 29
+  losses: 18
+  name: Rotti
+  rank: 32
+  win_rate: 0.379
+  wins: 11
+- elo: 1261
+  games: 42
+  losses: 27
+  name: h8
   rank: 33
-  win_rate: 0.222
-  wins: 10
+  win_rate: 0.357
+  wins: 15
 - elo: 1236
   games: 30
   losses: 20
@@ -244,48 +244,48 @@
   rank: 35
   win_rate: 0.25
   wins: 5
+- elo: 1233
+  games: 47
+  losses: 37
+  name: Bertolt_Brecht
+  rank: 36
+  win_rate: 0.213
+  wins: 10
 - elo: 1226
   games: 9
   losses: 3
   name: Alli
-  rank: 36
+  rank: 37
   win_rate: 0.667
   wins: 6
-- elo: 1225
-  games: 15
-  losses: 9
+- elo: 1226
+  games: 19
+  losses: 11
   name: Tay|Z
-  rank: 37
-  win_rate: 0.4
-  wins: 6
-- elo: 1224
-  games: 35
-  losses: 25
-  name: h8
   rank: 38
-  win_rate: 0.286
-  wins: 10
+  win_rate: 0.421
+  wins: 8
+- elo: 1225
+  games: 77
+  losses: 60
+  name: ZCrone
+  rank: 39
+  win_rate: 0.221
+  wins: 17
 - elo: 1219
   games: 24
   losses: 9
   name: fatmonkeygenius
-  rank: 39
+  rank: 40
   win_rate: 0.625
   wins: 15
 - elo: 1214
   games: 5
   losses: 2
   name: Doko
-  rank: 40
+  rank: 41
   win_rate: 0.6
   wins: 3
-- elo: 1211
-  games: 74
-  losses: 58
-  name: ZCrone
-  rank: 41
-  win_rate: 0.216
-  wins: 16
 - elo: 1207
   games: 22
   losses: 15
@@ -657,18 +657,25 @@
   rank: 94
   win_rate: 0.0
   wins: 0
+- elo: 1001
+  games: 2
+  losses: 2
+  name: Jahoo
+  rank: 95
+  win_rate: 0.0
+  wins: 0
 - elo: 980
   games: 2
   losses: 2
   name: DarkWolf
-  rank: 95
+  rank: 96
   win_rate: 0.0
   wins: 0
 - elo: 979
   games: 2
   losses: 2
   name: Bear's
-  rank: 96
+  rank: 97
   win_rate: 0.0
   wins: 0
 ---

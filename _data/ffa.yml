@@ -1,23 +1,23 @@
 ---
 - accuracy: 26%
-  chaingun: 24%
-  chainsaw: 18%
-  deaths: 1463
-  elo: 1966
-  frags: 2555
-  games: 64
+  chaingun: 23%
+  chainsaw: 23%
+  deaths: 1634
+  elo: 1944
+  frags: 2771
+  games: 71
   grenade_launcher: 16%
-  kpd: 1.746
-  losses: 8
+  kpd: 1.696
+  losses: 10
   name: Redon
-  pistol: 40%
+  pistol: 39%
   rank: 1
-  rifle: 38%
+  rifle: 37%
   rocket_launcher: 31%
   shotgun: 31%
-  suicides: 71
-  win_rate: 0.875
-  wins: 56
+  suicides: 81
+  win_rate: 0.859
+  wins: 61
 - accuracy: 26%
   chaingun: 21%
   chainsaw: 18%
@@ -40,22 +40,22 @@
 - accuracy: 25%
   chaingun: 23%
   chainsaw: 17%
-  deaths: 1103
-  elo: 1738
-  frags: 1508
-  games: 46
+  deaths: 1257
+  elo: 1775
+  frags: 1685
+  games: 52
   grenade_launcher: 22%
-  kpd: 1.367
-  losses: 15
+  kpd: 1.34
+  losses: 17
   name: Lokio
   pistol: 36%
   rank: 3
   rifle: 34%
-  rocket_launcher: 31%
-  shotgun: 29%
-  suicides: 50
-  win_rate: 0.674
-  wins: 31
+  rocket_launcher: 30%
+  shotgun: 30%
+  suicides: 56
+  win_rate: 0.673
+  wins: 35
 - accuracy: 24%
   chaingun: 22%
   chainsaw: 10%
@@ -113,25 +113,6 @@
   suicides: 50
   win_rate: 0.512
   wins: 21
-- accuracy: 25%
-  chaingun: 23%
-  chainsaw: 00%
-  deaths: 160
-  elo: 1522
-  frags: 261
-  games: 11
-  grenade_launcher: 18%
-  kpd: 1.631
-  losses: 6
-  name: starch
-  pistol: 32%
-  rank: 7
-  rifle: 37%
-  rocket_launcher: 30%
-  shotgun: 26%
-  suicides: 5
-  win_rate: 0.455
-  wins: 5
 - accuracy: 22%
   chaingun: 21%
   chainsaw: 10%
@@ -144,13 +125,51 @@
   losses: 2
   name: Galaxy
   pistol: 35%
-  rank: 8
+  rank: 7
   rifle: 31%
   rocket_launcher: 29%
   shotgun: 23%
   suicides: 64
   win_rate: 0.714
   wins: 5
+- accuracy: 23%
+  chaingun: 19%
+  chainsaw: 00%
+  deaths: 1138
+  elo: 1498
+  frags: 802
+  games: 37
+  grenade_launcher: 18%
+  kpd: 0.705
+  losses: 23
+  name: h8
+  pistol: 30%
+  rank: 8
+  rifle: 33%
+  rocket_launcher: 30%
+  shotgun: 29%
+  suicides: 57
+  win_rate: 0.378
+  wins: 14
+- accuracy: 26%
+  chaingun: 28%
+  chainsaw: 00%
+  deaths: 125
+  elo: 1486
+  frags: 96
+  games: 4
+  grenade_launcher: 11%
+  kpd: 0.768
+  losses: 2
+  name: lagout
+  pistol: 38%
+  rank: 9
+  rifle: 47%
+  rocket_launcher: 23%
+  shotgun: 22%
+  suicides: 3
+  win_rate: 0.5
+  wins: 2
 - accuracy: 25%
   chaingun: 25%
   chainsaw: 00%
@@ -163,7 +182,7 @@
   losses: 2
   name: Krakovic
   pistol: 24%
-  rank: 9
+  rank: 10
   rifle: 31%
   rocket_launcher: 27%
   shotgun: 26%
@@ -182,7 +201,7 @@
   losses: 1
   name: Skillz
   pistol: 23%
-  rank: 10
+  rank: 11
   rifle: 35%
   rocket_launcher: 44%
   shotgun: 36%
@@ -201,7 +220,7 @@
   losses: 2
   name: benzomatic
   pistol: 37%
-  rank: 11
+  rank: 12
   rifle: 30%
   rocket_launcher: 31%
   shotgun: 25%
@@ -220,13 +239,32 @@
   losses: 2
   name: Gangler
   pistol: 42%
-  rank: 12
+  rank: 13
   rifle: 42%
   rocket_launcher: 27%
   shotgun: 28%
   suicides: 2
   win_rate: 0.5
   wins: 2
+- accuracy: 25%
+  chaingun: 24%
+  chainsaw: 00%
+  deaths: 217
+  elo: 1449
+  frags: 349
+  games: 14
+  grenade_launcher: 15%
+  kpd: 1.608
+  losses: 8
+  name: starch
+  pistol: 34%
+  rank: 14
+  rifle: 34%
+  rocket_launcher: 31%
+  shotgun: 25%
+  suicides: 5
+  win_rate: 0.429
+  wins: 6
 - accuracy: 22%
   chaingun: 22%
   chainsaw: 00%
@@ -239,32 +277,13 @@
   losses: 3
   name: DarkFire
   pistol: 22%
-  rank: 13
+  rank: 15
   rifle: 33%
   rocket_launcher: 19%
   shotgun: 32%
   suicides: 2
   win_rate: 0.4
   wins: 2
-- accuracy: 20%
-  chaingun: 18%
-  chainsaw: 00%
-  deaths: 591
-  elo: 1423
-  frags: 439
-  games: 19
-  grenade_launcher: 16%
-  kpd: 0.743
-  losses: 11
-  name: Rotti
-  pistol: 23%
-  rank: 14
-  rifle: 25%
-  rocket_launcher: 25%
-  shotgun: 23%
-  suicides: 23
-  win_rate: 0.421
-  wins: 8
 - accuracy: 28%
   chaingun: 25%
   chainsaw: 00%
@@ -277,70 +296,70 @@
   losses: 2
   name: Plata
   pistol: 40%
-  rank: 15
+  rank: 16
   rifle: 39%
   rocket_launcher: 33%
   shotgun: 30%
   suicides: 4
   win_rate: 0.5
   wins: 2
-- accuracy: 24%
-  chaingun: 19%
+- accuracy: 20%
+  chaingun: 18%
   chainsaw: 00%
-  deaths: 987
-  elo: 1389
-  frags: 585
-  games: 30
-  grenade_launcher: 20%
-  kpd: 0.593
-  losses: 21
-  name: h8
-  pistol: 30%
-  rank: 16
-  rifle: 34%
-  rocket_launcher: 31%
-  shotgun: 30%
-  suicides: 48
-  win_rate: 0.3
+  deaths: 666
+  elo: 1404
+  frags: 519
+  games: 22
+  grenade_launcher: 15%
+  kpd: 0.779
+  losses: 13
+  name: Rotti
+  pistol: 23%
+  rank: 17
+  rifle: 28%
+  rocket_launcher: 25%
+  shotgun: 23%
+  suicides: 23
+  win_rate: 0.409
   wins: 9
 - accuracy: 22%
   chaingun: 19%
   chainsaw: 00%
-  deaths: 211
-  elo: 1350
-  frags: 216
-  games: 9
+  deaths: 330
+  elo: 1354
+  frags: 327
+  games: 13
   grenade_launcher: 17%
-  kpd: 1.024
-  losses: 5
-  name: Tay|Z
-  pistol: 27%
-  rank: 17
-  rifle: 21%
-  rocket_launcher: 32%
-  shotgun: 21%
-  suicides: 2
-  win_rate: 0.444
-  wins: 4
-- accuracy: 18%
-  chaingun: 16%
-  chainsaw: 00%
-  deaths: 375
-  elo: 1318
-  frags: 153
-  games: 10
-  grenade_launcher: 11%
-  kpd: 0.408
+  kpd: 0.991
   losses: 7
-  name: Bertolt_Brecht
-  pistol: 28%
+  name: Tay|Z
+  pistol: 34%
   rank: 18
   rifle: 27%
-  rocket_launcher: 24%
-  shotgun: 19%
-  suicides: 6
-  win_rate: 0.3
-  wins: 3
+  rocket_launcher: 30%
+  shotgun: 22%
+  suicides: 5
+  win_rate: 0.462
+  wins: 6
+- accuracy: 29%
+  chaingun: 25%
+  chainsaw: 00%
+  deaths: 102
+  elo: 1333
+  frags: 87
+  games: 3
+  grenade_launcher: 12%
+  kpd: 0.853
+  losses: 2
+  name: secrets
+  pistol: 37%
+  rank: 19
+  rifle: 37%
+  rocket_launcher: 34%
+  shotgun: 36%
+  suicides: 4
+  win_rate: 0.333
+  wins: 1
 - accuracy: 26%
   chaingun: 25%
   chainsaw: 00%
@@ -353,7 +372,7 @@
   losses: 4
   name: Alluro
   pistol: 30%
-  rank: 19
+  rank: 20
   rifle: 30%
   rocket_launcher: 29%
   shotgun: 27%
@@ -372,7 +391,7 @@
   losses: 6
   name: Master
   pistol: 23%
-  rank: 20
+  rank: 21
   rifle: 18%
   rocket_launcher: 19%
   shotgun: 26%
@@ -391,7 +410,7 @@
   losses: 4
   name: Partizan
   pistol: 40%
-  rank: 21
+  rank: 22
   rifle: 32%
   rocket_launcher: 42%
   shotgun: 33%
@@ -410,7 +429,7 @@
   losses: 2
   name: Daemes
   pistol: 07%
-  rank: 22
+  rank: 23
   rifle: 20%
   rocket_launcher: 25%
   shotgun: 09%
@@ -429,13 +448,32 @@
   losses: 5
   name: degrave
   pistol: 24%
-  rank: 23
+  rank: 24
   rifle: 33%
   rocket_launcher: 27%
   shotgun: 18%
   suicides: 20
   win_rate: 0.286
   wins: 2
+- accuracy: 18%
+  chaingun: 15%
+  chainsaw: 00%
+  deaths: 471
+  elo: 1256
+  frags: 186
+  games: 12
+  grenade_launcher: 11%
+  kpd: 0.395
+  losses: 9
+  name: Bertolt_Brecht
+  pistol: 28%
+  rank: 25
+  rifle: 28%
+  rocket_launcher: 23%
+  shotgun: 18%
+  suicides: 6
+  win_rate: 0.25
+  wins: 3
 - accuracy: 21%
   chaingun: 18%
   chainsaw: 00%
@@ -448,7 +486,7 @@
   losses: 6
   name: __FRY__
   pistol: 21%
-  rank: 24
+  rank: 26
   rifle: 27%
   rocket_launcher: 23%
   shotgun: 23%
@@ -467,7 +505,7 @@
   losses: 19
   name: Toph
   pistol: 35%
-  rank: 25
+  rank: 27
   rifle: 33%
   rocket_launcher: 30%
   shotgun: 24%
@@ -486,7 +524,7 @@
   losses: 3
   name: Tamin0
   pistol: 16%
-  rank: 26
+  rank: 28
   rifle: 23%
   rocket_launcher: 32%
   shotgun: 25%
@@ -505,7 +543,7 @@
   losses: 9
   name: Zarah
   pistol: 25%
-  rank: 27
+  rank: 29
   rifle: 20%
   rocket_launcher: 24%
   shotgun: 15%
@@ -524,7 +562,7 @@
   losses: 5
   name: FixxxerSA
   pistol: 18%
-  rank: 28
+  rank: 30
   rifle: 21%
   rocket_launcher: 30%
   shotgun: 10%
@@ -534,20 +572,39 @@
 - accuracy: 24%
   chaingun: 22%
   chainsaw: 00%
-  deaths: 492
-  elo: 1016
-  frags: 113
-  games: 12
-  grenade_launcher: 17%
-  kpd: 0.23
-  losses: 12
+  deaths: 596
+  elo: 1057
+  frags: 184
+  games: 15
+  grenade_launcher: 15%
+  kpd: 0.309
+  losses: 14
   name: ZCrone
-  pistol: 30%
-  rank: 29
+  pistol: 34%
+  rank: 31
   rifle: 37%
   rocket_launcher: 28%
   shotgun: 25%
   suicides: 12
+  win_rate: 0.067
+  wins: 1
+- accuracy: 23%
+  chaingun: 19%
+  chainsaw: 00%
+  deaths: 108
+  elo: 1002
+  frags: 14
+  games: 2
+  grenade_launcher: 23%
+  kpd: 0.13
+  losses: 2
+  name: Jahoo
+  pistol: 22%
+  rank: 32
+  rifle: 24%
+  rocket_launcher: 30%
+  shotgun: 21%
+  suicides: 1
   win_rate: 0.0
   wins: 0
 - accuracy: 26%
@@ -562,7 +619,7 @@
   losses: 2
   name: Bear's
   pistol: 35%
-  rank: 30
+  rank: 33
   rifle: 41%
   rocket_launcher: 30%
   shotgun: 27%
