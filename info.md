@@ -46,47 +46,6 @@ Five maps will be randomly selected from the pool, each player will veto two map
   </tbody>
 </table>
 
-## CTF
-Double elimination bracket seeded by ELO. All matches are a best of 3.
-<br>
-<br>
-Five maps will be randomly selected from the pool, each player will veto two maps, and the map remaining will be played. The weaker seeded player will always vetoes first. For the finals, each player will pick one map. If necessary, the player that went undefeated in the bracket will get the final pick.
-
-<table style="text-align: center; border-top: solid 5px #4a4a4a;">
-  <tbody>
-    <tr>
-      <th>eCTF</th>
-      <td>abbey</td>
-      <td>catch22</td>
-      <td>forge</td>
-      <td>haste</td>
-      <td>redemption</td>
-      <td>reissen</td>
-      <td>twinforts</td>
-    </tr>
-    <tr>
-      <th>CTF</th>
-      <td>damnation</td>
-      <td>forge</td>
-      <td>mercury</td>
-      <td>redemption</td>
-      <td>reissen</td>
-      <td>siberia</td>
-      <td>turbulence</td>
-    </tr>
-    <tr>
-      <th>iCTF</th>
-      <td>abbey</td>
-      <td>arbana</td>
-      <td>forge</td>
-      <td>haste</td>
-      <td>redemption</td>
-      <td>reissen</td>
-      <td>twinforts</td>
-    </tr>
-  </tbody>
-</table>
-
 ## Cheating
 
 There will not be an anti-cheat client that is required to play. However, we do have server side anti-cheat detection which can still detect certain methods of cheating. Players with a cheating history will not be allowed to play. If you are unsure if a certain modification is considered cheating, please ask Frosty in discord.
